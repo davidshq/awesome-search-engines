@@ -44,6 +44,9 @@
 | [Whaleslide](https://whaleslide.com/) \(UK) | [\#6904601](https://www.similarweb.com/website/whaleslide.com/) | 08/2022 | [^whaleslide] |
 
 
+## Dead, Dying, or Broken
+- [DiscreteSearch](https://www.discretesearch.com) - As of 2/2023 the SSL cert is invalid and only sponsored results are appearing for at least some queries.
+
 ## The Rest
 
 None of the below sites are within the top 130k sites according to Alexa \(12/2019\). We may move Searx \(open source\) onto our list of contenders after further evaluation. Most of the other sites are privacy oriented sites that don't show significant differentiation from DDG.
@@ -55,7 +58,6 @@ None of the below sites are within the top 130k sites according to Alexa \(12/20
 * [Swisscows](https://swisscows.com/?culture=en)
 * [Lukol](https://www.lukol.com/)
 * [Oscobo](https://www.oscobo.com)
-* [DiscreteSearch](https://www.discretesearch.com)
 * [HotBot](https://hotbot.com/)
 * [EveryClick](https://www.everyclick.com/)
 * [MonsterCrawler](http://monstercrawler.com/)
