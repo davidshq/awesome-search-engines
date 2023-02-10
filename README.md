@@ -2,11 +2,11 @@
 
 > A curated list of search engines and various other resources related to search engines. Pull requests are welcome!
 
-| Search Engine | SimilarWeb Rank | Verified |
-| :--- | :--- | :--- |
+| Search Engine | SimilarWeb Rank | Verified | Footnotes |
+| :--- | :--- | :--- | :--- |
 | [Google](https://google.com/) | [\#1](https://www.similarweb.com/website/google.com/#overview) | 08/2022 |
 | [Baidu](https://baidu.com/) \(China\) | [\#6](https://www.similarweb.com/website/baidu.com/#overview) | 08/2022 |
-| [Yahoo](https://www.yahoo.com/) | [\#13](https://www.similarweb.com/website/yahoo.com/#overview) | 08/2022 |
+| [Yahoo](https://www.yahoo.com/) | [\#13](https://www.similarweb.com/website/yahoo.com/#overview) | 08/2022 | [^yahoo]
 | [Microsoft Bing](https://bing.com/) | [\#30](https://www.similarweb.com/website/bing.com/#overview) | 08/2022 |
 | [DuckDuckGo](https://duckduckgo.com/) | [\#39](https://www.similarweb.com/website/duckduckgo.com/#overview) | 08/2022 |
 | [Yandex](https://yandex.com/) \(Russia\) | [\#147](https://www.similarweb.com/website/yandex.com/#overview) | 08/2022 |
@@ -54,15 +54,10 @@ None of the below sites are within the top 130k sites according to Alexa \(12/20
 * [EveryClick](https://www.everyclick.com/)
 * [MonsterCrawler](http://monstercrawler.com/)
 
-## Additional Notes on Particular Search Engines
+## Footnotes
 
-### DuckDuckGo
 
-See [C.1. DuckDuckGo](c.1.-duckduckgo.md).
-
-### Yahoo
-
-Yahoo is quite high for web traffic but it has long outsourced its search results to Bing. We are not aware of any significant innovations Yahoo is making to the Bing results before displaying them and we are unaware of any such innovations on the horizon. However, the high traffic does mean that it could easily innovate on the search front and become a competitor.
+[^yahoo]: Yahoo is quite high for web traffic but it has long outsourced its search results to Bing. We are not aware of any significant innovations Yahoo is making to the Bing results before displaying them and we are unaware of any such innovations on the horizon. However, the high traffic does mean that it could easily innovate on the search front and become a competitor.
 
 ### Ask
 
