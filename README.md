@@ -4,8 +4,8 @@
 
 ## Table of Contents
 - The Search Engines
-- Footnotes
 - Additional Resources
+- Footnotes
 
 ## The Search Engines
 | Search Engine | SimilarWeb Rank | Verified | Footnotes |
@@ -60,6 +60,17 @@ None of the below sites are within the top 130k sites according to Alexa \(12/20
 * [EveryClick](https://www.everyclick.com/)
 * [MonsterCrawler](http://monstercrawler.com/)
 
+## Additional Resources
+
+* [The Search Engine Map](https://www.searchenginemap.com/). Mojeek.
+* Paul Gil's [The Best Search Engines of 2019](https://www.lifewire.com/best-search-engines-2483352). Lifewire, 2019.
+  * We probably wouldn't include Google Scholar as a separate entry or Webopedia at all.
+* Wikipedia's [List of Search Engines](https://en.wikipedia.org/wiki/List_of_search_engines).
+* Alex Chris' [Top 10 Search Engines in the World](https://www.reliablesoft.net/top-10-search-engines-in-the-world/). Reliablesoft, 2019.
+* Chuck Price's [14 Great Search Engines You Can Use Instead of Google](https://www.searchenginejournal.com/alternative-search-engines/). Search Engine Journal, 2018.
+  * We wouldn't include Wiki.com, Twitter, CC Search, Boardreader, or Slideshare.
+* Matteo Duo's [21 Alternative Search Engines to Use in 2019](https://kinsta.com/blog/alternative-search-engines/). Kinsta, 2019.
+
 ## Footnotes
 
 [^yahoo]: Yahoo is quite high for web traffic but it has long outsourced its search results to Bing. We are not aware of any significant innovations Yahoo is making to the Bing results before displaying them and we are unaware of any such innovations on the horizon. However, the high traffic does mean that it could easily innovate on the search front and become a competitor.
@@ -92,14 +103,3 @@ None of the below sites are within the top 130k sites according to Alexa \(12/20
 [^etools]: eTools is included not because of high traffic but due to the customizability of the engine. It is a metasearch engine that can query 16 different search engines and allows the user to determine the weight of each engine. It also shows in the results which search engines returned which results \(including when multiple returned the same result\).
 
 [^activesearchresults]: Normally we'd have put Active Search Results (ASR) into the second tier results, but at least for us the search results relevance wasn't very high, so we'll leave them third tier \(due to the significant traffic they receive\), but will need to see improved results before we'd consider moving them to second tier.
-
-## Additional Resources
-
-* [The Search Engine Map](https://www.searchenginemap.com/). Mojeek.
-* Paul Gil's [The Best Search Engines of 2019](https://www.lifewire.com/best-search-engines-2483352). Lifewire, 2019.
-  * We probably wouldn't include Google Scholar as a separate entry or Webopedia at all.
-* Wikipedia's [List of Search Engines](https://en.wikipedia.org/wiki/List_of_search_engines).
-* Alex Chris' [Top 10 Search Engines in the World](https://www.reliablesoft.net/top-10-search-engines-in-the-world/). Reliablesoft, 2019.
-* Chuck Price's [14 Great Search Engines You Can Use Instead of Google](https://www.searchenginejournal.com/alternative-search-engines/). Search Engine Journal, 2018.
-  * We wouldn't include Wiki.com, Twitter, CC Search, Boardreader, or Slideshare.
-* Matteo Duo's [21 Alternative Search Engines to Use in 2019](https://kinsta.com/blog/alternative-search-engines/). Kinsta, 2019.
