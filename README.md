@@ -14,11 +14,6 @@
 | [DuckDuckGo](https://duckduckgo.com/) | [\#39](https://www.similarweb.com/website/duckduckgo.com/#overview) | 08/2022 |
 | [Baidu](https://baidu.com/) \(China\) | [\#6](https://www.similarweb.com/website/baidu.com/#overview) | 08/2022 |
 | [Yandex](https://yandex.com/) \(Russia\) | [\#147](https://www.similarweb.com/website/yandex.com/#overview) | 08/2022 |
-
-## Second Tier Competitors
-
-| Search Engine | SimilarWeb Rank | Verified |
-| :--- | :--- | :--- |
 | [Yahoo](https://www.yahoo.com/) | [\#13](https://www.similarweb.com/website/yahoo.com/#overview) | 08/2022 |
 | [Ask](https://www.ask.com/) | [\#1881](https://www.similarweb.com/website/ask.com/#overview) | 08/2022 |
 | [Ecosia](https://www.ecosia.org/) \(Germany\) | [\#275](https://www.similarweb.com/website/ecosia.org/#overview) | 08/2022 |
@@ -42,12 +37,6 @@
 | [Brave Search](https://search.brave.com/) | [\#385](https://www.similarweb.com/website/brave.com/#overview) | 08/2022 |
 | [You](https://www.you.com/) | [\#22663](https://www.similarweb.com/website/you.com/#overview) | 08/2022 |
 | [Yep](https://www.yep.com/) | [\#287671](https://www.similarweb.com/website/yep.com/#overview) | 08/2022 |
-
-
-## Third Tier Competitors
-
-| Search Engine | SimilarWeb Rank | Verified |
-| :--- | :--- | :--- |
 | [eTools](https://etools.ch/) \(Switzerland) | [\#279881](https://www.similarweb.com/website/etools.ch/) | 08/2022 |
 | [Active Search Results](https://activesearchresults.com/) | [\#731634](https://www.similarweb.com/website/activesearchresults.com/) | 08/2022 |
 | [Searx](https://searx.me/) \(Hungary) | [\#488888](https://www.similarweb.com/website/searx.me/#overview) | 08/2022 |
