@@ -41,6 +41,7 @@
 | [InfoSpace](https://infospace.com/) | [\#669032](https://www.similarweb.com/website/infospace.com/#overview) | 08/2022 | [^infospace] |
 | [Exalead](http://www.exalead.com/search/) \(France\) | [\#681857](https://www.similarweb.com/website/exalead.com/#overview) | 08/2022 |
 | [Active Search Results](https://activesearchresults.com/) | [\#731634](https://www.similarweb.com/website/activesearchresults.com/) | 08/2022 | [^activesearchresults] |
+| [All the Internet](https://searchalot.com/) | [\#247183](https://www.similarweb.com/website/alltheinternet.com/) | 02/2023 | [^alltheinternet] |
 | [Whaleslide](https://whaleslide.com/) \(UK) | [\#6904601](https://www.similarweb.com/website/whaleslide.com/) | 08/2022 | [^whaleslide] |
 
 
@@ -49,10 +50,6 @@
 
 ## The Rest
 
-None of the below sites are within the top 130k sites according to Alexa \(12/2019\). We may move Searx \(open source\) onto our list of contenders after further evaluation. Most of the other sites are privacy oriented sites that don't show significant differentiation from DDG.
-
-* [Searchalot](https://www.searchalot.com/)
-* [AlltheInternet](https://www.alltheinternet.com/)
 * [Gibiru](https://gibiru.com/)
 * [Disconnect](https://search.disconnect.me/)
 * [Swisscows](https://swisscows.com/?culture=en)
@@ -105,3 +102,5 @@ None of the below sites are within the top 130k sites according to Alexa \(12/20
 [^etools]: eTools is included not because of high traffic but due to the customizability of the engine. It is a metasearch engine that can query 16 different search engines and allows the user to determine the weight of each engine. It also shows in the results which search engines returned which results \(including when multiple returned the same result\).
 
 [^activesearchresults]: Normally we'd have put Active Search Results (ASR) into the second tier results, but at least for us the search results relevance wasn't very high, so we'll leave them third tier \(due to the significant traffic they receive\), but will need to see improved results before we'd consider moving them to second tier.
+
+[^alltheinternet]: Also owns [Searchalot](https://searchalot.com/). The owning company is Advanced Search Technologies which has been in operation since 1999. It appears they have their own search engine and the result quality is decent.
