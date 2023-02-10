@@ -23,7 +23,7 @@
 | [Ask](https://www.ask.com/) | [\#1881](https://www.similarweb.com/website/ask.com/#overview) | 08/2022 | [^ask] |
 | [Presearch](https://www.presearch.com/) | [\#6144](https://www.similarweb.com/website/presearch.com/#overview) | 08/2022 |
 | [Lilo](https://www.lilo.org/en/) \(France\) | [\#16094](https://www.similarweb.com/website/lilo.org/#overview) | 08/2022 |
-| [Dogpile](https://dogpile.com/) | [\#20064](https://www.similarweb.com/website/dogpile.com/#overview) | 08/2022 | [^dogpile] }
+| [Dogpile](https://dogpile.com/) | [\#20064](https://www.similarweb.com/website/dogpile.com/#overview) | 08/2022 | [^dogpile] |
 | [You](https://www.you.com/) | [\#22663](https://www.similarweb.com/website/you.com/#overview) | 08/2022 |
 | [SearchEncrypt](https://www.searchencrypt.com/) | [\#25765](https://www.similarweb.com/website/searchencrypt.com/#overview) | 08/2022 |
 | [Lycos](https://lycos.com/) | [\#68274](https://www.similarweb.com/website/lycos.com/#overview) | 08/2022 |
