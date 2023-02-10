@@ -25,11 +25,13 @@
 | [Lilo](https://www.lilo.org/en/) \(France\) | [\#16094](https://www.similarweb.com/website/lilo.org/#overview) | 08/2022 |
 | [Dogpile](https://dogpile.com/) | [\#20064](https://www.similarweb.com/website/dogpile.com/#overview) | 08/2022 | [^dogpile] |
 | [You](https://www.you.com/) | [\#22663](https://www.similarweb.com/website/you.com/#overview) | 08/2022 |
+| [swisscows](https://swisscows.com/) \(Switzerland\) | [\#24135](https://www.similarweb.com/website/swisscows.com/#overview) | 02/2023 | [^swisscows] |
 | [SearchEncrypt](https://www.searchencrypt.com/) | [\#25765](https://www.similarweb.com/website/searchencrypt.com/#overview) | 08/2022 |
 | [Lycos](https://lycos.com/) | [\#68274](https://www.similarweb.com/website/lycos.com/#overview) | 08/2022 |
 | [ZapMeta](https://zapmeta.com/) \(Netherlands\) | [\#69575](https://www.similarweb.com/website/zapmeta.com/#overview) | 08/2022 |
 | [Metager](https://metager.org/) \(German\) | [\#71236](https://www.similarweb.com/website/metager.org/#overview) | 08/2022 | [^metager] |
 | [Mojeek](https://mojeek.com/) \(UK\) | [\#74382](https://www.similarweb.com/website/mojeek.com/#overview) | 08/2022|
+| [Gibiru](https://gibiru.com/) | [\#104756](https://www.similarweb.com/website/gibiru.com/#overview) | 02/2023 | [^gibiru] |
 | [EntireWeb](https://entireweb.com/) \(Sweden\) | [\#154884](https://www.similarweb.com/website/entireweb.com/#overview) | 08/2022 |
 | [All the Internet](https://searchalot.com/) | [\#247183](https://www.similarweb.com/website/alltheinternet.com/) | 02/2023 | [^alltheinternet] |
 | [eTools](https://etools.ch/) \(Switzerland) | [\#279881](https://www.similarweb.com/website/etools.ch/) | 08/2022 | [^etools] |
@@ -42,19 +44,18 @@
 | [InfoSpace](https://infospace.com/) | [\#669032](https://www.similarweb.com/website/infospace.com/#overview) | 08/2022 | [^infospace] |
 | [Exalead](http://www.exalead.com/search/) \(France\) | [\#681857](https://www.similarweb.com/website/exalead.com/#overview) | 08/2022 |
 | [Active Search Results](https://activesearchresults.com/) | [\#731634](https://www.similarweb.com/website/activesearchresults.com/) | 08/2022 | [^activesearchresults] |
+| [Oscobo](https://www.oscobo.com/) \(UK) | [\#909230](https://www.similarweb.com/website/oscobo.com/) | 02/2023 | [^oscobo] |
 | [Whaleslide](https://whaleslide.com/) \(UK) | [\#6904601](https://www.similarweb.com/website/whaleslide.com/) | 08/2022 | [^whaleslide] |
 
 
 ## Dead, Dying, or Broken
+
 - [DiscreteSearch](https://www.discretesearch.com) - As of 2/2023 the SSL cert is invalid and only sponsored results are appearing for at least some queries.
 
 ## The Rest
 
-* [Gibiru](https://gibiru.com/)
-* [Disconnect](https://search.disconnect.me/)
-* [Swisscows](https://swisscows.com/?culture=en)
-* [Lukol](https://www.lukol.com/)
-* [Oscobo](https://www.oscobo.com)
+* [Disconnect](https://search.disconnect.me/) - Just a search box that uses DuckDuckGo.
+* [Lukol](https://www.lukol.com/) - A Google Custom Search Engine (CSE) with anonymization.
 * [HotBot](https://hotbot.com/)
 * [EveryClick](https://www.everyclick.com/)
 * [MonsterCrawler](http://monstercrawler.com/)
@@ -104,3 +105,9 @@
 [^activesearchresults]: Normally we'd have put Active Search Results (ASR) into the second tier results, but at least for us the search results relevance wasn't very high, so we'll leave them third tier \(due to the significant traffic they receive\), but will need to see improved results before we'd consider moving them to second tier.
 
 [^alltheinternet]: Also owns [Searchalot](https://searchalot.com/). The owning company is Advanced Search Technologies which has been in operation since 1999. It appears they have their own search engine and the result quality is decent.
+
+[^gibiru]: According to the site it has been operating since 2009 and provides "uncensored private search." At the footer of search results it states it is an "Anonymous Proxy Search Engine." This likely indicates that the results are pulled ffrom elsewhere but anonymized. The results also include a tab "Censored Content" though it is unclear what exactly makes the content censored.
+
+[^swisscows]: A well-established, anonymous search engine.
+
+[^oscobo]: Interestingly the search results are returned from [Becovi](https://becovi.com/) which (among other things) does SEM.
