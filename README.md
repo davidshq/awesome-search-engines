@@ -31,6 +31,7 @@
 | [Metager](https://metager.org/) \(German\) | [\#71236](https://www.similarweb.com/website/metager.org/#overview) | 08/2022 | [^metager] |
 | [Mojeek](https://mojeek.com/) \(UK\) | [\#74382](https://www.similarweb.com/website/mojeek.com/#overview) | 08/2022|
 | [EntireWeb](https://entireweb.com/) \(Sweden\) | [\#154884](https://www.similarweb.com/website/entireweb.com/#overview) | 08/2022 |
+| [All the Internet](https://searchalot.com/) | [\#247183](https://www.similarweb.com/website/alltheinternet.com/) | 02/2023 | [^alltheinternet] |
 | [eTools](https://etools.ch/) \(Switzerland) | [\#279881](https://www.similarweb.com/website/etools.ch/) | 08/2022 | [^etools] |
 | [Yep](https://www.yep.com/) | [\#287671](https://www.similarweb.com/website/yep.com/#overview) | 08/2022 |
 | [Gigablast](https://gigablast.com/) | [\#304971](https://www.similarweb.com/website/gigablast.com/#overview) | 08/2022 | [^gigablast] |
@@ -41,7 +42,6 @@
 | [InfoSpace](https://infospace.com/) | [\#669032](https://www.similarweb.com/website/infospace.com/#overview) | 08/2022 | [^infospace] |
 | [Exalead](http://www.exalead.com/search/) \(France\) | [\#681857](https://www.similarweb.com/website/exalead.com/#overview) | 08/2022 |
 | [Active Search Results](https://activesearchresults.com/) | [\#731634](https://www.similarweb.com/website/activesearchresults.com/) | 08/2022 | [^activesearchresults] |
-| [All the Internet](https://searchalot.com/) | [\#247183](https://www.similarweb.com/website/alltheinternet.com/) | 02/2023 | [^alltheinternet] |
 | [Whaleslide](https://whaleslide.com/) \(UK) | [\#6904601](https://www.similarweb.com/website/whaleslide.com/) | 08/2022 | [^whaleslide] |
 
 
