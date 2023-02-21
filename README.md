@@ -10,21 +10,22 @@
 ## The Search Engines
 | Search Engine | SimilarWeb Rank | Verified | Footnotes |
 | :--- | :--- | :--- | :--- |
-| [Google](https://google.com/) | [\#1](https://www.similarweb.com/website/google.com/#overview) | 08/2022 |
-| [Baidu](https://baidu.com/) \(China\) | [\#6](https://www.similarweb.com/website/baidu.com/#overview) | 08/2022 |
-| [Yahoo](https://www.yahoo.com/) | [\#13](https://www.similarweb.com/website/yahoo.com/#overview) | 08/2022 | [^yahoo]
-| [Microsoft Bing](https://bing.com/) | [\#30](https://www.similarweb.com/website/bing.com/#overview) | 08/2022 |
-| [DuckDuckGo](https://duckduckgo.com/) | [\#39](https://www.similarweb.com/website/duckduckgo.com/#overview) | 08/2022 |
-| [Yandex](https://yandex.com/) \(Russia\) | [\#147](https://www.similarweb.com/website/yandex.com/#overview) | 08/2022 |
-| [Ecosia](https://www.ecosia.org/) \(Germany\) | [\#275](https://www.similarweb.com/website/ecosia.org/#overview) | 08/2022 |
-| [Brave Search](https://search.brave.com/) | [\#385](https://www.similarweb.com/website/brave.com/#overview) | 08/2022 |
-| [Startpage](https://www.startpage.com/) \(Netherlands\) | [\#928](https://www.similarweb.com/website/startpage.com/#overview) | 08/2022 | [^startpage]
-| [Qwant](https://qwant.com) \(France\) | [\#1639](https://www.similarweb.com/website/qwant.com/#overview) | 08/2022 | [^qwant] |
-| [Ask](https://www.ask.com/) | [\#1881](https://www.similarweb.com/website/ask.com/#overview) | 08/2022 | [^ask] |
-| [Presearch](https://www.presearch.com/) | [\#6144](https://www.similarweb.com/website/presearch.com/#overview) | 08/2022 |
-| [Lilo](https://www.lilo.org/en/) \(France\) | [\#16094](https://www.similarweb.com/website/lilo.org/#overview) | 08/2022 |
-| [Dogpile](https://dogpile.com/) | [\#20064](https://www.similarweb.com/website/dogpile.com/#overview) | 08/2022 | [^dogpile] |
-| [You](https://www.you.com/) | [\#22663](https://www.similarweb.com/website/you.com/#overview) | 08/2022 |
+| [Google](https://google.com/) | [\#1](https://www.similarweb.com/website/google.com/#overview) | 02/2023 |
+| [Baidu](https://baidu.com/) \(China\) | [\#6](https://www.similarweb.com/website/baidu.com/#overview) | 02/2023 |
+| [Yahoo](https://www.yahoo.com/) | [\#13](https://www.similarweb.com/website/yahoo.com/#overview) | 02/2023 | [^yahoo]
+| [Microsoft Bing](https://bing.com/) | [\#31](https://www.similarweb.com/website/bing.com/#overview) | 02/2023 |
+| [DuckDuckGo](https://duckduckgo.com/) | [\#41](https://www.similarweb.com/website/duckduckgo.com/#overview) | 02/2023 |
+| [Yandex](https://yandex.com/) \(Russia\) | [\#127](https://www.similarweb.com/website/yandex.com/#overview) | 02/2023 |
+| [Brave Search](https://search.brave.com/) | [\#270](https://www.similarweb.com/website/brave.com/#overview) | 02/2023 |
+| [Ecosia](https://www.ecosia.org/) \(Germany\) | [\#276](https://www.similarweb.com/website/ecosia.org/#overview) | 02/2023 |
+| [Startpage](https://www.startpage.com/) \(Netherlands\) | [\#1000](https://www.similarweb.com/website/startpage.com/#overview) | 02/2023 | [^startpage]
+| [Qwant](https://qwant.com) \(France\) | [\#1730](https://www.similarweb.com/website/qwant.com/#overview) | 02/2023 | [^qwant] |
+| [Ask](https://www.ask.com/) | [\#1926](https://www.similarweb.com/website/ask.com/#overview) | 02/2023 | [^ask] |
+| [You](https://www.you.com/) | [\#4474](https://www.similarweb.com/website/you.com/#overview) | 02/2023 |
+| [Presearch](https://www.presearch.com/) | [\#7472](https://www.similarweb.com/website/presearch.com/#overview) | 02/2023 |
+| [Lilo](https://www.lilo.org/en/) \(France\) | [\#16471](https://www.similarweb.com/website/lilo.org/#overview) | 02/2023 |
+| [Neeva](https://neeva.com/) | [\#17139](https://www.similarweb.com/website/neeva.com/#overview) | 02/2023 | [^neeva] |
+| [Dogpile](https://dogpile.com/) | [\#24440](https://www.similarweb.com/website/dogpile.com/#overview) | 02/2023 | [^dogpile] |
 | [swisscows](https://swisscows.com/) \(Switzerland\) | [\#24135](https://www.similarweb.com/website/swisscows.com/#overview) | 02/2023 | [^swisscows] |
 | [SearchEncrypt](https://www.searchencrypt.com/) | [\#25765](https://www.similarweb.com/website/searchencrypt.com/#overview) | 08/2022 |
 | [Lycos](https://lycos.com/) | [\#68274](https://www.similarweb.com/website/lycos.com/#overview) | 08/2022 |
@@ -32,27 +33,29 @@
 | [Metager](https://metager.org/) \(German\) | [\#71236](https://www.similarweb.com/website/metager.org/#overview) | 08/2022 | [^metager] |
 | [Mojeek](https://mojeek.com/) \(UK\) | [\#74382](https://www.similarweb.com/website/mojeek.com/#overview) | 08/2022|
 | [Gibiru](https://gibiru.com/) | [\#104756](https://www.similarweb.com/website/gibiru.com/#overview) | 02/2023 | [^gibiru] |
+| [Kagi](https://kagi.com/) | [\#120945](https://www.similarweb.com/website/kagi.com/#overview) | 02/2023 | [^kagi] |
 | [EntireWeb](https://entireweb.com/) \(Sweden\) | [\#154884](https://www.similarweb.com/website/entireweb.com/#overview) | 08/2022 |
 | [All the Internet](https://searchalot.com/) | [\#247183](https://www.similarweb.com/website/alltheinternet.com/) | 02/2023 | [^alltheinternet] |
-| [eTools](https://etools.ch/) \(Switzerland) | [\#279881](https://www.similarweb.com/website/etools.ch/) | 08/2022 | [^etools] |
-| [Yep](https://www.yep.com/) | [\#287671](https://www.similarweb.com/website/yep.com/#overview) | 08/2022 |
-| [Gigablast](https://gigablast.com/) | [\#304971](https://www.similarweb.com/website/gigablast.com/#overview) | 08/2022 | [^gigablast] |
-| [MillionShort](https://millionshort.com/) | [\#346868](https://www.similarweb.com/website/millionshort.com/) | 08/2022 | [^millionshort] |
-| [Yippy](https://yippy.com/) | [\#429402](https://www.similarweb.com/website/yippy.com/) | 08/2022 | [^yippy] |
-| [Searx](https://searx.me/) \(Hungary) | [\#488888](https://www.similarweb.com/website/searx.me/#overview) | 08/2022 |
-| [ExactSeek](https://exactseek.com/) | [\#592804](https://www.similarweb.com/website/exactseek.com/) | 08/2022 |
+| [eTools](https://etools.ch/) \(Switzerland) | [\#269564](https://www.similarweb.com/website/etools.ch/) | 02/2023 | [^etools] |
+| [Gigablast](https://gigablast.com/) | [\#272122](https://www.similarweb.com/website/gigablast.com/#overview) | 02/2023 | [^gigablast] |
+| [MillionShort](https://millionshort.com/) | [\#325399](https://www.similarweb.com/website/millionshort.com/) | 02/2023 | [^millionshort] |
+| [Yep](https://www.yep.com/) | [\#510628](https://www.similarweb.com/website/yep.com/#overview) | 02/2023 |
+| [Searx](https://searx.me/) \(Hungary) | [\#585839](https://www.similarweb.com/website/searx.me/#overview) | 02/2023 |
+| [Active Search Results](https://activesearchresults.com/) | [\#620884](https://www.similarweb.com/website/activesearchresults.com/) | 02/2023 | [^activesearchresults] |
 | [Marginalia](https://search.marginalia.nu/) | [\#620995](https://www.similarweb.com/website/marginalia.nu/) | 02/2023 | [^marginalia] |
-| [InfoSpace](https://infospace.com/) | [\#669032](https://www.similarweb.com/website/infospace.com/#overview) | 08/2022 | [^infospace] |
-| [Exalead](http://www.exalead.com/search/) \(France\) | [\#681857](https://www.similarweb.com/website/exalead.com/#overview) | 08/2022 |
 | [Wiby](https://wiby.me/) | [\#696409](https://www.similarweb.com/website/wiby.me/) | 02/2023 | [^wiby] |
-| [Active Search Results](https://activesearchresults.com/) | [\#731634](https://www.similarweb.com/website/activesearchresults.com/) | 08/2022 | [^activesearchresults] |
+| [Exalead](http://www.exalead.com/search/) \(France\) | [\#721200](https://www.similarweb.com/website/exalead.com/#overview) | 02/2023 |
+| [ExactSeek](https://exactseek.com/) | [\#771267](https://www.similarweb.com/website/exactseek.com/) | 02/2023 |
 | [Oscobo](https://www.oscobo.com/) \(UK) | [\#909230](https://www.similarweb.com/website/oscobo.com/) | 02/2023 | [^oscobo] |
-| [Whaleslide](https://whaleslide.com/) \(UK) | [\#6904601](https://www.similarweb.com/website/whaleslide.com/) | 08/2022 | [^whaleslide] |
+| [Yippy](https://yippy.com/) | [\#1379969](https://www.similarweb.com/website/yippy.com/) | 02/2023 | [^yippy] |
+| [InfoSpace](https://infospace.com/) | [\#1404982](https://www.similarweb.com/website/infospace.com/#overview) | 02/2023 | [^infospace] |
+| [Whaleslide](https://whaleslide.com/) \(UK) | [\#9034368](https://www.similarweb.com/website/whaleslide.com/) | 02/2023 | [^whaleslide] |
 
 
 ## Dead, Dying, or Broken
 
 - [DiscreteSearch](https://www.discretesearch.com) - As of 2/2023 the SSL cert is invalid and only sponsored results are appearing for at least some queries.
+- [Teclis](https://teclis.com) - As of 2/2023 seems to be superseded by Kagi.
 
 ## The Rest
 
@@ -61,6 +64,8 @@
 * [HotBot](https://hotbot.com/)
 * [EveryClick](https://www.everyclick.com/)
 * [MonsterCrawler](http://monstercrawler.com/)
+* [Trom.tf](https://search.trom.tf/) - Runs on Searx.
+* [SearchMySite](https://www.searchmysite.net/) - Indexes the indie web, open source.
 
 ## Additional Resources
 
@@ -117,3 +122,7 @@
 [^wiby]: "The Wiby search engine is building a web of pages as it was in the earlier days of the internet." It's source code is available on [GitHub](https://github.com/wibyweb/wiby/) under a GPLv2 license.
 
 [^marginalia]: With similar goals to Wiby, Marginalia surfaces the indie web. The [source code](https://git.marginalia.nu/marginalia/marginalia.nu) is available under the GNU Affero GPL v3 or later.
+
+[^neeva]: An ad-free search engine. Offers a limited free account with subscription accounts less than $6/mo. Provides some customizability of search results by selecting preferred sources (e.g. The New York Times, Wikipedia).
+
+[^kagi]: Ad-free search engine, offers limited personal accounts. Subscription account is $10/mo, similar model to Neeva. Allows one to raise/lower/pin/block specific sites.
