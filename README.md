@@ -41,8 +41,10 @@
 | [Yippy](https://yippy.com/) | [\#429402](https://www.similarweb.com/website/yippy.com/) | 08/2022 | [^yippy] |
 | [Searx](https://searx.me/) \(Hungary) | [\#488888](https://www.similarweb.com/website/searx.me/#overview) | 08/2022 |
 | [ExactSeek](https://exactseek.com/) | [\#592804](https://www.similarweb.com/website/exactseek.com/) | 08/2022 |
+| [Marginalia](https://search.marginalia.nu/) | [\#620995](https://www.similarweb.com/website/marginalia.nu/) | 02/2023 | [^marginalia] |
 | [InfoSpace](https://infospace.com/) | [\#669032](https://www.similarweb.com/website/infospace.com/#overview) | 08/2022 | [^infospace] |
 | [Exalead](http://www.exalead.com/search/) \(France\) | [\#681857](https://www.similarweb.com/website/exalead.com/#overview) | 08/2022 |
+| [Wiby](https://wiby.me/) | [\#696409](https://www.similarweb.com/website/wiby.me/) | 02/2023 | [^wiby] |
 | [Active Search Results](https://activesearchresults.com/) | [\#731634](https://www.similarweb.com/website/activesearchresults.com/) | 08/2022 | [^activesearchresults] |
 | [Oscobo](https://www.oscobo.com/) \(UK) | [\#909230](https://www.similarweb.com/website/oscobo.com/) | 02/2023 | [^oscobo] |
 | [Whaleslide](https://whaleslide.com/) \(UK) | [\#6904601](https://www.similarweb.com/website/whaleslide.com/) | 08/2022 | [^whaleslide] |
@@ -111,3 +113,7 @@
 [^swisscows]: A well-established, anonymous search engine.
 
 [^oscobo]: Interestingly the search results are returned from [Becovi](https://becovi.com/) which (among other things) does SEM.
+
+[^wiby]: "The Wiby search engine is building a web of pages as it was in the earlier days of the internet." It's source code is available on [GitHub](https://github.com/wibyweb/wiby/) under a GPLv2 license.
+
+[^marginalia]: With similar goals to Wiby, Marginalia surfaces the indie web. The [source code](https://git.marginalia.nu/marginalia/marginalia.nu) is available under the GNU Affero GPL v3 or later.
