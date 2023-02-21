@@ -27,14 +27,14 @@
 | [Neeva](https://neeva.com/) | [\#17139](https://www.similarweb.com/website/neeva.com/#overview) | 02/2023 | [^neeva] |
 | [Dogpile](https://dogpile.com/) | [\#24440](https://www.similarweb.com/website/dogpile.com/#overview) | 02/2023 | [^dogpile] |
 | [swisscows](https://swisscows.com/) \(Switzerland\) | [\#24135](https://www.similarweb.com/website/swisscows.com/#overview) | 02/2023 | [^swisscows] |
-| [SearchEncrypt](https://www.searchencrypt.com/) | [\#25765](https://www.similarweb.com/website/searchencrypt.com/#overview) | 08/2022 |
-| [Lycos](https://lycos.com/) | [\#68274](https://www.similarweb.com/website/lycos.com/#overview) | 08/2022 |
-| [ZapMeta](https://zapmeta.com/) \(Netherlands\) | [\#69575](https://www.similarweb.com/website/zapmeta.com/#overview) | 08/2022 |
-| [Metager](https://metager.org/) \(German\) | [\#71236](https://www.similarweb.com/website/metager.org/#overview) | 08/2022 | [^metager] |
-| [Mojeek](https://mojeek.com/) \(UK\) | [\#74382](https://www.similarweb.com/website/mojeek.com/#overview) | 08/2022|
+| [SearchEncrypt](https://www.searchencrypt.com/) | [\#38205](https://www.similarweb.com/website/searchencrypt.com/#overview) | 02/2023 |
+| [Lycos](https://lycos.com/) | [\#55916](https://www.similarweb.com/website/lycos.com/#overview) | 02/2023 |
+| [Mojeek](https://mojeek.com/) \(UK\) | [\#69704](https://www.similarweb.com/website/mojeek.com/#overview) | 02/2023|
+| [Metager](https://metager.org/) \(German\) | [\#83554](https://www.similarweb.com/website/metager.org/#overview) | 02/2023 | [^metager] |
+| [ZapMeta](https://zapmeta.com/) \(Netherlands\) | [\#97870](https://www.similarweb.com/website/zapmeta.com/#overview) | 02/2023 |
 | [Gibiru](https://gibiru.com/) | [\#104756](https://www.similarweb.com/website/gibiru.com/#overview) | 02/2023 | [^gibiru] |
 | [Kagi](https://kagi.com/) | [\#120945](https://www.similarweb.com/website/kagi.com/#overview) | 02/2023 | [^kagi] |
-| [EntireWeb](https://entireweb.com/) \(Sweden\) | [\#154884](https://www.similarweb.com/website/entireweb.com/#overview) | 08/2022 |
+| [EntireWeb](https://entireweb.com/) \(Sweden\) | [\#205503](https://www.similarweb.com/website/entireweb.com/#overview) | 02/2023 |
 | [All the Internet](https://searchalot.com/) | [\#247183](https://www.similarweb.com/website/alltheinternet.com/) | 02/2023 | [^alltheinternet] |
 | [eTools](https://etools.ch/) \(Switzerland) | [\#269564](https://www.similarweb.com/website/etools.ch/) | 02/2023 | [^etools] |
 | [Gigablast](https://gigablast.com/) | [\#272122](https://www.similarweb.com/website/gigablast.com/#overview) | 02/2023 | [^gigablast] |
