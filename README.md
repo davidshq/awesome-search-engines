@@ -35,6 +35,7 @@
 | [Gibiru](https://gibiru.com/) | [\#104756](https://www.similarweb.com/website/gibiru.com/#overview) | 02/2023 | [^gibiru] |
 | [Kagi](https://kagi.com/) | [\#120945](https://www.similarweb.com/website/kagi.com/#overview) | 02/2023 | [^kagi] |
 | [EntireWeb](https://entireweb.com/) \(Sweden\) | [\#205503](https://www.similarweb.com/website/entireweb.com/#overview) | 02/2023 |
+| [HotBot](https://www.hotbot.com/) | [\#208525](https://www.similarweb.com/website/hotbot.com/) | 03/2023 | [^hotbot] |
 | [All the Internet](https://searchalot.com/) | [\#247183](https://www.similarweb.com/website/alltheinternet.com/) | 02/2023 | [^alltheinternet] |
 | [eTools](https://etools.ch/) \(Switzerland) | [\#269564](https://www.similarweb.com/website/etools.ch/) | 02/2023 | [^etools] |
 | [Gigablast](https://gigablast.com/) | [\#272122](https://www.similarweb.com/website/gigablast.com/#overview) | 02/2023 | [^gigablast] |
@@ -59,12 +60,19 @@
 
 ## The Rest
 
+### DuckDuckGo Based
 * [Disconnect](https://search.disconnect.me/) - Just a search box that uses DuckDuckGo.
+
+### Google Based
 * [Lukol](https://www.lukol.com/) - A Google Custom Search Engine (CSE) with anonymization.
-* [HotBot](https://hotbot.com/)
-* [EveryClick](https://www.everyclick.com/)
+
+### Meta Search
 * [MonsterCrawler](http://monstercrawler.com/)
+
+### Searx
 * [Trom.tf](https://search.trom.tf/) - Runs on Searx.
+
+### Indie
 * [SearchMySite](https://www.searchmysite.net/) - Indexes the indie web, open source.
 
 ## Additional Resources
@@ -126,3 +134,5 @@
 [^neeva]: An ad-free search engine. Offers a limited free account with subscription accounts less than $6/mo. Provides some customizability of search results by selecting preferred sources (e.g. The New York Times, Wikipedia).
 
 [^kagi]: Ad-free search engine, offers limited personal accounts. Subscription account is $10/mo, similar model to Neeva. Allows one to raise/lower/pin/block specific sites.
+
+[^hotbot]: Originally launched in 1996 by Wired Magazine using Inktomi technology and was acquired by Lycos. Unfortunately, it was allowed to stagnate. It has since been relaunched though using new technology but it is unclear what connection, if any, the search engine maintains with it's original founders.
