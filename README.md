@@ -39,10 +39,10 @@
 | [All the Internet](https://searchalot.com/) | [\#247183](https://www.similarweb.com/website/alltheinternet.com/) | 02/2023 | [^alltheinternet] |
 | [eTools](https://etools.ch/) \(Switzerland) | [\#269564](https://www.similarweb.com/website/etools.ch/) | 02/2023 | [^etools] |
 | [Gigablast](https://gigablast.com/) | [\#272122](https://www.similarweb.com/website/gigablast.com/#overview) | 02/2023 | [^gigablast] |
-| [MillionShort](https://millionshort.com/) | [\#325399](https://www.similarweb.com/website/millionshort.com/) | 02/2023 | [^millionshort] |
+| [MillionShort](https://millionshort.com/) | [\#325399](https://www.similarweb.com/website/millionshort.com/) | 02/2023 |
 | [Yep](https://www.yep.com/) | [\#510628](https://www.similarweb.com/website/yep.com/#overview) | 02/2023 |
 | [Searx](https://searx.me/) \(Hungary) | [\#585839](https://www.similarweb.com/website/searx.me/#overview) | 02/2023 |
-| [Active Search Results](https://activesearchresults.com/) | [\#620884](https://www.similarweb.com/website/activesearchresults.com/) | 02/2023 | [^activesearchresults] |
+| [Active Search Results](https://activesearchresults.com/) | [\#620884](https://www.similarweb.com/website/activesearchresults.com/) | 02/2023 |
 | [Marginalia](https://search.marginalia.nu/) | [\#620995](https://www.similarweb.com/website/marginalia.nu/) | 02/2023 | [^marginalia] |
 | [Wiby](https://wiby.me/) | [\#696409](https://www.similarweb.com/website/wiby.me/) | 02/2023 | [^wiby] |
 | [Exalead](http://www.exalead.com/search/) \(France\) | [\#721200](https://www.similarweb.com/website/exalead.com/#overview) | 02/2023 |
@@ -108,16 +108,11 @@
 
 [^yippy]: Yippy is powered by IBM Watson, uses Bing for at least some of tis results, its most interesting feature is its ability to cluster results into topics - e.g., searching for "Civil War" one might be interested in the American Civil War, the comic book movie, a civil war in another country, etc. Yippy helps one quickly filter out irrelevant results.
 
-
-[^millionshort]: While technically ahead of Yippy it has been included after because while we love the idea of trimming off a million search results to find new content it is unlikely one actually wants to write off the top million results in many use cases.
-
-[^whaleslide]: Whaleslide is lowly trafficked according to Alexa but the site seems to offer some innovative features. In addition to donating to non-profits with revenue generated, its site design is slick and performant, one can "pin sites" and also add them to collections, and it is privacy focused.
+[^whaleslide]: Whaleslide is lowly trafficked according to SimilarWeb but the site seems to offer some innovative features. In addition to donating to non-profits with revenue generated, its site design is slick and performant, one can "pin sites" and also add them to collections, and it is privacy focused.
 
 [^infospace]: InfoSpace appears to pull results from Bing. It is also the owner of Dogpile and WebCrawler.
 
 [^etools]: eTools is included not because of high traffic but due to the customizability of the engine. It is a metasearch engine that can query 16 different search engines and allows the user to determine the weight of each engine. It also shows in the results which search engines returned which results \(including when multiple returned the same result\).
-
-[^activesearchresults]: Normally we'd have put Active Search Results (ASR) into the second tier results, but at least for us the search results relevance wasn't very high, so we'll leave them third tier \(due to the significant traffic they receive\), but will need to see improved results before we'd consider moving them to second tier.
 
 [^alltheinternet]: Also owns [Searchalot](https://searchalot.com/). The owning company is Advanced Search Technologies which has been in operation since 1999. It appears they have their own search engine and the result quality is decent.
 
