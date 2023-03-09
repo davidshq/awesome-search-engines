@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - The Search Engines
-- Additional Resources
+- Bibliographical Resources
 - Footnotes
 
 ## The Search Engines
@@ -34,6 +34,7 @@
 | [ZapMeta](https://zapmeta.com/) \(Netherlands\) | [\#97870](https://www.similarweb.com/website/zapmeta.com/#overview) | 02/2023 |
 | [Gibiru](https://gibiru.com/) | [\#104756](https://www.similarweb.com/website/gibiru.com/#overview) | 02/2023 | [^gibiru] |
 | [Kagi](https://kagi.com/) | [\#120945](https://www.similarweb.com/website/kagi.com/#overview) | 02/2023 | [^kagi] |
+| [Andi](https://andisearch.com/) | [\#188095](https://www.similarweb.com/website/andisearch.com/#overview) | 03/2023 | [^andi] |
 | [EntireWeb](https://entireweb.com/) \(Sweden\) | [\#205503](https://www.similarweb.com/website/entireweb.com/#overview) | 02/2023 |
 | [HotBot](https://www.hotbot.com/) | [\#208525](https://www.similarweb.com/website/hotbot.com/) | 03/2023 | [^hotbot] |
 | [All the Internet](https://searchalot.com/) | [\#247183](https://www.similarweb.com/website/alltheinternet.com/) | 02/2023 | [^alltheinternet] |
@@ -51,6 +52,7 @@
 | [Yippy](https://yippy.com/) | [\#1379969](https://www.similarweb.com/website/yippy.com/) | 02/2023 | [^yippy] |
 | [InfoSpace](https://infospace.com/) | [\#1404982](https://www.similarweb.com/website/infospace.com/#overview) | 02/2023 | [^infospace] |
 | [Whaleslide](https://whaleslide.com/) \(UK) | [\#9034368](https://www.similarweb.com/website/whaleslide.com/) | 02/2023 | [^whaleslide] |
+| [Alexandria](https://alexandria.org/) | [\#10585468](https://www.similarweb.com/website/alexandria.org/) | 03/2023 | [^alexandria] |
 
 
 ## Dead, Dying, or Broken
@@ -75,7 +77,7 @@
 ### Indie
 * [SearchMySite](https://www.searchmysite.net/) - Indexes the indie web, open source.
 
-## Additional Resources
+## Bibliographical Resources
 
 * [The Search Engine Map](https://www.searchenginemap.com/). Mojeek.
 * Paul Gil's [The Best Search Engines of 2019](https://www.lifewire.com/best-search-engines-2483352). Lifewire, 2019.
@@ -131,3 +133,7 @@
 [^kagi]: Ad-free search engine, offers limited personal accounts. Subscription account is $10/mo, similar model to Neeva. Allows one to raise/lower/pin/block specific sites.
 
 [^hotbot]: Originally launched in 1996 by Wired Magazine using Inktomi technology and was acquired by Lycos. Unfortunately, it was allowed to stagnate. It has since been relaunched though using new technology but it is unclear what connection, if any, the search engine maintains with it's original founders.
+
+[^alexandria]: This search engine uses Common Crawl data and the source code of the engine is available on [GitHub](https://github.com/alexandria-org).
+
+[^andi]: Techcrunch has a [nice writeup on Andi](https://techcrunch.com/2022/09/13/y-combinator-backed-andi-taps-ai-to-built-a-better-search-engine/).
