@@ -54,6 +54,14 @@
 | [Whaleslide](https://whaleslide.com/) \(UK) | [\#9034368](https://www.similarweb.com/website/whaleslide.com/) | 02/2023 | [^whaleslide] |
 | [Alexandria](https://alexandria.org/) | [\#10585468](https://www.similarweb.com/website/alexandria.org/) | 03/2023 | [^alexandria] |
 
+## Domain Specific
+
+### Coding
+| [Phind](https://phind.com) | [\#86270](https://www.similarweb.com/website/phind.com/#overview) | 03/2023 | [^phind] |
+
+### Forums
+| [CrowdView](https://crowdview.ai) | [\#289199](https://www.similarweb.com/website/crowdview.ai/#overview) | 03/2023 |
+
 
 ## Dead, Dying, or Broken
 
@@ -137,3 +145,5 @@
 [^alexandria]: This search engine uses Common Crawl data and the source code of the engine is available on [GitHub](https://github.com/alexandria-org).
 
 [^andi]: Techcrunch has a [nice writeup on Andi](https://techcrunch.com/2022/09/13/y-combinator-backed-andi-taps-ai-to-built-a-better-search-engine/).
+
+[^phind]: Formerly sayhello.
