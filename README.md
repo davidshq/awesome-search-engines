@@ -4,8 +4,16 @@
 
 ## Table of Contents
 - The Search Engines
+- Domain Specific
+  - Coding
+  - Forums
+- Dead, Dying, or Broken
+- The Rest
 - Bibliographical Resources
 - Footnotes
+
+## Building Search Engines
+For information on building web-scale search engines see [BuildingSearchEngines.md](BuildingSearchEngines.md).
 
 ## The Search Engines
 | Search Engine | SimilarWeb Rank | Verified | Footnotes |
