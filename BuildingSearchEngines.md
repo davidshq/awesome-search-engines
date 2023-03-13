@@ -5,6 +5,10 @@
     - Apache Lucene
     - Apache Solr
     - Elasticsearch
+    - OpenSearch
+    - Gigablast
+    - meilisearch
+    - Typesense
 - Open Source Web Crawlers
     - Apache Nutch
     - StormCrawler
@@ -15,6 +19,8 @@
 - Common Crawl
     - General
     - Tooling
+- Wikimedia Search
+- Footnotes
 
 ## Open Source Search Engines
 
@@ -29,6 +35,25 @@
 ### Elasticsearch
 - https://elastic.co/
 - Used by Wikipedia
+
+### OpenSearch
+- https://opensearch.org/
+- An open source fork of Elasticsearch started by Amazon.[^controversy]
+
+### Gigablast
+- https://gigablast.com/
+- [GitHub Repo](https://github.com/gigablast/open-source-search-engine)
+- Founded in 2000 by Matt Wells as a closed source search engine it was later open sourceed. It is written in C++, is distributed, and includes both the engine and a crawler.
+
+### meilisearch
+- https://www.meilisearch.com/
+- [GitHub Repo](https://github.com/meilisearch/meilisearch)
+- An open source search engine written in Rust.
+
+### Typesense
+- https://typesense.org/
+- [GitHub Repo](https://github.com/typesense/typesense)
+- An open source Algolia alternative written in C/C++.[^typesense]
 
 ## Open Source Web Crawlers
 
@@ -78,3 +103,7 @@ Common Crawl is a non-profit organization that maintains a large index of the we
 ## Wikimedia Search
 - https://www.mediawiki.org/wiki/Wikimedia_Search_Platform
 - https://www.mediawiki.org/wiki/User:TJones_(WMF)/Notes
+
+## Footnotes
+[^controversy]: The fork was started following controversial licensing changes by Elasticsearch. For more on the history of this controversy see Graham Gillen's [Elasticsearch vs OpenSearch series](https://pureinsights.com/blog/2021/elasticsearch-vs-opensearch-user-point-of-view-part-1-of-3/). For a brief evaluation of OpenSearch's progress see Matt Asay's [One year of OpenSearch: Grading AWS’ open source effort](https://www.techrepublic.com/article/opensearch-grading-aws-open-source/).
+[^typesense]: Some interesting functionality includes tunable ranking, sorting, faceting & filtering, grouping & distinct, federated search, and curation. It doesn't appear to be in web scale usage but they've expressed interest in benchmarking larger datasets so I submmited an [issue requesting CommonCrawl be benchmarked](https://github.com/typesense/typesense/issues/933).
