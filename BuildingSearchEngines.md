@@ -42,20 +42,20 @@
 - [GitHub Repo](https://github.com/DigitalPebble/storm-crawler)
 - Open source web crawler built on Apache Storm.
 
-## CoCrawler
+### CoCrawler
 - https://github.com/cocrawler/cocrawler
 - Authored by Greg Lindahl (Blekko) in Python, pre-release.
 
-## Norconex Web Crawler
+### Norconex Web Crawler
 - https://opensource.norconex.com/crawlers/web/
 - [GitHub Repo](https://github.com/Norconex/collector-http)
 - Open source Java web crawler.
 
-## PulsarR
+### PulsarR
 - https://github.com/platonai/pulsarr
 - Open source web crawler written in Kotlin.
 
-## Heritrix
+### Heritrix
 - https://heritrix.readthedocs.io/en/latest/
 - [GitHub Repo](https://github.com/internetarchive/heritrix3)
 - Open source web crawler written in Java by the Internet Archive.
