@@ -39,6 +39,7 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 | [Lycos](https://lycos.com/) | [\#55916](https://www.similarweb.com/website/lycos.com/#overview) | 02/2023 |
 | [Mojeek](https://mojeek.com/) \(UK\) | [\#69704](https://www.similarweb.com/website/mojeek.com/#overview) | 02/2023|
 | [Metager](https://metager.org/) \(German\) | [\#83554](https://www.similarweb.com/website/metager.org/#overview) | 02/2023 | [^metager] |
+| [Petal Search](https://petalsearch.com/) | [\#86984](https://www.similarweb.com/website/petalsearch.com/#overview) | 03/2023 |
 | [ZapMeta](https://zapmeta.com/) \(Netherlands\) | [\#97870](https://www.similarweb.com/website/zapmeta.com/#overview) | 02/2023 |
 | [Gibiru](https://gibiru.com/) | [\#104756](https://www.similarweb.com/website/gibiru.com/#overview) | 02/2023 | [^gibiru] |
 | [Kagi](https://kagi.com/) | [\#120945](https://www.similarweb.com/website/kagi.com/#overview) | 02/2023 | [^kagi] |
@@ -56,16 +57,24 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 | [Wiby](https://wiby.me/) | [\#696409](https://www.similarweb.com/website/wiby.me/) | 02/2023 | [^wiby] |
 | [Exalead](http://www.exalead.com/search/) \(France\) | [\#721200](https://www.similarweb.com/website/exalead.com/#overview) | 02/2023 |
 | [ExactSeek](https://exactseek.com/) | [\#771267](https://www.similarweb.com/website/exactseek.com/) | 02/2023 |
+| [Anoox](https://www.anoox.com/) | [\#880484](https://www.similarweb.com/website/anoox.com/) | 03/2023 |
 | [Oscobo](https://www.oscobo.com/) \(UK) | [\#909230](https://www.similarweb.com/website/oscobo.com/) | 02/2023 | [^oscobo] |
+| [InfinitySearch](https://infinitysearch.co/) | [\#1095110](https://www.similarweb.com/website/infinitysearch.co/) | 03/2023 |
+| [Secret Search Engine Labs](https://www.secretsearchenginelabs.com/) | [\#1110512](https://www.similarweb.com/website/secretsearchenginelabs.com/) | 03/2023 |
 | [Yippy](https://yippy.com/) | [\#1379969](https://www.similarweb.com/website/yippy.com/) | 02/2023 | [^yippy] |
 | [InfoSpace](https://infospace.com/) | [\#1404982](https://www.similarweb.com/website/infospace.com/#overview) | 02/2023 | [^infospace] |
+| [Crawlson](https://crawlson.com/) | [\#7364693](https://www.similarweb.com/website/crawlson.com/) | 03/2023 |
+| [MWMBL](https://mwmbl.org/) | [\#8970638](https://www.similarweb.com/website/mwmbl.org/) | 03/2023 | [^mwmbl] |
 | [Whaleslide](https://whaleslide.com/) \(UK) | [\#9034368](https://www.similarweb.com/website/whaleslide.com/) | 02/2023 | [^whaleslide] |
+| [Yioop](https://yioop.com/) | [\#9886503](https://www.similarweb.com/website/yioop.com/) | 03/2023 |
 | [Alexandria](https://alexandria.org/) | [\#10585468](https://www.similarweb.com/website/alexandria.org/) | 03/2023 | [^alexandria] |
 
 ## Domain Specific
 
 ### Coding
 | [Phind](https://phind.com) | [\#86270](https://www.similarweb.com/website/phind.com/#overview) | 03/2023 | [^phind] |
+| [grep.app](https://grep.app) | [\#235205](https://www.similarweb.com/website/grep.app/#overview) | 03/2023 |
+| [searchcode](https://searchcode.com/) | [\#462786](https://www.similarweb.com/website/searchcode.com/#overview) | 03/2023 |
 
 ### Forums
 | [CrowdView](https://crowdview.ai) | [\#289199](https://www.similarweb.com/website/crowdview.ai/#overview) | 03/2023 |
@@ -155,3 +164,5 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 [^andi]: Techcrunch has a [nice writeup on Andi](https://techcrunch.com/2022/09/13/y-combinator-backed-andi-taps-ai-to-built-a-better-search-engine/).
 
 [^phind]: Formerly sayhello.
+
+[^mwmbl]: Open source, free, non-profit.

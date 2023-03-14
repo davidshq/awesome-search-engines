@@ -59,20 +59,10 @@
 - [GitHub Repo](https://github.com/gigablast/open-source-search-engine)
 - Founded in 2000 by Matt Wells as a closed source search engine it was later open sourceed. It is written in C++, is distributed, and includes both the engine and a crawler.
 
-### meilisearch
-- https://www.meilisearch.com/
-- [GitHub Repo](https://github.com/meilisearch/meilisearch)
-- An open source search engine written in Rust.
-
-### Typesense
-- https://typesense.org/
-- [GitHub Repo](https://github.com/typesense/typesense)
-- An open source Algolia alternative written in C/C++.[^typesense]
-
 ### YaCy
 - https://yacy.net/
 - [GitHub Repo](https://github.com/yacy/yacy_search_server)
-- An open source, distributed, P2P search engine with a focus on user privacy. It's been around for a long time and continues to be actively developed. Includes a crawler.
+- An open source, distributed, P2P search engine built in Java with a focus on user privacy and decentralization. It's been around for a long time and continues to be actively developed. Includes a crawler.
 
 ### Vald
 - https://vald.vdaas.org/
@@ -99,6 +89,18 @@
 - https://wiby.me/
 - [GitHub Repo](https://github.com/wibyweb/wiby)
 - Open source search engine written in PHP, C, and Go.
+
+### Not Web Scale
+
+### meilisearch
+- https://www.meilisearch.com/
+- [GitHub Repo](https://github.com/meilisearch/meilisearch)
+- An open source search engine written in Rust.
+
+#### Typesense
+- https://typesense.org/
+- [GitHub Repo](https://github.com/typesense/typesense)
+- An open source Algolia alternative written in C/C++.[^typesense]
 
 ## Open Source Web Crawlers
 
