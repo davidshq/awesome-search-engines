@@ -3,12 +3,19 @@
 ## Table of Contents
 - Open Source Search Engines
     - Apache Lucene
+        - Lucene++
     - Apache Solr
     - Elasticsearch
     - OpenSearch
     - Gigablast
     - meilisearch
     - Typesense
+    - YaCy
+    - Vald
+    - Weaviate
+    - MWMBL
+    - Alexandria
+    - Wiby
 - Open Source Web Crawlers
     - Apache Nutch
     - StormCrawler
@@ -28,9 +35,16 @@
 - https://lucene.apache.org/
 - The open source Java library that powers Apache Solr and Elasticsearch, among many other search projects.
 
+#### Lucene++
+- https://github.com/luceneplusplus/LucenePlusPlus
+- An open source C++ port of Lucene.
+
 ### Apache Solr
 - https://solr.apache.org/
+
+#### Other Projects
 - [Blacklight](https://projectblacklight.org/) - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
+- [Open Semantic Search](https://opensemanticsearch.org/) - Builds on top of Solr and offers a number of interesting features.[^opensemanticsearch]
 
 ### Elasticsearch
 - https://elastic.co/
@@ -54,6 +68,37 @@
 - https://typesense.org/
 - [GitHub Repo](https://github.com/typesense/typesense)
 - An open source Algolia alternative written in C/C++.[^typesense]
+
+### YaCy
+- https://yacy.net/
+- [GitHub Repo](https://github.com/yacy/yacy_search_server)
+- An open source, distributed, P2P search engine with a focus on user privacy. It's been around for a long time and continues to be actively developed. Includes a crawler.
+
+### Vald
+- https://vald.vdaas.org/
+- [GitHub Repo](https://github.com/vdaas/vald)
+- An open source, distributed vector search engine built using Go, utilized by Yahoo Japan.
+
+### Weaviate
+- https://weaviate.io/
+- [GitHub Repo](https://github.com/weaviate/weaviate)
+- Open source vector search engine written in Go.
+- [Semantic Search through Wikipedia with Weaviate](https://github.com/weaviate/semantic-search-through-wikipedia-with-weaviate)
+
+### MWMBL
+- https://mwmbl.org/
+- [GitHub Repo](https://github.com/mwmbl/mwmbl)
+- Open source, non-profit search engine written in Python.[^mwmbl]
+
+### Alexandria
+- https://www.alexandria.org/
+- [GitHub Repo](https://www.alexandria.org/)
+- Open source search engine that uses CommonCrawl and is written in C++.
+
+### Wiby
+- https://wiby.me/
+- [GitHub Repo](https://github.com/wibyweb/wiby)
+- Open source search engine written in PHP, C, and Go.
 
 ## Open Source Web Crawlers
 
@@ -107,3 +152,5 @@ Common Crawl is a non-profit organization that maintains a large index of the we
 ## Footnotes
 [^controversy]: The fork was started following controversial licensing changes by Elasticsearch. For more on the history of this controversy see Graham Gillen's [Elasticsearch vs OpenSearch series](https://pureinsights.com/blog/2021/elasticsearch-vs-opensearch-user-point-of-view-part-1-of-3/). For a brief evaluation of OpenSearch's progress see Matt Asay's [One year of OpenSearch: Grading AWS’ open source effort](https://www.techrepublic.com/article/opensearch-grading-aws-open-source/).
 [^typesense]: Some interesting functionality includes tunable ranking, sorting, faceting & filtering, grouping & distinct, federated search, and curation. It doesn't appear to be in web scale usage but they've expressed interest in benchmarking larger datasets so I submmited an [issue requesting CommonCrawl be benchmarked](https://github.com/typesense/typesense/issues/933).
+[^opensemanticsearch]: It isn't meant for web search particularly but it offers a number of features which could be useful in a search engine - e.g. exploratory search as well as collaborative annotation and tagging.
+[^mwmbl]: The project has some similarities with what I'm looking to do with [Phoebe](https://github.com/davidshq/next-search/).
