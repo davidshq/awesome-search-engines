@@ -79,11 +79,18 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 ### Forums
 | [CrowdView](https://crowdview.ai) | [\#289199](https://www.similarweb.com/website/crowdview.ai/#overview) | 03/2023 |
 
+### Wikis
+- Wiki.com
+
+### Reddit
+- Redditle.com
+
 
 ## Dead, Dying, or Broken
 
 - [DiscreteSearch](https://www.discretesearch.com) - As of 2/2023 the SSL cert is invalid and only sponsored results are appearing for at least some queries.
 - [Teclis](https://teclis.com) - As of 2/2023 seems to be superseded by Kagi.
+- Olda'vista - As of 3/2023 the site no longer seems to load. (Author: [Eric Mackrodt](https://twitter.com/ericmackrodt))
 
 ## The Rest
 
