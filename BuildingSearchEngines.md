@@ -5,6 +5,7 @@
     - Apache Lucene
         - Lucene++
     - Apache Solr
+        - Other Projects
     - Elasticsearch
     - OpenSearch
     - Gigablast
@@ -16,6 +17,9 @@
     - MWMBL
     - Alexandria
     - Wiby
+- Not Web Scale
+    - meilisearch
+    - Typesense
 - Open Source Web Crawlers
     - Apache Nutch
     - StormCrawler
