@@ -6,17 +6,20 @@
         - Lucene++
     - Apache Solr
         - Other Projects
+        - Open Semantic Search
+            - Subprojects
     - Elasticsearch
     - OpenSearch
     - Gigablast
-    - meilisearch
-    - Typesense
     - YaCy
     - Vald
     - Weaviate
     - MWMBL
     - Alexandria
     - Wiby
+    - OpenSearchServer
+- Meta Search
+    - MetaGer
 - Not Web Scale
     - meilisearch
     - Typesense
@@ -48,7 +51,15 @@
 
 #### Other Projects
 - [Blacklight](https://projectblacklight.org/) - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
-- [Open Semantic Search](https://opensemanticsearch.org/) - Builds on top of Solr and offers a number of interesting features.[^opensemanticsearch]
+- [AJAX Solr](https://github.com/evolvingweb/ajax-solr) - JS library for building UI's for Solr. No updates since 10/2021 as of 3/2023.
+
+### Open Semantic Search
+- https://opensemanticsearch.org/
+- Under the hood one is running Apache Solr, but there are some significant changes that make listing Open Semantic Search separately worthwile.[^opensemanticsearch]
+
+#### Subprojects
+- [Solr PHP UI](https://opensemanticsearch.org/solr-php-ui/) - A frontend for Open Semantic Search.
+    - [GitHub Repo](https://github.com/opensemanticsearch/solr-php-ui)
 
 ### Elasticsearch
 - https://elastic.co/
@@ -94,9 +105,22 @@
 - [GitHub Repo](https://github.com/wibyweb/wiby)
 - Open source search engine written in PHP, C, and Go.
 
+### OpenSearchServer
+- https://www.opensearchserver.com/
+- [GitHub Repo](https://github.com/jaeksoft/opensearchserver)
+- Open source search engine written in Java, includes bundled crawler.
+- Note: No updates since 8/2021 as of 3/2023.
+
+### Metasearch
+
+#### Metager
+- https://metager.org/
+- [Git Repo](https://gitlab.metager.de/open-source/MetaGer)
+- Open source metasearch engine run by a nonprofit.
+
 ### Not Web Scale
 
-### meilisearch
+#### meilisearch
 - https://www.meilisearch.com/
 - [GitHub Repo](https://github.com/meilisearch/meilisearch)
 - An open source search engine written in Rust.
