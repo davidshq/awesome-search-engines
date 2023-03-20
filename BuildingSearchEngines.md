@@ -179,6 +179,42 @@ Common Crawl is a non-profit organization that maintains a large index of the we
 - https://www.mediawiki.org/wiki/Wikimedia_Search_Platform
 - https://www.mediawiki.org/wiki/User:TJones_(WMF)/Notes
 
+## Covers Search Related Topics
+- [Algolia's Blog](https://algolia.com/)
+
+## Books on Search and Information Retrieval
+- NOTE: There are currently 36 books in Springer's the Inforamtion Retrieval Series, not all are listed below.
+- Dirk Lewandowski. Understanding Search Engines. Springer, 3/2023. 307 pp. $45-$60 USD.
+- Karen Markey. Online Searching: A Guide to Finding Quality Information Efficiently and Effectively. Rowman & Littlefield Publishers, 3rd edition. 2/2023. 294 pp. $55-$58 USD.
+    - Focused on the user experience of searching, not building, but may be helpful, especially for those new to the field as it addresses some terminology and usability concerns.
+- Jiawei Han, Jian Pei, Hanghang Tong. Data Mining: Concepts and Techniques, 4th edition. Morgan Kaufmann, 7/2022. 752 pp. $57-122 USD.
+- Yi Chang, Hongbo Deng (editors). Query Understanding for Search Engines. Springer, 12/2021. 236 pp. $110-$150 USD.
+- Krisztian Balog. Entity-Oriented Search. Springer, 10/2018. 370 pp. $0 (ebook) - $57 USD.
+- Chirag Shah. Social Information Seeking: Leveraging the Wisdom of the Crowd. Springer, 7/2017. 204 pp. $24-$25 USD.
+- ChengXiang Zhai and Sean Massung. Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining. ACM Books, 6/2016. 532 pp. Price: $40-$80 USD.
+- Duncan O. Case. Looking for Information: A Survey of Research on Information Seeking, Needs, and Behavior, 4th edition. Emerald Publishing Limited, 4/2016. 528 pp. $71 - $85 USD.
+- Stefan Buttcher, Charles L. A. Clarke, Gordon V. Cormack. Information Retrieval: Implementing and Evaluating Search Engines. The MIT Press, 2/2016. 632 pp. $30-$42 USD.
+    - Significant portions of the 2010 edition of this book are [available for free from the official site](https://plg.uwaterloo.ca/~ir/ir/book/). There are 16 chapters in that edition with 7 available for free.
+- Louis Rosenfeld, Peter Morville, Jorge Arango. Information Architecture: For the Web and Beyond, 4th edition. O'Reilly, 9/2015. 483 pp. $37-$51 USD.
+- Chirag Shah. Collaborative Information Seeking: The Art and Science of Making the Whole Greater Than the Sum of All. Springer, 8/2014. 206 pp. $26-$98 USD.
+- Gerald Kowalski. Information Retrieval Systems: Theory and Implementation. Springer, 3/2013. 300 pp. $25-$147 USD.
+- Tyler Tate, Tony Russell-Rose. Designing the Search Experience: The Information Architecture of Discovery. Morgan Kaufmann, 1/2013. 32 pp. $5-$28 USD.
+- Giovanni Maria Sacco, Yannis Tzitzikas (editors). Dynamic Taxonomies and Faceted Search: Theory, Practice, and Experience. Springer, 3/2012. 357 pp. $32-$120 USD.
+- Amy N. Langville, Carl D. Meyer. Google's PageRank and Beyond: The Science of Search Engine Rankings. Princeton University Presss, 2/2012. 240 pp. $10-$30 USD.
+- Marcia J. Bates. Understanding Information Retrieval Systems: Management, Types, and Standards. Auerbach Publications, 12/2011. 752 pp. $51-$159 USD.
+- Tie-Yan Liu. Learning to Rank for Information Retrieval. Springer, 4/2011. 302 pp. $45-$125 USD.
+- Ricardo Baeza-Yates, Berthier Ribeiro-Neto. Modern Information Retrieval: The Concepts and Technology Behidn Search, 2nd edition. Addison-Wesley Professional, 2/2011. 913 pp. $35-$53 USD.
+- Peter Morville, Jeffery Callender. Search Patterns: Design for Discovery. O'Reilly, 2/2010. 192 pp. $9-$28 USD.
+- W. Bruce Croft, Donald Metzler, Trevor Strohman. Search Engines: Information Retrieval in Practice. Pearson, 2/2009. 552 pp. $30+ USD.
+    - Available for free from the [University of Massachusetts](https://ciir.cs.umass.edu/irbook/).
+- Christopher D. Manning, Hinrich Schütze, Prabhakar Raghavan. Introduction to Information Retrieval. Cambridge University Press, 7/2008.  506 pp. Price: $26-$54 USD.
+    - Available for free from [Stanford](https://nlp.stanford.edu/IR-book/information-retrieval-book.html).
+- Michael W. Berry, Murray Browne. Understanding Search Engines: Modeling and Text Retrieval, 2nd edition. Society for Industrial and Applied Mathematics, 5/2005. 184 pp. $38-$53 USD.
+- David A. Grossman, Ophir Frieder. Information Retrieval: Algorithms and Heuristics. Springer, 10/2004. 352 pp. $17-$164 USD.
+- Gerhard Weikum, Gottfried Vossen. Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery. Morgan Kaufmann, 6/2001. 872 pp. $62-$100 USD.
+- Karen Sparck Jones, Peter Willett (editors). Readings in Information Retrieval. Morgan Kaufmann, 7/1997. 587 pp. $16 USD.
+- William Frakes, Ricardo Baeza-Yates (editors). Information Retrieval: Data Structures & Algorithms. Pearson College Divison, 1/1992. 464 pp. $4-$55 USD.
+
 ## Footnotes
 [^controversy]: The fork was started following controversial licensing changes by Elasticsearch. For more on the history of this controversy see Graham Gillen's [Elasticsearch vs OpenSearch series](https://pureinsights.com/blog/2021/elasticsearch-vs-opensearch-user-point-of-view-part-1-of-3/). For a brief evaluation of OpenSearch's progress see Matt Asay's [One year of OpenSearch: Grading AWS’ open source effort](https://www.techrepublic.com/article/opensearch-grading-aws-open-source/).
 [^typesense]: Some interesting functionality includes tunable ranking, sorting, faceting & filtering, grouping & distinct, federated search, and curation. It doesn't appear to be in web scale usage but they've expressed interest in benchmarking larger datasets so I submmited an [issue requesting CommonCrawl be benchmarked](https://github.com/typesense/typesense/issues/933).

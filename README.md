@@ -136,7 +136,7 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 
 [^dogpile]: Dogpile is a meta search engine \(owned by InfoSpace\), one of the older engines on the net. It doesn't seem to be particularly distinguished from others but could probably offer competition if it placed energies towards significant innovation.
 
-[^gigablast]: Gigablast could easily have been excluded from this list. It appears to have stagnated to a large extent.
+[^gigablast]: It appears to have stagnated to a large extent.
 
 [^metager]: Metager is part of the non-profit organization SUMA-EV. It was started at the University of Hanover in 1996. While not the highest trafficked apparently pulls results from numerous search engines \(aka, it is meta\),and offers some helpful customization options for results. It has [released its source code as open source](https://gitlab.metager.de/open-source/MetaGer), and offers privacy. Impressive!
 
