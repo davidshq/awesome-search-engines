@@ -14,10 +14,14 @@
 
 # Diversity/Fairness
 - Zhaolin Gao, Tianshu Shen, Zheda Mai, Mohamed Reda Bouadjenek, Isaac Waller, Ashton Anderson. [Mitigating the Filter Bubble While Maintaining Relevance: Targeted Diversification with VAE-based Recommender Systems](https://dl.acm.org/doi/10.1145/3477495.3531890). 7/2022.
+- Wenjie Wang, Fuli Feng, Liqiang Nie, Tat-Seng Chua. [User-controllable Recommendation Against Filter Bubbles](https://dl.acm.org/doi/10.1145/3477495.3532075). 7/2022.*
 - Yuan Wang, Zhiqiang Tao, Yi Fang. [A Meta-learning Approach to Fair Ranking](https://dl.acm.org/doi/10.1145/3477495.3531892). 7/2022.*
+Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yasher Deldjoo. [CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommendation Systems](https://dl.acm.org/doi/10.1145/3477495.3531959). 7/2022.
+- Xiaoying Zhang, Hongning Wang, Hang Li. [Disentangled Representation for Diversified Recommendations](https://dl.acm.org/doi/10.1145/3539597.3570389). 2/2023.
 
 # Other
 - Mustaga Abualsaud, Mark Smucker. [The Dark Side of Relevance: The Effect of Non-Relevant Results on Search Behavior](https://dl.acm.org/doi/10.1145/3498366.3505770). 3/2022.
+- Zelong Li, Jianchao Ji, Yingqiang Ge, Yongfeng Zhang. [AutoLossGen: Automatic Loss Function Generation for Recommender Systems](https://dl.acm.org/doi/10.1145/3477495.3531941). 7/2022.
 
 
 # Older Research

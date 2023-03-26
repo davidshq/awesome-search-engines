@@ -1,0 +1,16 @@
+# Collaborative Research
+- Sandeep Avula, Jaime Arguello, Robert Capra, Jordan Dodson, Yuhui Huang, Filip Radlinski. [Embedding Search into a Conversational Platform to Support Collaborativer Search](https://dl.acm.org/doi/10.1145/3295750.3298928). 3/2019.
+- Chirag Shah. [Collaborative Information Seeking: Art and Science of Achieving 1+1>2 in IR](https://dl.acm.org/doi/10.1145/2911451.2914801). 7/2016.*
+- Scott Bateman, Carl Gutwin. [(The Lack of) Privacy Concerns with Sharing Web Activity at Work and the Implications for Collaborative Search](https://dl.acm.org/doi/10.1145/2854946.2854977). 3/2016.
+- Takehiro Yamamoto, Mitsuo Yamamoto, Katsumi Tanaka. [Analyzing Effect of Roles on Search Performance and Query Formulation in Collaborative Search](https://dl.acm.org/doi/10.1145/2812376.2812377). 10/2015.*
+- Ryan Kelly, Stephen J. Payne. [Collaborative web search in context: a study of tool use in everyday tasks](https://dl.acm.org/doi/10.1145/2531602.2531617). 2/2014.*
+- Zhen Yue, Shuguang Han, Daqing He. [An investigation of the query behavior in task-based collaborative exploratory web search](https://dl.acm.org/doi/10.5555/2655780.2655857). 11/2013.
+- Meredith Ringel Morris. [Collaborative search revisited](https://dl.acm.org/doi/10.1145/2441776.2441910). 2/2013.*
+- Chirag Shah. [Collaborative information seeking: understanding users, systems, and content](https://dl.acm.org/doi/10.1145/2124295.2124392). 2/2012.*
+- Meredith Ringel Morris, Dan Morris. [Understanding the potential for collaborative search technologies in clinical settings](https://dl.acm.org/doi/10.1145/2064075.2064079). 10/2011.
+- Saleema Amershi, Meredith Ringel Morris. [Co-located collaborative web search: understanding status quo practices](https://dl.acm.org/doi/10.1145/1520340.1520547). 4/2009.
+- Thorben Burghardt, Erik Buchmann, Klemens Böhm. [Discovering the Scope of Privacy Needs in Collaborative Search](https://dl.acm.org/doi/10.1109/WIIAT.2008.165). 12/2008.
+- Hideo Joho, David Hannah, Joemon M. Jose. [Comparing collaborative and independent search in a recall-oriented task](https://dl.acm.org/doi/10.1145/1414694.1414715). 10/2008.
+- Jeremy Pickens, Gene Golovchinsky, Chirag Shah, Pernilla Qvarfordt, Maribeth Back. [Algorithmic mediation for collaborative exploratory search](https://dl.acm.org/doi/10.1145/1390334.1390389). 7/2008.*
+- Michal Tvarožek, Mária Bieliková. [Collaborative multi-paradigm exploratory search](https://dl.acm.org/doi/10.1145/1379157.1379165). 6/2008.
+- Paul Heymann, Georgia Koutrika, Hector Garcia-Molina. [Can social bookmarking improve web search?](https://dl.acm.org/doi/10.1145/1341531.1341558). 2/2008.*
