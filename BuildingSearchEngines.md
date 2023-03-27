@@ -105,6 +105,7 @@
 ### Wiby
 - https://wiby.me/
 - [GitHub Repo](https://github.com/wibyweb/wiby)
+- [Installation and Setup Instructions](https://wiby.me/about/guide.html)
 - Open source search engine written in PHP, C, and Go.
 
 ### OpenSearchServer
