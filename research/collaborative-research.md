@@ -8,6 +8,8 @@
 - Meredith Ringel Morris. [Collaborative search revisited](https://dl.acm.org/doi/10.1145/2441776.2441910). 2/2013.*
 - Chirag Shah. [Collaborative information seeking: understanding users, systems, and content](https://dl.acm.org/doi/10.1145/2124295.2124392). 2/2012.*
 - Meredith Ringel Morris, Dan Morris. [Understanding the potential for collaborative search technologies in clinical settings](https://dl.acm.org/doi/10.1145/2064075.2064079). 10/2011.
+- Juan M. Fernández-Luna, Juan F. Huete, Julio C. Rodríguez-Cano. [User intent transition for explicit collaborative search through groups recommendation](https://dl.acm.org/doi/10.1145/2064075.2064083). 10/2011
+- Meredith Ringel Morris, Jarrod Lombardo, Daniel Wigdor. [WeSearch: supporting collaborative search and sensemaking on a tabletop display](https://dl.acm.org/doi/10.1145/1718918.1718987). 2/2010.
 - Saleema Amershi, Meredith Ringel Morris. [Co-located collaborative web search: understanding status quo practices](https://dl.acm.org/doi/10.1145/1520340.1520547). 4/2009.
 - Thorben Burghardt, Erik Buchmann, Klemens Böhm. [Discovering the Scope of Privacy Needs in Collaborative Search](https://dl.acm.org/doi/10.1109/WIIAT.2008.165). 12/2008.
 - Hideo Joho, David Hannah, Joemon M. Jose. [Comparing collaborative and independent search in a recall-oriented task](https://dl.acm.org/doi/10.1145/1414694.1414715). 10/2008.

@@ -27,9 +27,16 @@
 - https://elastic.co/
 - Used by Wikipedia
 
+### Other Projects
+- [dejavu](https://github.com/appbaseio/dejavu) - Open source, JS web-based UI for Elasticsearch and OpenSearch.
+- [Fess](https://fess.codelibs.org/) - Open source, enterprise search server with web crawler and GUI. Written in Java.
+
 ## OpenSearch
 - https://opensearch.org/
 - An open source fork of Elasticsearch started by Amazon.[^controversy]
+
+### Other Projects
+- Please see Other Projects under Elasticsearch. Only projects that are for OpenSearch exclusively will be listed here.
 
 ## Gigablast
 - https://gigablast.com/
