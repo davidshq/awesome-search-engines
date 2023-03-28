@@ -1,6 +1,7 @@
 # Collaborative Research
 - Dmitry Ustalov, Saiph Savage, Niels van Berkel, Yang Liu. [4th Crowd Science Workship - CANDLE: Collaboration of Humans and Learning Algorithms for Data Labeling](https://dl.acm.org/doi/10.1145/3539597.3572703). 2/2023.*
 - Felipe Moraes. [Examining the Effectiveness of Collaborative Search Engines](https://dl.acm.org/doi/10.1145/3582524.3582543). 1/2023.*
+- Ya'akov (Kobi) Gal, Avi Segal, Ece Kamar, Eric Horvitz, Chris Lintott, Mike Walmsley. [A new Workflow for Human-AI Collaboration in Citizen Science](https://dl.acm.org/doi/10.1145/3524458.3547243). 9/2022.
 - Yi Ouyang, Peng Wu, Li Pan. [Asymmetrical Context-aware Modulation for Collaborative Filtering Recommendation](https://dl.acm.org/doi/10.1145/3511808.3557240). 10/2022.
 - Mohammed Saeed, Nicolas Traub, Maelle Nicolas, Gianluca Demartini, Paolo Papotti. [Crowdsourced Fact-Checking at Twitter: How Does the Crowd Compare With Experts?](https://dl.acm.org/doi/10.1145/3511808.3557279). 10/2022.*
 - Sandeep Avula, Jaime Arguello, Robert Capra, Jordan Dodson, Yuhui Huang, Filip Radlinski. [Embedding Search into a Conversational Platform to Support Collaborativer Search](https://dl.acm.org/doi/10.1145/3295750.3298928). 3/2019.
@@ -16,7 +17,8 @@
 - Roberto González-Ibáñez, Muge Haseki, Chirag Shah. [Understanding effects of time and proximity on collaboration: implications for technologies to support collaborative information seeking](https://dl.acm.org/doi/10.1145/2212776.2223713). 5/2012.
 - Chirag Shah. [Collaborative information seeking: understanding users, systems, and content](https://dl.acm.org/doi/10.1145/2124295.2124392). 2/2012.*
 - Meredith Ringel Morris, Dan Morris. [Understanding the potential for collaborative search technologies in clinical settings](https://dl.acm.org/doi/10.1145/2064075.2064079). 10/2011.
-- Juan M. Fernández-Luna, Juan F. Huete, Julio C. Rodríguez-Cano. [User intent transition for explicit collaborative search through groups recommendation](https://dl.acm.org/doi/10.1145/2064075.2064083). 10/2011
+- Juan M. Fernández-Luna, Juan F. Huete, Julio C. Rodríguez-Cano. [User intent transition for explicit collaborative search through groups recommendation](https://dl.acm.org/doi/10.1145/2064075.2064083). 10/2011.
+- Kevin McNally, Michael P. O'Mahony, Barry Smyth, Maurice Coyle, Peter Briggs. [Social and collaborative web search: an evaluation study](https://dl.acm.org/doi/10.1145/1943403.1943472). 2/2011.*
 - Meredith Ringel Morris, Jarrod Lombardo, Daniel Wigdor. [WeSearch: supporting collaborative search and sensemaking on a tabletop display](https://dl.acm.org/doi/10.1145/1718918.1718987). 2/2010.
 - Saleema Amershi, Meredith Ringel Morris. [Co-located collaborative web search: understanding status quo practices](https://dl.acm.org/doi/10.1145/1520340.1520547). 4/2009.
 - Sharoda A. Paul, Meredith Ringel Morris. [CoSense: enhancing sensemaking for collaborative web search](https://dl.acm.org/doi/10.1145/1518701.1518974). 4/2009.*

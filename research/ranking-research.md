@@ -1,4 +1,5 @@
-# Ranking
+# Ranking and Recommendations
+- Ruobing Xe, Qi Liu, Liangdong Wang, Shukai Liu, Bo Zhang, Leyu Lin. [Contrastive Corss-domain Recommendation in Matching](https://dl.acm.org/doi/10.1145/3534678.3539125). 8/2022.
 - Linsey Pang, Wei Liu, Keng-Hao Chang, Xue Li, Moumita Bhattacharya, Xianjing Liu, Stephen Guo. [Deep Search Relevance Ranking in Practice](https://dl.acm.org/doi/10.1145/3534678.3542632). 8/2022.*
 - Egor Markovskiy, Fiana Raiber, Shoham Sabach, Oren Kurland. [From Cluster Ranking to Document Ranking](https://dl.acm.org/doi/10.1145/3477495.3531819). 7/2022.
 - Amifa Raj, Michael D. Ekstrand. [Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison](https://dl.acm.org/doi/10.1145/3477495.3532018). 7/2022.
@@ -11,6 +12,9 @@
 - Virginie Do, Nicolas Usunier. [Optimizing Generalized Gini Indices for Fairness in Rankings](https://dl.acm.org/doi/10.1145/3477495.3532035). 7/2022.
 - Shubham Chatterjee, Laura Dietz. [BERT-ER: Query-specific BERT Entity Representations for Entity Ranking](https://dl.acm.org/doi/10.1145/3477495.3531944). 7/2022.*
 - Alessandro Magnani, Feng Liu, Suthee Chaidaroon, Sachin Yadav, Praveen Reddy Suram, Ajit Puthenputhussery, Sijie Chen, Min Xie, Anirudh Kashi, Tony Lee, Ciya Liao.[Search Retrieval at Walmart](https://dl.acm.org/doi/10.1145/3534678.3539164). 8/2022.
+- Giacomo Balloccu, Ludovico Boratto, Gianni Fenu, Mirko Marras. [Hands on Explaining Recommender Systems with Knowledge Graphs](https://dl.acm.org/doi/10.1145/3523227.3547374). 9/2022.*
+- Seonghwan Choi, Hyeondey Kim, Manjun Gim. [Do Not Read the Same News! Enhancing Diversity and Personalization of News Recommentation](https://dl.acm.org/doi/10.1145/3487553.3524936). 4/2022.
+- Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, Shaoping Ma. [Why Don't You Click: Understanding Non-Click Results in Web Search with Brain Signals](https://dl.acm.org/doi/10.1145/3477495.3532082). 7/2022.
 
 # Older
 - Anlei Dong, Yi Chang, Zhaohui Zheng, Gilad Mishne, Jing Bai, Ruqiang Zhang, Karolina Buchner, Ciya Laio, Fernando Diaz. [Towards recency ranking in web search](https://dl.acm.org/doi/10.1145/1718487.1718490). 2/2010.
