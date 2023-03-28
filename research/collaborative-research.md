@@ -1,5 +1,6 @@
 # Collaborative Research
-- Dmitry Ustalov, Saiph Savage, Niels van Berkel, Yang Liu. [4th Crowd Science Workship - CANDLE: Collaboration of Humans and Learning Algorithms for Data Labeling](https://dl.acm.org/doi/10.1145/3539597.3572703).*
+- Dmitry Ustalov, Saiph Savage, Niels van Berkel, Yang Liu. [4th Crowd Science Workship - CANDLE: Collaboration of Humans and Learning Algorithms for Data Labeling](https://dl.acm.org/doi/10.1145/3539597.3572703). 2/2023.*
+- Felipe Moraes. [Examining the Effectiveness of Collaborative Search Engines](https://dl.acm.org/doi/10.1145/3582524.3582543). 1/2023.*
 - Yi Ouyang, Peng Wu, Li Pan. [Asymmetrical Context-aware Modulation for Collaborative Filtering Recommendation](https://dl.acm.org/doi/10.1145/3511808.3557240). 10/2022.
 - Mohammed Saeed, Nicolas Traub, Maelle Nicolas, Gianluca Demartini, Paolo Papotti. [Crowdsourced Fact-Checking at Twitter: How Does the Crowd Compare With Experts?](https://dl.acm.org/doi/10.1145/3511808.3557279). 10/2022.*
 - Sandeep Avula, Jaime Arguello, Robert Capra, Jordan Dodson, Yuhui Huang, Filip Radlinski. [Embedding Search into a Conversational Platform to Support Collaborativer Search](https://dl.acm.org/doi/10.1145/3295750.3298928). 3/2019.
@@ -20,6 +21,7 @@
 - Saleema Amershi, Meredith Ringel Morris. [Co-located collaborative web search: understanding status quo practices](https://dl.acm.org/doi/10.1145/1520340.1520547). 4/2009.
 - Sharoda A. Paul, Meredith Ringel Morris. [CoSense: enhancing sensemaking for collaborative web search](https://dl.acm.org/doi/10.1145/1518701.1518974). 4/2009.*
 - Thorben Burghardt, Erik Buchmann, Klemens Böhm. [Discovering the Scope of Privacy Needs in Collaborative Search](https://dl.acm.org/doi/10.1109/WIIAT.2008.165). 12/2008.
+- Meredith Ringel Morris, Jaime Teevan, Steve Bush. [Enhancing collaborative web search with personalization: groupization, smart splitting, and group hit-highlighting](https://dl.acm.org/doi/10.1145/1460563.1460640). 11/2008.*
 - Hideo Joho, David Hannah, Joemon M. Jose. [Comparing collaborative and independent search in a recall-oriented task](https://dl.acm.org/doi/10.1145/1414694.1414715). 10/2008.
 - Jeremy Pickens, Gene Golovchinsky, Chirag Shah, Pernilla Qvarfordt, Maribeth Back. [Algorithmic mediation for collaborative exploratory search](https://dl.acm.org/doi/10.1145/1390334.1390389). 7/2008.*
 - Michal Tvarožek, Mária Bieliková. [Collaborative multi-paradigm exploratory search](https://dl.acm.org/doi/10.1145/1379157.1379165). 6/2008.
