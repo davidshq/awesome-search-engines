@@ -1,7 +1,9 @@
 # Collaborative Research
 - Dmitry Ustalov, Saiph Savage, Niels van Berkel, Yang Liu. [4th Crowd Science Workship - CANDLE: Collaboration of Humans and Learning Algorithms for Data Labeling](https://dl.acm.org/doi/10.1145/3539597.3572703).*
 - Yi Ouyang, Peng Wu, Li Pan. [Asymmetrical Context-aware Modulation for Collaborative Filtering Recommendation](https://dl.acm.org/doi/10.1145/3511808.3557240). 10/2022.
+- Mohammed Saeed, Nicolas Traub, Maelle Nicolas, Gianluca Demartini, Paolo Papotti. [Crowdsourced Fact-Checking at Twitter: How Does the Crowd Compare With Experts?](https://dl.acm.org/doi/10.1145/3511808.3557279). 10/2022.*
 - Sandeep Avula, Jaime Arguello, Robert Capra, Jordan Dodson, Yuhui Huang, Filip Radlinski. [Embedding Search into a Conversational Platform to Support Collaborativer Search](https://dl.acm.org/doi/10.1145/3295750.3298928). 3/2019.
+- Lynda Tamine, Laure Soulier. [Collaborative Information Retrieval: Frameworks, Theoretical Models, and Emerging Topics](https://dl.acm.org/doi/10.1145/2970398.2970442). 9/2016.*
 - Chirag Shah. [Collaborative Information Seeking: Art and Science of Achieving 1+1>2 in IR](https://dl.acm.org/doi/10.1145/2911451.2914801). 7/2016.*
 - Scott Bateman, Carl Gutwin. [(The Lack of) Privacy Concerns with Sharing Web Activity at Work and the Implications for Collaborative Search](https://dl.acm.org/doi/10.1145/2854946.2854977). 3/2016.
 - Takehiro Yamamoto, Mitsuo Yamamoto, Katsumi Tanaka. [Analyzing Effect of Roles on Search Performance and Query Formulation in Collaborative Search](https://dl.acm.org/doi/10.1145/2812376.2812377). 10/2015.*

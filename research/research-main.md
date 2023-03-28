@@ -9,6 +9,9 @@
 ## Privacy
 - Amit Kumar, Marc Spaniol. [There is a fine Line between Personalization and Surveillanced: Semantic User Interest Tracing via Entity-Level Analytics](https://dl.acm.org/doi/10.1145/3501247.3531592). 6/2022.
 
+## Conversational
+- Jeffrey Dalton, Sophie Fischer, Paul Owoicho, Filip Radlinski, Rederico Rossetto, Johanne R. Trippas, Hamed Zamani. [Conversation Information Seeking: Theory and Application](https://dl.acm.org/doi/10.1145/3477495.3532678). 7/2022.*
+
 ## Trustworthiness
 - Maarten de Rijke. [Beyond-Accuracy Goals, Again](https://dl.acm.org/doi/10.1145/3539597.3572332). 2/2023.
 - Markus Schedl, Emilia Gómez, Elisabeth Lex. [Trustworthy Algorithmic Ranking Systems.](https://dl.acm.org/doi/10.1145/3539597.3572723). 2/2023.*
@@ -33,6 +36,7 @@ Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yasher Deldjoo. [CPFair: Personalize
 
 ## Uncategorized
 - Mustaga Abualsaud, Mark Smucker. [The Dark Side of Relevance: The Effect of Non-Relevant Results on Search Behavior](https://dl.acm.org/doi/10.1145/3498366.3505770). 3/2022.
+- Chenxu Zhu, Peng Du, Xianghui Zhu, Weinan Zhang, Yong Yu, Yang Cao. [User-tag Profile Modeling in Recommendation System via Contrast Weighted Tag Masking](https://dl.acm.org/doi/10.1145/3534678.3539102). 8/2022.
 - Zelong Li, Jianchao Ji, Yingqiang Ge, Yongfeng Zhang. [AutoLossGen: Automatic Loss Function Generation for Recommender Systems](https://dl.acm.org/doi/10.1145/3477495.3531941). 7/2022.
 - Arnold Overwijk, Chenyan Xiong, Jamie Callan. [ClueWeb22: 10 Billion Documents with Rich Information](https://dl.acm.org/doi/10.1145/3477495.3536321). 7/2022.
 - Aleksandra Urman, Mykola Makhortykh, Roberto Ulloa, Juhi Kulshrestha. [Where the earth is flat and 9/11 is an inside job: A comparative algorithm audit of conspiratorial information in web search results](https://www.researchgate.net/publication/361863464_Where_the_earth_is_flat_and_911_is_an_inside_job_A_comparative_algorithm_audit_of_conspiratorial_information_in_web_search_results). 8/2022.*
