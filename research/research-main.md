@@ -31,11 +31,16 @@
 - Jesse Sayles, Ryan P. Furey, Marilyn R. ten Brink. [How deep to dig: effects of web-scraping search depth on hyperlink network analysis of environmental stewardship organizations](https://www.researchgate.net/publication/361121252_How_deep_to_dig_effects_of_web-scraping_search_depth_on_hyperlink_network_analysis_of_environmental_stewardship_organizations). 6/2022.
 
 ## Diversity, Fairness, Bias
+- Gang Chen, Jiawei Chen, Fuli Feng, Sheng Zhou, Xiangnan He. [Unbiased Knowledge Distillation for Recommendation](https://dl.acm.org/doi/10.1145/3539597.3570477). 2/2023.
+- Amifa Raj. [Fair Ranking Metrics](https://dl.acm.org/doi/10.1145/3523227.3547430). 9/2022.
+- Yuta Saito, Thorsten Joachims. [Fair Ranking as Fair Division: Impact-Based Individual Fairness in Ranking](https://dl.acm.org/doi/10.1145/3534678.3539353). 8/2022.*
+- Ji Liu, Zenan Li, Yuan Yao, Feng Xu, Xiaoxing Ma, Miao Xu, Hanghang Tong. [Fair Representation Learning: An Alternative to Mutual Information](https://dl.acm.org/doi/10.1145/3534678.3539302). 8/2022.
 - Mouxiang Chen, Chenghao Liu, Zemin Liu, Jianling Sun. [Scalar is Not Enough: Vectorization-based Unbiased Learning to Rank](https://dl.acm.org/doi/10.1145/3534678.3539468). 8/2022.
 - Zhaolin Gao, Tianshu Shen, Zheda Mai, Mohamed Reda Bouadjenek, Isaac Waller, Ashton Anderson. [Mitigating the Filter Bubble While Maintaining Relevance: Targeted Diversification with VAE-based Recommender Systems](https://dl.acm.org/doi/10.1145/3477495.3531890). 7/2022.
 - Wenjie Wang, Fuli Feng, Liqiang Nie, Tat-Seng Chua. [User-controllable Recommendation Against Filter Bubbles](https://dl.acm.org/doi/10.1145/3477495.3532075). 7/2022.*
 - Yuan Wang, Zhiqiang Tao, Yi Fang. [A Meta-learning Approach to Fair Ranking](https://dl.acm.org/doi/10.1145/3477495.3531892). 7/2022.*
 Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yasher Deldjoo. [CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommendation Systems](https://dl.acm.org/doi/10.1145/3477495.3531959). 7/2022.
+- Anja Klasnja, Negar Arabzadeh, Mahbod Mehrvarz, Ebrahim Baghieri. [On the Characteristics of Ranking-based Gender Bias Measures](https://dl.acm.org/doi/10.1145/3501247.3531540). 6/2022.*
 - Qinzhi Jiang, Mustafa Naseem, Jamie Lai, Kentaro Toyama, Panos Papalambros. [Understanding Power Differentials and Cultural Differences in Co-design with Marginalized Populations](https://dl.acm.org/doi/10.1145/3530190.3534819). 6/2022.
 - Xiaoying Zhang, Hongning Wang, Hang Li. [Disentangled Representation for Diversified Recommendations](https://dl.acm.org/doi/10.1145/3539597.3570389). 2/2023.
 - Sophie Scharf, Monika Wiegelmann, Arnt Bröder. [Information search in everyday decisions: The generalizability of the attraction search effect](https://www.researchgate.net/publication/366827841_Information_search_in_everyday_decisions_The_generalizability_of_the_attraction_search_effect). 1/2023.
@@ -43,10 +48,12 @@ Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yasher Deldjoo. [CPFair: Personalize
 
 ## Uncategorized
 - Masaki Suzuki, Yusuke Yamamoto. [Don't Judge by Looks: Search User Interface to Make Searchers Reflect on Their Relevance Criteria and Promote Content-Quality-Oriented Web Searches](https://dl.acm.org/doi/10.1145/3524458.3547222). 9/2022.
+- Gaurav Gupta, Tharun Medini, Anshumali Shrivastava, Alexander J. Smola. [BLISS: A Billion scale Index using Iterative Re-partitioning](https://dl.acm.org/doi/10.1145/3534678.3539414). 8/2022.*
 - Birgit Pfitzmann, Christoph Auer, Michele Dolfi, Ahmed S. Nassar, Peter Staar. [DocLayNet: A Large Human-Annotated Dataset for Document-Layout Segmentation](https://dl.acm.org/doi/10.1145/3534678.3539043). 8/2022.
 - Lingjun Xu, Shiyin Zhang, Guojie Song, Junshan Wang, Tianshu Wu, Guojun Liu. [Taxonomy-Enhanced Graph Neural Networks](https://dl.acm.org/doi/10.1145/3511808.3557467). 10/2022.
 - Sean Zhang, Varun Ursekar, Leman Akoglu. [Sparx: Distributed Outlier Detection at Scale](https://dl.acm.org/doi/10.1145/3534678.3539076). 8/2022. 
 - Marwah Alaofi, Luke Gallagher, Dana Mckay, Lauren L. Saling, Mark Sandrson, Falk Scholer, Damiano Spina, Ryen W. White. [Where Do Queries Come From?](https://dl.acm.org/doi/10.1145/3477495.3531711). 7/2022.
+- Thomas Grubb, Bill Anderson, Omar Alonso. [On Reliability Scores for Knowledge Graphs](https://dl.acm.org/doi/10.1145/3487553.3524212). 4/2022.
 - Mustaga Abualsaud, Mark Smucker. [The Dark Side of Relevance: The Effect of Non-Relevant Results on Search Behavior](https://dl.acm.org/doi/10.1145/3498366.3505770). 3/2022.
 - Chirag Shah, Emily M. Bender. [Situating Search](https://dl.acm.org/doi/10.1145/3498366.3505816). 3/2022.*
 - Chenxu Zhu, Peng Du, Xianghui Zhu, Weinan Zhang, Yong Yu, Yang Cao. [User-tag Profile Modeling in Recommendation System via Contrast Weighted Tag Masking](https://dl.acm.org/doi/10.1145/3534678.3539102). 8/2022.
