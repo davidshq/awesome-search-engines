@@ -68,6 +68,7 @@
 ### Collaborative
 - Chirag Shah. Social Information Seeking: Leveraging the Wisdom of the Crowd. Springer, 7/2017. 204 pp.
 - Chirag Shah. Collaborative Information Seeking: The Art and Science of Making the Whole Greater Than the Sum of All. Springer, 8/2014. 206 pp.
+- Satnam Alag. Collective Intelligence in Action. Manning Publications, 9/2008. 425 pp.
 
 ### Uncategorized
 - Anuradha D. Thakare, Shilpa Laddha, Ambika Pawar. Hybrid Intelligent Systems for Information Retrieval. Chapman Hall/CRC, 11/2022. 252 pp.
@@ -83,6 +84,7 @@
 - Bo Long, Yi Chang. Relevance Ranking for Vertical Search Engines. Morgan Kaufmann, 1/2014. 264 pp.
 - Gerald Kowalski. Information Retrieval Systems: Theory and Implementation. Springer, 3/2013. 300 pp.
 - Tyler Tate, Tony Russell-Rose. Designing the Search Experience: The Information Architecture of Discovery. Morgan Kaufmann, 1/2013. 320 pp.
+- Dirk Lewandowski, ed. Web Search Engine Research. Emerald Publishing Limited, 4/2012. 322 pp.
 - Giovanni Maria Sacco, Yannis Tzitzikas (editors). Dynamic Taxonomies and Faceted Search: Theory, Practice, and Experience. Springer, 3/2012. 357 pp.
 - Amy N. Langville, Carl D. Meyer. Google's PageRank and Beyond: The Science of Search Engine Rankings. Princeton University Presss, 2/2012. 240 pp.
 - Marcia J. Bates. Understanding Information Retrieval Systems: Management, Types, and Standards. Auerbach Publications, 12/2011. 752 pp.
