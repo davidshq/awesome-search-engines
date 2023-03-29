@@ -14,6 +14,10 @@
 ### Other Projects
 - [Blacklight](https://projectblacklight.org/) - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
 - [AJAX Solr](https://github.com/evolvingweb/ajax-solr) - JS library for building UI's for Solr. No updates since 10/2021 as of 3/2023.
+- [BERT Solr Search](https://github.com/DmitryKey/bert-solr-search) - Updated: 6/2022 - Checked: 3/2023 - Stars: 134 - Allows one to search with BERT vectors in Solr, also compatible with Elasticsearch/OpenSearch.
+    - Has associated articles explaining the process that was used to build the solution.
+- [YASA (Yet Another Solr Admin)](https://github.com/yasa-org/yasa) - Updated: 9/2021 - Checked: 3/2023 - Stars: 47 - A web-based UI for administering Solr written with Vue in TypeScript.
+- [Solr Extension Directory](https://solr.cool/) - A directory of extensions available for Solr including query parsers, analyzers, response writers, search components, document transformers, and utilities.
 
 ## Open Semantic Search
 - https://opensemanticsearch.org/
@@ -30,6 +34,7 @@
 ### Other Projects
 - [dejavu](https://github.com/appbaseio/dejavu) - Open source, JS web-based UI for Elasticsearch and OpenSearch.
 - [Fess](https://fess.codelibs.org/) - Open source, enterprise search server with web crawler and GUI. Written in Java.
+- [Searchkit](https://github.com/searchkit/searchkit) - Updated: 3/2023 - Checked: 3/2023 - Stars: 4.6k - Open source library for building search UI's with JS, React, Vue, Angular, etc. Written in TypeScript primarily.
 
 ## OpenSearch
 - https://opensearch.org/
@@ -99,3 +104,7 @@
 - https://typesense.org/
 - [GitHub Repo](https://github.com/typesense/typesense)
 - An open source Algolia alternative written in C/C++.[^typesense]
+
+## Smaller Engines
+- [Sonic](https://github.com/valeriansaliou/sonic) - Updated: 1/2023 - Checked: 3/2023 - Stars: 18k - A lightweight, speedy search backend written in Rust.
+- [ZincSearch](https://github.com/zincsearch/zincsearch) - Updated: 3/2023 - Checked: 3/2023 - Stars: 14.7k - Lightweight alternative to Elasticsearch, written in Go. Includes a web UI.
