@@ -9,6 +9,7 @@
     - Norconex Web Crawler
     - PulsarR
     - Heritrix
+- Overview
 - Common Crawl
     - General
     - Tooling
@@ -20,6 +21,9 @@
 
 ## Open Source Search Engines
 - I've broken this section out into it's own page, see [Open Source Search Engines](OpenSourceSearchEngines.md).
+
+## Overview
+- [The Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering)
 
 ## Open Source Web Crawlers
 
@@ -81,3 +85,5 @@ Common Crawl is a non-profit organization that maintains a large index of the we
 
 ### For Beginners
 - [Build Your Own Search Engine and Web Crawler in 5 Minutes with Node.js, MySQL, and Elasticsearch](https://coderdose.com/build-your-own-search-engine-and-web-crawler-in-5-minutes-with-node-js-mysql-and-elasticsearch/). Coderdose, 3/2023.
+- [Web Search Engine: Design and implementation of a Web Search Engine Using Text Mining Techniques](https://www.codeproject.com/Articles/5319612/Web-Search-Engine). Code Project, 12/2021-3/2023.
+    - Uses Python and a SQL back-end.
