@@ -17,7 +17,6 @@
 - Tutorials
 - [Books on Search and Information Retrieval](/research/books-research.md)
 - [Research on Search and Information Retrieval](/research/research-main.md)
-- Footnotes
 
 ## Open Source Search Engines
 - I've broken this section out into it's own page, see [Open Source Search Engines](OpenSourceSearchEngines.md).
@@ -82,9 +81,3 @@ Common Crawl is a non-profit organization that maintains a large index of the we
 
 ### For Beginners
 - [Build Your Own Search Engine and Web Crawler in 5 Minutes with Node.js, MySQL, and Elasticsearch](https://coderdose.com/build-your-own-search-engine-and-web-crawler-in-5-minutes-with-node-js-mysql-and-elasticsearch/). Coderdose, 3/2023.
-
-## Footnotes
-[^controversy]: The fork was started following controversial licensing changes by Elasticsearch. For more on the history of this controversy see Graham Gillen's [Elasticsearch vs OpenSearch series](https://pureinsights.com/blog/2021/elasticsearch-vs-opensearch-user-point-of-view-part-1-of-3/). For a brief evaluation of OpenSearch's progress see Matt Asay's [One year of OpenSearch: Grading AWS’ open source effort](https://www.techrepublic.com/article/opensearch-grading-aws-open-source/).
-[^typesense]: Some interesting functionality includes tunable ranking, sorting, faceting & filtering, grouping & distinct, federated search, and curation. It doesn't appear to be in web scale usage but they've expressed interest in benchmarking larger datasets so I submmited an [issue requesting CommonCrawl be benchmarked](https://github.com/typesense/typesense/issues/933).
-[^opensemanticsearch]: It isn't meant for web search particularly but it offers a number of features which could be useful in a search engine - e.g. exploratory search as well as collaborative annotation and tagging.
-[^mwmbl]: The project has some similarities with what I'm looking to do with [Phoebe](https://github.com/davidshq/next-search/). It is open source, a non-profit, and the code is written in Python.

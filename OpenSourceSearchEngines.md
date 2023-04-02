@@ -144,3 +144,9 @@
 ## Smaller Engines
 - [Sonic](https://github.com/valeriansaliou/sonic) - Updated: 1/2023 - Checked: 3/2023 - Stars: 18k - A lightweight, speedy search backend written in Rust.
 - [ZincSearch](https://github.com/zincsearch/zincsearch) - Updated: 3/2023 - Checked: 3/2023 - Stars: 14.7k - Lightweight alternative to Elasticsearch, written in Go. Includes a web UI.
+
+## Footnotes
+[^controversy]: The fork was started following controversial licensing changes by Elasticsearch. For more on the history of this controversy see Graham Gillen's [Elasticsearch vs OpenSearch series](https://pureinsights.com/blog/2021/elasticsearch-vs-opensearch-user-point-of-view-part-1-of-3/). For a brief evaluation of OpenSearch's progress see Matt Asay's [One year of OpenSearch: Grading AWS’ open source effort](https://www.techrepublic.com/article/opensearch-grading-aws-open-source/).
+[^typesense]: Some interesting functionality includes tunable ranking, sorting, faceting & filtering, grouping & distinct, federated search, and curation. It doesn't appear to be in web scale usage but they've expressed interest in benchmarking larger datasets so I submmited an [issue requesting CommonCrawl be benchmarked](https://github.com/typesense/typesense/issues/933).
+[^opensemanticsearch]: It isn't meant for web search particularly but it offers a number of features which could be useful in a search engine - e.g. exploratory search as well as collaborative annotation and tagging.
+[^mwmbl]: The project has some similarities with what I'm looking to do with [Phoebe](https://github.com/davidshq/next-search/). It is open source, a non-profit, and the code is written in Python.
