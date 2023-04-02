@@ -1,5 +1,43 @@
 # Open Source Search Engines
 
+## Table of Contents
+- Apache Lucene
+    - Lucene++
+- Apache Solr
+    - Other Projects
+        - Blacklight
+        - AJAX Solr
+        - BERT Solr Search
+        - YASA
+        - Solr Extension Directory
+- Open Semantic Search
+    - Subprojects
+        - Solr PHP UI
+- Elasticsearch
+    - Other Projects
+        - dejavu
+        - Fess
+        - Searchkit
+- OpenSearch
+    - Other Projects
+- Gigablast
+- YaCy
+    - Articles
+- Vald
+- Weaviate
+- MWMBL
+- Alexandria
+- Wiby
+- OpenSearchServer
+- Metasearch
+    - MetaGer
+- Not Web Scale
+    - meilisearch
+    - Typesense
+- Smaller Engines
+    - Sonic
+    - ZincSearch
+
 ## Apache Lucene
 - https://lucene.apache.org/
 - The open source Java library that powers Apache Solr and Elasticsearch, among many other search projects.
@@ -49,9 +87,7 @@
 - Founded in 2000 by Matt Wells as a closed source search engine it was later open sourceed. It is written in C++, is distributed, and includes both the engine and a crawler.
 
 ## YaCy
-- https://yacy.net/
-- [GitHub Repo](https://github.com/yacy/yacy_search_server)
-- An open source, distributed, P2P search engine built in Java with a focus on user privacy and decentralization. It's been around for a long time and continues to be actively developed. Includes a crawler.
+- Please see the [dedicated page on YaCy](/specific-engines/yacy.md).
 
 ## Vald
 - https://vald.vdaas.org/
@@ -88,7 +124,7 @@
 
 ## Metasearch
 
-### Metager
+### MetaGer
 - https://metager.org/
 - [Git Repo](https://gitlab.metager.de/open-source/MetaGer)
 - Open source metasearch engine run by a nonprofit.
