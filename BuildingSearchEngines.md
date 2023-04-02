@@ -13,8 +13,10 @@
     - General
     - Tooling
 - Wikimedia Search
-- Books on Search and Information Retrieval
-- Research on Search and Information Retrieval
+- Sites Covering Search Related Topics
+- Tutorials
+- [Books on Search and Information Retrieval](/research/books-research.md)
+- [Research on Search and Information Retrieval](/research/research-main.md)
 - Footnotes
 
 ## Open Source Search Engines
@@ -73,19 +75,13 @@ Common Crawl is a non-profit organization that maintains a large index of the we
 - https://www.mediawiki.org/wiki/Wikimedia_Search_Platform
 - https://www.mediawiki.org/wiki/User:TJones_(WMF)/Notes
 
-## Covers Search Related Topics
+## Sites Covering Search Related Topics
 - [Algolia's Blog](https://algolia.com/)
 
 ## Tutorials
 
 ### For Beginners
 - [Build Your Own Search Engine and Web Crawler in 5 Minutes with Node.js, MySQL, and Elasticsearch](https://coderdose.com/build-your-own-search-engine-and-web-crawler-in-5-minutes-with-node-js-mysql-and-elasticsearch/). Coderdose, 3/2023.
-
-## Books on Search and Information Retrieval
-- Please see the [Books on Search and Information Retrieval](/research/books-research.md) page for information on various books published regarding search/IR.
-
-## Research on Search and Information Retrieval
-- Please see the [Research on Search and Information Retrieval](/research/research-main.md) pages for information on studies, journal articles, etc. regarding search/IR.
 
 ## Footnotes
 [^controversy]: The fork was started following controversial licensing changes by Elasticsearch. For more on the history of this controversy see Graham Gillen's [Elasticsearch vs OpenSearch series](https://pureinsights.com/blog/2021/elasticsearch-vs-opensearch-user-point-of-view-part-1-of-3/). For a brief evaluation of OpenSearch's progress see Matt Asay's [One year of OpenSearch: Grading AWS’ open source effort](https://www.techrepublic.com/article/opensearch-grading-aws-open-source/).
