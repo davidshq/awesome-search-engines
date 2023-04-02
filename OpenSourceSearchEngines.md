@@ -21,7 +21,7 @@
 - OpenSearch
     - Other Projects
 - Gigablast
-- YaCy
+- [YaCy](/specific-engines/yacy.md)
     - Articles
 - Vald
 - Weaviate
