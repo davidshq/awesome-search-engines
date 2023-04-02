@@ -62,6 +62,7 @@ Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yasher Deldjoo. [CPFair: Personalize
 - Aleksandra Urman, Mykola Makhortykh, Roberto Ulloa, Juhi Kulshrestha. [Where the earth is flat and 9/11 is an inside job: A comparative algorithm audit of conspiratorial information in web search results](https://www.researchgate.net/publication/361863464_Where_the_earth_is_flat_and_911_is_an_inside_job_A_comparative_algorithm_audit_of_conspiratorial_information_in_web_search_results). 8/2022.*
 - Ali Abbasov, Vagif Gasimov. [Domain-oriented information search on the Internet](https://www.researchgate.net/publication/367004891_Domain-oriented_information_search_on_the_Internet). 11/2022.
 - Evi Yulianti. [Finding Answers in Web Search](https://www.researchgate.net/publication/283659235_Finding_Answers_in_Web_Search). 8/2015.
+- Sonali Tanaji Kadam, Sanchika Bajpai. [Development of Web Annotation Technique for Search Result Records Using Web Database.](https://www.researchgate.net/publication/283779983_Development_of_Web_Annotation_Technique_for_Search_Result_Records_Using_Web_Database). 7/2015.
 
 ## Internationalization and Localization
 - Zhuliu Li, Yiming Wang, Xiao Yan, Weizhi Meng, Yanen Li, Jaewon Yang. [TaxoTrans: Taxonomy-Guided Entity Translation](https://dl.acm.org/doi/10.1145/3534678.3539188). 8/2022.
