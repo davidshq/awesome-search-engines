@@ -45,9 +45,11 @@ Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yasher Deldjoo. [CPFair: Personalize
 - Xiaoying Zhang, Hongning Wang, Hang Li. [Disentangled Representation for Diversified Recommendations](https://dl.acm.org/doi/10.1145/3539597.3570389). 2/2023.
 - Sophie Scharf, Monika Wiegelmann, Arnt Bröder. [Information search in everyday decisions: The generalizability of the attraction search effect](https://www.researchgate.net/publication/366827841_Information_search_in_everyday_decisions_The_generalizability_of_the_attraction_search_effect). 1/2023.
 - Will Serrano. [Neural Networks in Big Data and Web Search](https://www.researchgate.net/publication/330028298_Neural_Networks_in_Big_Data_and_Web_Search). 12/2018.
+- Rodrygo L. T. Santos. [Explicit webs earch result diversification](https://www.researchgate.net/publication/262272502_Explicit_web_search_result_diversification). 6/2013.
 
 ## Uncategorized
 - Masaki Suzuki, Yusuke Yamamoto. [Don't Judge by Looks: Search User Interface to Make Searchers Reflect on Their Relevance Criteria and Promote Content-Quality-Oriented Web Searches](https://dl.acm.org/doi/10.1145/3524458.3547222). 9/2022.
+- Martha Viviana Zuluaga, Sebastián Robledo, Oscar Arbelaez-Echeverri, Néstor Duque, Germán A. Osorio-Zuluaga. [Tree of Science - ToS: A Web-Based Tool for Scientific Literature Recommendation. Search Less, Researfch More!](https://www.researchgate.net/publication/362728432_Tree_of_Science_-_ToS_A_Web-Based_Tool_for_Scientific_Literature_Recommendation_Search_Less_Research_More). 8/2022.
 - Gaurav Gupta, Tharun Medini, Anshumali Shrivastava, Alexander J. Smola. [BLISS: A Billion scale Index using Iterative Re-partitioning](https://dl.acm.org/doi/10.1145/3534678.3539414). 8/2022.*
 - Birgit Pfitzmann, Christoph Auer, Michele Dolfi, Ahmed S. Nassar, Peter Staar. [DocLayNet: A Large Human-Annotated Dataset for Document-Layout Segmentation](https://dl.acm.org/doi/10.1145/3534678.3539043). 8/2022.
 - Lingjun Xu, Shiyin Zhang, Guojie Song, Junshan Wang, Tianshu Wu, Guojun Liu. [Taxonomy-Enhanced Graph Neural Networks](https://dl.acm.org/doi/10.1145/3511808.3557467). 10/2022.
@@ -61,14 +63,22 @@ Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yasher Deldjoo. [CPFair: Personalize
 - Arnold Overwijk, Chenyan Xiong, Jamie Callan. [ClueWeb22: 10 Billion Documents with Rich Information](https://dl.acm.org/doi/10.1145/3477495.3536321). 7/2022.
 - Aleksandra Urman, Mykola Makhortykh, Roberto Ulloa, Juhi Kulshrestha. [Where the earth is flat and 9/11 is an inside job: A comparative algorithm audit of conspiratorial information in web search results](https://www.researchgate.net/publication/361863464_Where_the_earth_is_flat_and_911_is_an_inside_job_A_comparative_algorithm_audit_of_conspiratorial_information_in_web_search_results). 8/2022.*
 - Ali Abbasov, Vagif Gasimov. [Domain-oriented information search on the Internet](https://www.researchgate.net/publication/367004891_Domain-oriented_information_search_on_the_Internet). 11/2022.
+- Mario Kubek. [Contemporary Web Search](https://www.researchgate.net/publication/333931478_Contemporary_Web_Search). 1/2020.
+- Rashmi P Sarode, Shelly Sachdeva, Wanming Chu, Sbhash Bhalla. [Segment-Search vs Knowledge Graphs: Making a Key-Word Search Engine for Web Documents](https://www.researchgate.net/publication/337923115_Segment-Search_vs_Knowledge_Graphs_Making_a_Key-Word_Search_Engine_for_Web_Documents). 12/2019.
+- Peilu Wang. Hao Jiang, Jingfang Xu, Qi Zhang. [Knowledge Graph Construction and Applications for Web Search and Beyond](https://www.researchgate.net/publication/336978553_Knowledge_Graph_Construction_and_Applications_for_Web_Search_and_Beyond). 11/2019.*
+- Bosubabu Sambana. [Web Search Engine](https://www.researchgate.net/publication/336265320_Web_Search_Engine). 3/2016.
 - Evi Yulianti. [Finding Answers in Web Search](https://www.researchgate.net/publication/283659235_Finding_Answers_in_Web_Search). 8/2015.
 - Sonali Tanaji Kadam, Sanchika Bajpai. [Development of Web Annotation Technique for Search Result Records Using Web Database.](https://www.researchgate.net/publication/283779983_Development_of_Web_Annotation_Technique_for_Search_Result_Records_Using_Web_Database). 7/2015.
+- Yue Wang, Hongsong Li, Haixun Wang, Kenny Q. Zhu. [Toward Topic Searc on the Web](https://www.researchgate.net/publication/255563891_Toward_Topic_Search_on_the_Web). 5/2011.
+- Michael Zimmer. [Web Search Studies: Multidisciplinary Perspectives on Web Search Engines](https://www.researchgate.net/publication/226672921_Web_Search_Studies_Multidisciplinary_Perspectives_on_Web_Search_Engines). 6/2010.
+- Deng Cai, Shipeng Yu, Ji-Rong Wen, Wei-Ying Ma. [Block-based web search](https://www.researchgate.net/publication/221301159_Block-based_web_search). 7/2004.
 
 ## Internationalization and Localization
 - Zhuliu Li, Yiming Wang, Xiao Yan, Weizhi Meng, Yanen Li, Jaewon Yang. [TaxoTrans: Taxonomy-Guided Entity Translation](https://dl.acm.org/doi/10.1145/3534678.3539188). 8/2022.
 
 ## Performance, Scalability
 - B. Barla Cambazoglu, Ricardo Baeza-Yates. [Scalability and Efficiency Challenges in Large-Scale Web Search Engines](https://dl.acm.org/doi/10.1145/2684822.2697039). 2/2015.
+- Kamlesh Kumar Pandey, Narendra Pradhan. [Internet Search Engine: Performance Evaluating the Google, Yahoo and Bing Web Search Engine based on their Searching Capabilities](https://www.researchgate.net/publication/324482784_Internet_Search_Engine_Performance_Evaluating_the_Google_Yahoo_and_Bing_Web_Search_Engine_based_on_their_Searching_Capabilities). 2/2018.
 
 ## Storage
 - Laurens Debackere, Pieter Colpaert, Ruben Taelman, Ruben Verborgh. [A Policy-Oriented Architecture for Enforcing Consent in Solid](https://dl.acm.org/doi/10.1145/3487553.3524630). 8/2022.

@@ -11,6 +11,7 @@
 - Ya'akov (Kobi) Gal, Avi Segal, Ece Kamar, Eric Horvitz, Chris Lintott, Mike Walmsley. [A new Workflow for Human-AI Collaboration in Citizen Science](https://dl.acm.org/doi/10.1145/3524458.3547243). 9/2022.
 - Oleg Zendel, Melika P. Ebrahim, J. Shane Culpepper, Alistair Moffat, Falk Scholer. [Can Users Predict Relative Query Effectivenes?](https://dl.acm.org/doi/10.1145/3477495.3531893). 7/2022.
 - Luyan Xu, Tetiana Tolmachova, Xuan Zhou. [Search History Visualization for Collaborative Web Searching](https://www.researchgate.net/publication/347737926_Search_History_Visualization_for_Collaborative_Web_Searching). 12/2020.
+- Thomas Neumayr, Mirjam Augstein. [A Systematic Review of Personalized Collaboratice Systems](https://www.frontiersin.org/articles/10.3389/fcomp.2020.562679/full). 11/2020.
 - Dengya Zhu, Shastri Lakshmann Nimmagadda, Amit Rudra. [An Integrated Search Framework for Leveraging the Knowledge-Based Web Ecosystem Torsten Reiners](https://www.researchgate.net/publication/344756294_An_Integrated_Search_Framework_for_Leveraging_the_Knowledge-Based_Web_Ecosystem_Torsten_Reiners/). 10/2020.
 - Zurina Saaya, Barry Smyth, Maurice Coyle, Peter Briggs. [Recognising and Recommending Context in Social Web Search](https://www.researchgate.net/publication/336229862_Recognising_and_Recommending_Context_in_Social_Web_Search). 10/2019.
 - Sandeep Avula, Jaime Arguello, Robert Capra, Jordan Dodson, Yuhui Huang, Filip Radlinski. [Embedding Search into a Conversational Platform to Support Collaborativer Search](https://dl.acm.org/doi/10.1145/3295750.3298928). 3/2019.
@@ -22,6 +23,7 @@
 - Dominic Stange, Andreas Nürnberger. [When experts collaborate: sharing search and domain expertise within an organization](https://dl.acm.org/doi/10.1145/2809563.2809582). 10/2015.*
 - Lynda Tamine, Laure Soulier. [Understanding the impact of the Role Factor in Collaborative Information Retrieval](https://dl.acm.org/doi/10.1145/2806416.2806481). 10/2015.
 - Sameer Mohammad. [Collaborative Web Search Using Likewise Users' Recommendations](https://www.researchgate.net/publication/353971376_Collaborative_Web_Search_Using_Likewise_Users%27_Recommendations). 5/2014.
+- Marti A. Hearst. [What's Missing from Collaborative Search?](https://escholarship.org/content/qt9gf057hd/qt9gf057hd_noSplash_2ee4cb6f06b5419db020d89ed2ccdc6f.pdf?t=nzz00x). 3/2014.
 - Ryan Kelly, Stephen J. Payne. [Collaborative web search in context: a study of tool use in everyday tasks](https://dl.acm.org/doi/10.1145/2531602.2531617). 2/2014.*
 - Zhen Yue, Shuguang Han, Daqing He. [An investigation of the query behavior in task-based collaborative exploratory web search](https://dl.acm.org/doi/10.5555/2655780.2655857). 11/2013.
 - Meredith Ringel Morris. [Collaborative search revisited](https://dl.acm.org/doi/10.1145/2441776.2441910). 2/2013.*
@@ -44,6 +46,7 @@
 - Kay-Uwe Schmidt, Tobias Sarnow, Ljiljana Stojanovic. [Socially filtered web search: an approach using social bookmarking tags to personalize web search](https://www.researchgate.net/publication/221000832_Socially_filtered_web_search_an_approach_using_social_bookmarking_tags_to_personalize_web_search). 3/2009.
     - [ResearchGate](https://www.researchgate.net/publication/221513715_CoSense_Enhancing_sensemaking_for_collaborative_web_search)
 - Y. Yanbe, Adam Jatowt, S. Nakamura, Katsumki Tanaka. [Social bookmarking and web search](https://www.researchgate.net/publication/290332695_Social_bookmarking_and_Web_search). 1/2009.
+- Meredith Ringel Morris, Jaime Teevan. [Collaborative Web Search: Who, What, Where, When, and Why](https://www.researchgate.net/publication/220696130_Collaborative_Web_Search_Who_What_Where_When_and_Why. 1/2009.*)
 - Thorben Burghardt, Erik Buchmann, Klemens Böhm. [Discovering the Scope of Privacy Needs in Collaborative Search](https://dl.acm.org/doi/10.1109/WIIAT.2008.165). 12/2008.
 - Meredith Ringel Morris, Jaime Teevan, Steve Bush. [Enhancing collaborative web search with personalization: groupization, smart splitting, and group hit-highlighting](https://dl.acm.org/doi/10.1145/1460563.1460640). 11/2008.*
 - Hideo Joho, David Hannah, Joemon M. Jose. [Comparing collaborative and independent search in a recall-oriented task](https://dl.acm.org/doi/10.1145/1414694.1414715). 10/2008.
@@ -52,3 +55,4 @@
 - Saleema Amershi, Meredith Ringel Morris. [CoSearch: a system for co-located collaborative web search](https://dl.acm.org/doi/10.1145/1357054.1357311). 4/2008.*
 - Peter Briggs. [User Modelling in Collaborative Web Search](https://www.researchgate.net/publication/335566328_User_Modelling_in_Collaborative_Web_Search). 4/2008.
 - Paul Heymann, Georgia Koutrika, Hector Garcia-Molina. [Can social bookmarking improve web search?](https://dl.acm.org/doi/10.1145/1341531.1341558). 2/2008.*
+- Athanasios Papagelis, Christos Zaroliagis. [Searchius: A Collaborative Search Engine](https://www.researchgate.net/publication/4282197_Searchius_A_Collaborative_Search_Engine). 10/2007.
