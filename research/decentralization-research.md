@@ -1,0 +1,7 @@
+# Decentralization in Search Engines and Information Retrieval
+
+- Mario Kubek, Herwig Unger. [WebEngine Version 1.0: Building a Decentralised Web Search Engine](https://www.researchgate.net/publication/357504886_WebEngine_Version_10_Building_a_Decentralised_Web_Search_Engine). 1/2022.
+    - See also Kubek and Unger's [The WebEngine - A Fully Integrated, Decentralised Web Search Engine](https://www.researchgate.net/publication/329183704_The_WebEngine_-_A_Fully_Integrated_Decentralised_Web_Search_Engine) from 11/2018.
+- Thanassis Tiropanis, Alexandra Poulovassilis, Adriane Chapman, George Roussos. [Search in a Redecentralised Web](https://www.researchgate.net/publication/357026616_Search_in_a_Redecentralised_Web). 12/2021.*
+- Hongsheng Xu, Ganglong Fan, Ke Li. [Construction of Search Engine System Based on Multithread Distributed Web Crawler](https://www.researchgate.net/publication/333206095_Construction_of_Search_Engine_System_Based_on_Multithread_Distributed_Web_Crawler). 5/2019.
+- Reaz Ahmed, Md. Faizul Bari, Rakibul Haque, R. Boutaba, Bertrand Mathieu. [DEWS: A decentralized engine for Web search](https://www.researchgate.net/publication/282931363_DEWS_A_decentralized_engine_for_Web_search). 1/2015.
