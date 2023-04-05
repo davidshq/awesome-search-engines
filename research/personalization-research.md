@@ -1,0 +1,10 @@
+# Personalization in Search Engines and Information Retrieval
+
+- Ulrich Matter, Roland Hodler, Johannes Ladwig. [Personalization of Web Search During the 2020 US Elections](https://www.researchgate.net/publication/363920168_Personalization_of_Web_Search_During_the_2020_US_Elections). 9/2022.
+- Sunny Sharma, Vijay Rana. [A Systematic Literature Review of Web Search Personalization](https://www.researchgate.net/publication/339466998_A_Systematic_Literature_Review_Of_Web_Search_Personalization). 2/2020.*
+- Wiem Chebil, Mohammad Wedyan, Haiyan Lu, Omar Elshaweesh. [Context-Aware Personalized Web Search Using Navigation History](https://www.researchgate.net/publication/339435401_Context-Aware_Personalized_Web_Search_Using_Navigation_History). 2/2020.
+- Eugene Agichtein, Eric Brill, Susan Dumais. [Improving Web Search Ranking by Incorporating User Behavior Information](https://www.researchgate.net/publication/330459175_Improving_Web_Search_Ranking_by_Incorporating_User_Behavior_Information). 1/2019.
+- S. Salehi, J.T. Du, H. Ashman. [Use of web search engines and personalisation in information searching for educational purposes](https://www.researchgate.net/publication/326197645_Use_of_web_search_engines_and_personalisation_in_information_searching_for_educational_purposes). 6/2018.
+- Eric Utrera, Alfredo Simón-Cuevas, José A. Olivas. [Analysis of trends in the customization of results in web search engines](https://www.researchgate.net/publication/325157476_Analysis_of_trends_in_the_customization_of_results_in_web_search_engines). 4/2018.
+- M. Omair Shafiq, Reda Alhajj, John G. Rokne. [On personalizing Web search using social network analysis](https://www.researchgate.net/publication/275219347_On_personalizing_Web_search_using_social_network_analysis). 9/2015.
+- Aniko Hannak, Piotr Sapiezynski, Arash Molavi Kakhki, Balachander Krishnamurthy, David Lazer, Alan Mislove, Christo Wilson. [Measuring personalization of web search](https://www.researchgate.net/publication/262424460_Measuring_personalization_of_Web_search). 5/2013.
