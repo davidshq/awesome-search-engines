@@ -1,5 +1,6 @@
 # Diversity, Fairness, and Bias in Search Engines and Information Retrieval
 
+- Ya-Lin Zhang, Yi-Xuan Sun, Fangfang Fan, Menng Li, Yeyu Zhao, Wei Wang, Longfei Li, Jun Zhou, Jinghua Feng. [A Framework for Detecting Frauds from Extremely Few Labels](https://dl.acm.org/doi/10.1145/3539597.3573022). 2/2023.
 - Gang Chen, Jiawei Chen, Fuli Feng, Sheng Zhou, Xiangnan He. [Unbiased Knowledge Distillation for Recommendation](https://dl.acm.org/doi/10.1145/3539597.3570477). 2/2023.
 - Amifa Raj. [Fair Ranking Metrics](https://dl.acm.org/doi/10.1145/3523227.3547430). 9/2022.
 - Yuta Saito, Thorsten Joachims. [Fair Ranking as Fair Division: Impact-Based Individual Fairness in Ranking](https://dl.acm.org/doi/10.1145/3534678.3539353). 8/2022.*
@@ -13,5 +14,9 @@ Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yasher Deldjoo. [CPFair: Personalize
 - Qinzhi Jiang, Mustafa Naseem, Jamie Lai, Kentaro Toyama, Panos Papalambros. [Understanding Power Differentials and Cultural Differences in Co-design with Marginalized Populations](https://dl.acm.org/doi/10.1145/3530190.3534819). 6/2022.
 - Xiaoying Zhang, Hongning Wang, Hang Li. [Disentangled Representation for Diversified Recommendations](https://dl.acm.org/doi/10.1145/3539597.3570389). 2/2023.
 - Sophie Scharf, Monika Wiegelmann, Arnt Bröder. [Information search in everyday decisions: The generalizability of the attraction search effect](https://www.researchgate.net/publication/366827841_Information_search_in_everyday_decisions_The_generalizability_of_the_attraction_search_effect). 1/2023.
+- Valeria Mazzeo, Andrea Rapisarda, Giovanni Giuffrida. [Detection of Fake News on COVID-19 on Web Search Engines](https://www.researchgate.net/publication/352838694_Detection_of_Fake_News_on_COVID-19_on_Web_Search_Engines). 6/2021.
+- Juhi Kulshrestha, Motahhare Eslami, Johnnatan Messias, Muhammad Bilal Zafar, Saptarshi Ghosh, Krishna P. Gummadi, Karrie Karahalios. [Search bias quantification: investigating political bias in social media and web search](https://www.researchgate.net/publication/327146029_Search_bias_quantification_investigating_political_bias_in_social_media_and_web_search). 4/2019.*
+- Xinyu Xing, Wei Meng, Dan Doozan, Nick Feamster, Wenke Lee, Alex C. Snoeren. [Exposing Inconsistent Web Search Results with Bobble](https://www.researchgate.net/publication/301967705_Exposing_Inconsistent_Web_Search_Results_with_Bobble). 3/2014.
 - Will Serrano. [Neural Networks in Big Data and Web Search](https://www.researchgate.net/publication/330028298_Neural_Networks_in_Big_Data_and_Web_Search). 12/2018.
+- Ryen White. [Beliefs and biases in web search](https://www.researchgate.net/publication/262393954_Beliefs_and_biases_in_web_search). 7/2013.
 - Rodrygo L. T. Santos. [Explicit webs earch result diversification](https://www.researchgate.net/publication/262272502_Explicit_web_search_result_diversification). 6/2013.

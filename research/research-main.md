@@ -42,10 +42,17 @@
 ## Trustworthiness
 - Maarten de Rijke. [Beyond-Accuracy Goals, Again](https://dl.acm.org/doi/10.1145/3539597.3572332). 2/2023.
 - Markus Schedl, Emilia Gómez, Elisabeth Lex. [Trustworthy Algorithmic Ranking Systems.](https://dl.acm.org/doi/10.1145/3539597.3572723). 2/2023.*
+- Dirk Lewandowski. [Credibility in Web Search Engines](https://www.researchgate.net/publication/230609381_Credibility_in_Web_Search_Engines). 8/2012.*
+- Yusuke Yamamoto, Katsumi Tanaka. [Enhancing Credibility Judgment of Web Search Results](https://www.researchgate.net/publication/221518035_Enhancing_Credibility_Judgment_of_Web_Search_Results). 5/2011.
 
 ## Performance, Scalability
 - B. Barla Cambazoglu, Ricardo Baeza-Yates. [Scalability and Efficiency Challenges in Large-Scale Web Search Engines](https://dl.acm.org/doi/10.1145/2684822.2697039). 2/2015.
 - Kamlesh Kumar Pandey, Narendra Pradhan. [Internet Search Engine: Performance Evaluating the Google, Yahoo and Bing Web Search Engine based on their Searching Capabilities](https://www.researchgate.net/publication/324482784_Internet_Search_Engine_Performance_Evaluating_the_Google_Yahoo_and_Bing_Web_Search_Engine_based_on_their_Searching_Capabilities). 2/2018.
+
+## SPAM
+- Asim Shahzad, Nazri Mohd Nawi, Syed Muhammad Zubair Rehman Gillani, Abdullah Khan. [An Improved Framework for Content- and Link-Based Web-Spam Detection: A Combined Approach](https://www.researchgate.net/publication/356258479_An_Improved_Framework_for_Content-_and_Link-Based_Web-Spam_Detection_A_Combined_Approach). 11/2021.
+- Jayakrishnan Ashok, Pankaj Badoni. [Web Content Authentication: A Machine Learning Approach to Identify Fake and Authentic Web Pages on Internet](https://www.researchgate.net/publication/353005229_Web_Content_Authentication_A_Machine_Learning_Approach_to_Identify_Fake_and_Authentic_Web_Pages_on_Internet). 7/2021.
+- Asim Shahzad, Jamaluddin Mir, Aamer Khan, Muhammad Asshad, Muhammad Zeeshan, Ahsan Zubair, Muhammad Naeem. [The Web Spam Taxonomy and Algorithms for Detection and Prevention of Web Spamming - A Systematic Review](https://www.researchgate.net/publication/362861741_The_Web_Spam_Taxonomy_and_Algorithms_for_Detection_and_Prevention_of_Web_Spamming_-A_Systematic_Review). 7/2021.*
 
 ## Older Research
 - Na Dai, Brian D. Davison. [Capturing page freshness for web search](https://dl.acm.org/doi/10.1145/1835449.1835658). 7/2010.*
@@ -53,6 +60,9 @@
 - Amanda Spink, Michael Zimmer. [Web Search: Multidisclipinary Perspectives](https://www.researchgate.net/publication/321614743_Web_Search_Multidisciplinary_Perspectives). 1/2008.
 - Fang Qi-Ming, Yang Guang-Wen, Wu Yong-Wei, Zheng Wei Min. [P2P Web Search Technology](https://www.researchgate.net/publication/253605198_P2P_Web_Search_Technology). 1/2008.
 - Jim Jansen, Sherry Koshma, Amanda Spink. [Web Searching on the Vivisimo Search Engine](https://www.researchgate.net/publication/27479615_Web_Searching_on_the_Vivisimo_Search_Engine). 12/2006.
+- Nils Kammenhuber, Julia Luxenburger, Anja Feldmann, Gerhard Weikum. [Web search clickstreams](https://www.researchgate.net/publication/221611907_Web_search_clickstreams). 10/2006.
+- Amanda Spink, Minsoo Park, Jim Jansen, Jan Pedersen. [Multitasking during Web search sessions](https://www.researchgate.net/publication/222436299_Multitasking_during_Web_search_sessions). 1/2006.
+- Yiping Ke, Lin Deng, Wee Keong Ng, Dik Lee. [Web dynamics and their ramifications for the development of Web search engines](https://www.researchgate.net/publication/222416900_Web_dynamics_and_their_ramifications_for_the_development_of_Web_search_engines).
 - Jim Gray. [A Conversation with Tim Bray: Searching for ways to tame the world's vast stores of information](https://dl.acm.org/doi/10.1145/1046931.1046941). 2/2005.*
 - Mike Cafarella, Doug Cutting. [Building Nutch: Open Source Search: A case study in writing an open source search engine](https://dl.acm.org/doi/10.1145/988392.988408). 4/2004.*
 - Anna Patterson. [Why Writing Your Own Search Engine Is Hard: Big or small, proprietary or open source, Web or intranet, it's a tough job](https://dl.acm.org/doi/10.1145/988392.988407). 4/2004.*

@@ -27,6 +27,7 @@
 - Weize Kong. [Extending Faceted Search to the Open-Domain Web](https://www.researchgate.net/publication/304618602_Extending_Faceted_Search_to_the_Open-Domain_Web). 6/2016.*
 - Bosubabu Sambana. [Web Search Engine](https://www.researchgate.net/publication/336265320_Web_Search_Engine). 3/2016.
 - Evi Yulianti. [Finding Answers in Web Search](https://www.researchgate.net/publication/283659235_Finding_Answers_in_Web_Search). 8/2015.
+- Aleksandr Chuklin, Ilya Markov, Maarten de Rijke. [Click Models for Web Search](https://www.researchgate.net/publication/282201593_Click_Models_for_Web_Search). 7/2015.
 - Sonali Tanaji Kadam, Sanchika Bajpai. [Development of Web Annotation Technique for Search Result Records Using Web Database.](https://www.researchgate.net/publication/283779983_Development_of_Web_Annotation_Technique_for_Search_Result_Records_Using_Web_Database). 7/2015.
 - Weize Kong, James Allan. [Extending Faceted Search to the General Web](https://www.researchgate.net/publication/284346690_Extending_Faceted_Search_to_the_General_Web). 11/2014.*
 - Guillem Frances, Xiao Bai, Berkant Barla Cambazoglu, Ricardo Baeza-Yates. [Improving the efficiency of multi-site web search engines](https://www.researchgate.net/publication/262172401_Improving_the_efficiency_of_multi-site_web_search_engines). 2/2014.*
