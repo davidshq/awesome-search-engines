@@ -25,7 +25,13 @@
 - See [the page dedicated to semantic research](semantic-research.md).
 
 ## Uncategorized
-- See [the page dedicated to uncategorized research](research-uncategorized.md).
+- See [the page dedicated to uncategorized research](uncategorized-research.md).
+
+## Recommendations
+- See [the page dedicated to recommendations research](recommendations-research.md).
+
+## Trustworthiness
+- See [the page dedicated to trustworthiness research](trust-research.md).
 
 ## Conversational
 - Jeffrey Dalton, Sophie Fischer, Paul Owoicho, Filip Radlinski, Rederico Rossetto, Johanne R. Trippas, Hamed Zamani. [Conversation Information Seeking: Theory and Application](https://dl.acm.org/doi/10.1145/3477495.3532678). 7/2022.*
@@ -38,12 +44,6 @@
 
 ## Storage
 - Laurens Debackere, Pieter Colpaert, Ruben Taelman, Ruben Verborgh. [A Policy-Oriented Architecture for Enforcing Consent in Solid](https://dl.acm.org/doi/10.1145/3487553.3524630). 8/2022.
-
-## Trustworthiness
-- Maarten de Rijke. [Beyond-Accuracy Goals, Again](https://dl.acm.org/doi/10.1145/3539597.3572332). 2/2023.
-- Markus Schedl, Emilia Gómez, Elisabeth Lex. [Trustworthy Algorithmic Ranking Systems.](https://dl.acm.org/doi/10.1145/3539597.3572723). 2/2023.*
-- Dirk Lewandowski. [Credibility in Web Search Engines](https://www.researchgate.net/publication/230609381_Credibility_in_Web_Search_Engines). 8/2012.*
-- Yusuke Yamamoto, Katsumi Tanaka. [Enhancing Credibility Judgment of Web Search Results](https://www.researchgate.net/publication/221518035_Enhancing_Credibility_Judgment_of_Web_Search_Results). 5/2011.
 
 ## Performance, Scalability
 - B. Barla Cambazoglu, Ricardo Baeza-Yates. [Scalability and Efficiency Challenges in Large-Scale Web Search Engines](https://dl.acm.org/doi/10.1145/2684822.2697039). 2/2015.
