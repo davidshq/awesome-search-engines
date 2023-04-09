@@ -51,7 +51,7 @@
 
 ### Other Projects
 - [Blacklight](https://projectblacklight.org/) - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
-- [AJAX Solr](https://github.com/evolvingweb/ajax-solr) - JS library for building UI's for Solr. No updates since 10/2021 as of 3/2023.
+- [AJAX Solr](https://github.com/evolvingweb/ajax-solr) - Updaterd: 10/2021 - Checked: 4/2023 - Stars: 654 - JS library for building UI's for Solr.
 - [BERT Solr Search](https://github.com/DmitryKey/bert-solr-search) - Updated: 6/2022 - Checked: 3/2023 - Stars: 134 - Allows one to search with BERT vectors in Solr, also compatible with Elasticsearch/OpenSearch.
     - Has associated articles explaining the process that was used to build the solution.
 - [YASA (Yet Another Solr Admin)](https://github.com/yasa-org/yasa) - Updated: 9/2021 - Checked: 3/2023 - Stars: 47 - A web-based UI for administering Solr written with Vue in TypeScript.
