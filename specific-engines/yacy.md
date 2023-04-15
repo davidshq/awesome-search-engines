@@ -18,7 +18,12 @@
 - YaCy is a P2P search engine while YaCy Grid is a distributed search engine but not P2P. Read more at:
     - Michael Christen. [The Story of YaCy Grid](https://community.searchlab.eu/t/the-story-of-yacy-grid/48). 6/2019.
         - Covers the origins of YaCy Grid and it's basic architecture.
-    - Michael Christen. [The Searchlab Project](https://community.searchlab.eu/t/the-searchlab-project/867). 10/2021-10/2022.
+
+## YaCy Searchlab
+- https://searchlab.eu/
+- [GitHub Repo](https://github.com/yacy/searchlab)
+- Provides a UI on top of YaCy Grid.
+- Michael Christen. [The Searchlab Project](https://community.searchlab.eu/t/the-searchlab-project/867). 10/2021-10/2022.
         - Covers the launch of Searchlab, an implementation of YaCy Grid with corresponding open source projects. Note that you should read through the thread as the initial post has not been updated.
 
 ## Articles
@@ -34,3 +39,4 @@
     - [The YaCy Search Server Is Sort-Of Being Actively Developed Again After Half a Decade Of Inactivity](https://linuxreviews.org/The_YaCy_Search_Server_Is_Sort-Of_Being_Actively_Developed_Again_After_Half_A_Decade_Of_Inactivity). 4/2021.
 - Michael Herrmann, Kai-Chun Ning, Claudia Díaz, B. Praneel. [Description of the YaCy Distributed Web Search Engine](https://www.semanticscholar.org/paper/Description-of-the-YaCy-Distributed-Web-Search-Herrmann-Ning/8d0c816ab14ca3748a1887d7f2ef088d630f831d). 2014.
     - An academic article providing a technical description of YaCy.
+- Jeremy Rand. [Relevance and Privacy Improvements to the YaCy Decentralized Web Search Engine](https://shareok.org/handle/11244/299892). University of Oklahoma, 2018.
