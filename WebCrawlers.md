@@ -35,12 +35,15 @@
 - [GitHub Repo](https://github.com/DigitalPebble/storm-crawler)
     - Stars: 795 - Updated: 4/2023 - Checked: 4/2023.
 - Open source web crawler built on Apache Storm.
+- OpenWebSearch.eu's [Owler](https://openwebsearch.eu/owler/) web crawler is built off of StormCrawler.
 
 ## Scrapy
 - https://scrapy.org/
 - [GitHub Repo](https://github.com/scrapy/scrapy)
     - Stars: 9.9k - Updated: 4/2023 - Checked: 4/2023.
 - A popular, open source web crawler/scraper written in Python.
+- [Scrapy Documentation on Broad Crawls](https://docs.scrapy.org/en/latest/topics/broad-crawls.html).
+- [WebScraping API's Web Crawling With Python](https://www.webscrapingapi.com/web-crawling-with-python). 12/2022.
 
 ## Norconex Web Crawler
 - https://opensource.norconex.com/crawlers/web/
