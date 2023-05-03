@@ -20,7 +20,9 @@
 - https://www.mediawiki.org/wiki/User:TJones_(WMF)/Notes
 
 ## Sites Covering Search Related Topics
-- [Algolia's Blog](https://algolia.com/)
+A number of the sites list below are commercial search providers, while there may be useful resources throughout the site, checking the blog is often a good place to start.
+- [Algolia](https://algolia.com/) - A popular SaaS search engine.
+- [Bonsai](https://bonsai.io/) - Managed Elasticsearch, OpenSearch, and SolrCloud platform.
 
 ## Tutorials
 
