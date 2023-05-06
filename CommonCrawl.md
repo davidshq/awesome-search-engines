@@ -26,3 +26,6 @@ Common Crawl is a non-profit organization that maintains a large index of the we
 - Sebastian Nagel. [Index to WARC Files and URLs in Columnar Format](https://commoncrawl.org/2018/03/index-to-warc-files-and-urls-in-columnar-format/). commoncrawl, 3/2018.
 - Stanislas Girard. [Parse Petabytes of data from CommonCrawl in seconds](https://www.primates.dev/parse-petabytes-of-data-from-commoncrawl-in-seconds/). primates.dev, 1/2020.
     - Simple and straightforward, short, fairly basic, but good place to start.
+
+### Basic
+- David Mackey. [How To Manually Access CommonCrawl](common-crawl/basic-manually-accessing-common-crawl.md). 5/2023.
