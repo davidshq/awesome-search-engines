@@ -125,4 +125,4 @@ Once again we'll extract the file from it's gzip. We should end up with a file t
 # Bibliography
 
 - [StackOverflow: How to view huge txt files in Linux?](https://stackoverflow.com/questions/21246752/how-to-view-huge-txt-files-in-linux)
-- Samuel Schaffhauser. [Using the Common Crawl as a Data Source]. 6/2022.
+- Samuel Schaffhauser. [Using the Common Crawl as a Data Source](https://medium.com/@samuel.schaffhauser/using-the-common-crawl-as-a-data-source-693a41b3baa9). 6/2022.
