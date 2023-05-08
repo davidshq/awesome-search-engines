@@ -20,6 +20,7 @@ Common Crawl is a non-profit organization that maintains a large index of the we
 ## Other
 - [NewsFetch](https://newsfetch.tech/) - Stars: 13 - Updated: 10/2022 - Checked: 5/2023 - Can fetch news articles from the Common Crawl API.
 - [news-please](https://github.com/fhamborg/news-please) - Stars: 1.6k - Updated: 4/2023 - Checked: 5/2023 - Along with significant other functionality it can fetch articles from Common Crawl.
+- [PWA Store](https://github.com/Tarasa24/PWA-Store) - Stars: 5 - Updated: 9/2022 - Checked: 5/2023 - Uses Common Crawl and EMR to find as many PWA apps on the web as possible.
 
 ## What Is?
 - C4 Dataset - Text data extracted from Common Crawl.
