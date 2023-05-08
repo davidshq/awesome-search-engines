@@ -29,6 +29,7 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 | [Startpage](https://www.startpage.com/) \(Netherlands\) | [\#1000](https://www.similarweb.com/website/startpage.com/#overview) | 02/2023 | [^startpage]
 | [Qwant](https://qwant.com) \(France\) | [\#1730](https://www.similarweb.com/website/qwant.com/#overview) | 02/2023 | [^qwant] |
 | [Ask](https://www.ask.com/) | [\#1926](https://www.similarweb.com/website/ask.com/#overview) | 02/2023 | [^ask] |
+| [Perplexity AI](https://perplexity.ai/) | [#3147](https://www.similarweb.com/website/perplexity.ai/) | 05/2023 | [^perplexity] |
 | [You](https://www.you.com/) | [\#4474](https://www.similarweb.com/website/you.com/#overview) | 02/2023 |
 | [Presearch](https://www.presearch.com/) | [\#7472](https://www.similarweb.com/website/presearch.com/#overview) | 02/2023 |
 | [Lilo](https://www.lilo.org/en/) \(France\) | [\#16471](https://www.similarweb.com/website/lilo.org/#overview) | 02/2023 |
@@ -173,3 +174,5 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 [^phind]: Formerly sayhello.
 
 [^mwmbl]: Open source, free, non-profit.
+
+[^perplexity]: AI based search similar to Google's Bard and Bing's Chat. Some of the founders have backgrounds at Google, Quora, and Databricks.

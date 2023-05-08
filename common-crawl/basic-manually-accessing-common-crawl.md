@@ -127,3 +127,4 @@ Once again we'll extract the file from it's gzip. We should end up with a file t
 - [StackOverflow: How to view huge txt files in Linux?](https://stackoverflow.com/questions/21246752/how-to-view-huge-txt-files-in-linux)
 - Samuel Schaffhauser. [Using the Common Crawl as a Data Source](https://medium.com/@samuel.schaffhauser/using-the-common-crawl-as-a-data-source-693a41b3baa9). 6/2022.
 - Chillar Anand. [Common Crawl On Laptop - Extracting Subset of Data](https://avilpage.com/2022/11/common-crawl-laptop-extract-subset.html). 11/2022.
+- Derek Morgan. [Exploring the Common Crawl with Python](https://dmorgan.info/posts/common-crawl-python/). 2016.
