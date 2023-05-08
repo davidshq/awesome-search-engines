@@ -28,4 +28,5 @@ Common Crawl is a non-profit organization that maintains a large index of the we
     - Simple and straightforward, short, fairly basic, but good place to start.
 
 ### Basic
+- David Mackey. [Basic Information About CommonCrawl](common-crawl/basic-info-common-crawl.md). 5/2023.
 - David Mackey. [How To Manually Access CommonCrawl](common-crawl/basic-manually-accessing-common-crawl.md). 5/2023.

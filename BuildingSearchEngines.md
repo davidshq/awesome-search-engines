@@ -14,6 +14,7 @@
 
 ## General Resources
 - [The Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering)
+- [Web Archiving Introduction](/web-archiving/archiving-introduction.md)
 
 ## Wikimedia Search
 - https://www.mediawiki.org/wiki/Wikimedia_Search_Platform
