@@ -6,12 +6,13 @@ Search engines depend on indexes which are built by crawling and caching the con
 In this document we'll be particularly interested in discussing the file formats utilized in modern web archiving.
 
 ## Origins
-The ARC format was created by the [Internet Archive](https://archive.org/) for use with it's Wayback Machine. It's success is WARC, released in a "finalized" form in 2009, this format (and subsequent revisions) continues to be the mainstay of web archiving.
+The [ARC](https://archive.org/web/researcher/ArcFileFormat.php) format was created by the [Internet Archive](https://archive.org/) for use with it's Wayback Machine. It's success is WARC, released in a "finalized" form in 2009, this format (and subsequent revisions) continues to be the mainstay of web archiving.
 
 ## WARC Format
 - [Official Standard Specifications for WARC 1.1](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.1/)
 - Karl-Rainer Blumenthal. [The stack: An introduction to the WARC file](https://ait.blog.archive.org/post/the-stack-warc-file/). Archive.org, 4/2021.
     - A great introductory article to WARC including it's history, purpose, and implementation.
+- [Wikipedia on Web ARChive](https://en.wikipedia.org/wiki/Web_ARChive)
 
 A WARC file contains WARC records which are composed of eight pieces, six of which are actually utilized currently:
 - warcinfo - information about the request, "good provenance information" as Blumenthal puts it.
