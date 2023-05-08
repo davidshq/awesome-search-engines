@@ -73,11 +73,15 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 ## Domain Specific
 
 ### Coding
+| Search Engine | SimilarWeb Rank | Verified | Footnotes |
+| :--- | :--- | :--- | :--- |
 | [Phind](https://phind.com) | [\#86270](https://www.similarweb.com/website/phind.com/#overview) | 03/2023 | [^phind] |
 | [grep.app](https://grep.app) | [\#235205](https://www.similarweb.com/website/grep.app/#overview) | 03/2023 |
 | [searchcode](https://searchcode.com/) | [\#462786](https://www.similarweb.com/website/searchcode.com/#overview) | 03/2023 |
 
 ### Forums
+| Search Engine | SimilarWeb Rank | Verified | Footnotes |
+| :--- | :--- | :--- | :--- |
 | [CrowdView](https://crowdview.ai) | [\#289199](https://www.similarweb.com/website/crowdview.ai/#overview) | 03/2023 |
 
 ### Wikis
