@@ -117,3 +117,5 @@ My memory isn't amazing so I tend to make concise notes that help me remember te
                 - [Searching in Solr](https://solr.apache.org/guide/solr/latest/getting-started/searching-in-solr.html)
                 - [Relevance](https://solr.apache.org/guide/solr/latest/getting-started/relevance.html)
                 - [Solr Glossary](https://solr.apache.org/guide/solr/latest/getting-started/solr-glossary.html)
+        - [Solr Tutorials](https://solr.apache.org/guide/solr/latest/getting-started/solr-tutorial.html)
+        
