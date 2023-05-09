@@ -1,0 +1,94 @@
+# Apache Solr
+
+## Introduction
+Apache Solr is a search engine built on top of Apache Lucene (a Java library, also used in Elasticsearch). Solr receives queries via HTTP requests and provides responses in JSON by default (but can also output XML, CSV, etc.).
+
+## Goal
+My memory isn't amazing so I tend to make concise notes that help me remember technologies. Much of this document will be a summarization of documentation for Apache Solr. On occasion it may also include information not in the source materials (or at least not in the same place), this is done to fill in gaps in my knowledge.
+
+## Terminology
+
+### Infrastructure
+- Cluster - "a set of Solr nodes operating in coordination with each other via ZooKeeper, and managed as a unit."
+- Collection - "one or more Documents grouped together in a single logical index using a single configuration and Schema."
+    - A similar concept is Cores in single-node installations and user-managed clusters.
+- Core - "An individual Solr instance (represents a logical index). Multiple cores can run on a single node."
+    - Compare to Collection above.
+- Ensemble - "A ZooKeeper term to indicate multiple ZooKeeper instances running simultaneously and in coordination with each other for fault tolerance."
+
+### Other
+- Atomic Updates - "An approach to updating only one or more fields of a document, instead of reindexing the entire document."
+- Boolean operators - "control the inclusion or exclusion of keywords in a query by using operators such as AND, OR, and NOT."
+- Clustering (of Results) - "groups search results by similarities discovered when a search is executed, rather than when content is indexed."
+    - "It can reveal unexpected commonalities among search results"
+- Common Query Parameters - Parameters that are "accepted by all query parsers."
+- Distributed Search - "queries are processed across more than one Shard."
+- Document - "A group of fields and their values. Documents are the basic unit of data in a collection."
+    - "basic unit of information is a document, which is a set of data that describes something."
+- Facet / Faceting - "The arrangement of search results into categories based on indexed terms."
+    - Facet Constraint - A specific facet value within a category that further constrains the results.
+- Field - "The content to be indexed/searched along with metadata defining how the content should be processed by Solr."
+    - "documents are composed of fields, which are more specific pieces of information."
+    - Fields can be of different types - e.g. text, number.
+- Field Analysis - "tells Solr what to do with incoming data when building an index."
+    - "A more accurate name for this process would be processing or even digestion, but the official name is analysis."
+- Filter
+    - Filter Query - "a filter query runs a query against the entire index and caches the results...the strategic use of filter queries can improve search performance."
+        - Operates on data already existing in the index.
+    - Analysis Filter - Operates on data being ingested.
+- Indexing / Updating - adding data to Solr.
+- Index - where Solr stores all of the data.
+- Inverse Document Frequency (IDF) - "A measure of the general importance of a term. It is calculated as the number of total Documents divided by the nuber of Documents that a  particular word occurs in the collection."
+- Inverted Index - "A way of creating a searchable index that lists every word and the documents that contain those words, similar to an index in the back of a book which lists words and the pages on which they can be found."
+- Leader - "A single Replica for each Shard that takes charge of coordinating index updates (document additions or deletions) to other replicas in the same shard."
+    - "This is a transient responsibility assigned to a node via an election, if the current Shard Leader goes down, a new node will automatically be elected to take its place."
+- MoreLikeThis - "enables users to submit new queries that focus on particular terms returned in an earlier query."
+- Precision - "the percentage of documents in the returned results that are relevant."
+- Query - asking a question of the data using Solr.
+- Recall - "the percentage of relevant results returned out of all relevant results in the system."
+- Relevance - "the degree to which a query response satisfies a user who is searching for information."
+- Request Handler - receives and processes requests.
+- Response Writer - "manages the final presentation of the query response."
+    - Solr is bundled with both XML and JSON response writers.
+- Schema - Defines how Solr builds indexes from data sent to it.
+    - Stores information about the fields and data types.
+    - Config File: `managed-schema.xml` or `schema.xml`.
+
+## Loading Data into Solr
+- Can ingest data from many sources (XML, CSV, Microsoft Word, PDF, etc.)
+
+### Common Ways to Load Data
+- Using Solr Cell and Apache Tika, the latter is for ingesting binary files.
+- Uploading XML files using HTTP requests.
+- Creating a custom application that utilizes the Java Client API.
+- Note: By default the `-e` option when starting Solr sets the `example` directory as base directory for the Solr instance.
+
+## Searching with Solr
+- A query is made to Solr and a *response handler* which calls a *query parser* "which interprets the terms and parameters of a query."
+
+### Query Parsers
+- "Different query parsers support different syntax."
+    - Default: Standard Query Parser (aka "lucene" query parser).
+    - Other Included Query Parsers:
+        - DisMax Query Parser
+        - Extended DisMax (eDisMax) Query Parser
+- The Standard Query Parser is precise (but throws syntax errors when queries are incorrect) while the DisMax/eDisMax Query Parsers act similarly to web search engines.
+    - eDisMax extends and improves on DisMax's functionality.
+
+### Query Parser Input Types
+- Queries can be made using:
+    - strings (e.g. words, terms)
+    - "parameters for fine-tuning the query"
+    - "parameters for controlling the presentation of the query response"
+
+## Bibliography / Resources
+- [Apache Solr](https://solr.apache.org/)
+    - Solr Reference Guide
+        - Getting Started
+            - [Introduction to Solr](https://solr.apache.org/guide/solr/latest/getting-started/introduction.html)
+            - Solr Concepts
+                - [Documents, Fields, and Schema Design](https://solr.apache.org/guide/solr/latest/getting-started/documents-fields-schema-design.html)
+                - [Solr Indexing](https://solr.apache.org/guide/solr/latest/getting-started/solr-indexing.html)
+                - [Searching in Solr](https://solr.apache.org/guide/solr/latest/getting-started/searching-in-solr.html)
+                - [Relevance](https://solr.apache.org/guide/solr/latest/getting-started/relevance.html)
+                - [Solr Glossary](https://solr.apache.org/guide/solr/latest/getting-started/solr-glossary.html)
