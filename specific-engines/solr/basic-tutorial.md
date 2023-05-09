@@ -174,6 +174,62 @@ curl -H "Content-Type: application/json" \
     - Automatically utilizes the `_default` configset.
     - `-s` sets the number of shards for the collection.
     - `-rf` sets the number of replicas. 
+- If we open the Solr Admin UI we can select the films collection from the Collection Selector dropdown as we selected the techproducts collection earlier.
+
+# Working with the Schema API
+
+## Creating the "names" Field
+- `curl -X POST -H 'Content-type:application/json' --data-binary '{"add-field": {"name":"name", "type":"text_general", "multiValued":false, "stored":true}}' http://localhost:8983/solr/films/schema`
+- This can also be accomplished with slightly less control using the Admin UI.
+
+## Creating a "catchall" Copy Field
+- A catchall field is created "defining a copy field that will take all the data from all fields and index it into a field named `_text_`."
+- `curl -X POST -H 'Content-type:application/json' --data-binary '{"add-copy-field" : {"source":"*","dest":"_text_"}}' http://localhost:8983/solr/films/schema`
+- This can also be accomplished through the Admin UI.
+
+# Index the Film Data
+- Import JSON: `bin/post -c films example/films/films.json`
+- Or import XML: `bin/post -c films example/films/films.xml`
+- Or import CSV: `bin/post -c films example/films/films.csv -params "f.genre.split=true&f.directed_by.split=true&f.genre.separator=|&f.directed_by.separator=|"`
+
+# Query the Film Data
+- Open the Admin UI and run Query, you should see 1100 results in the `numFound` field of the `response`, the first ten of which will be displayed.
+
+# Using Faceting
+- "Faceting allows the search results to be arranged into subsets (or buckets, or categories)..."
+- Types of Faceting:
+    - Field Values
+    - Numeric and Date Ranges
+    - Pivots (Decision Tree)
+    - Arbitrary Query Faceting
+
+## Field Facets
+- In the Admin UI Query tab check the facet checkbox to see facet-related options appear.
+- "To see facet counts from all documents (q=*:*): turn on faceting (facet=true), and specify the field to facet on via the facet.field parameter."
+- If you want a list of facets but don't want any of the details of the results you can use `rows=0`.
+- Example in curl: `curl "http://localhost:8983/solr/films/select?q=*:*&rows=0&facet=true&facet.field=genre_str"`
+- One can use `facet.mincount` to only show facets with at least x documents in them.
+- Example in curl: `curl "http://localhost:8983/solr/films/select?=&q=\*:*&facet.field=genre_str&facet.mincount=200&facet=on&rows=0"`
+
+## Range Facets
+- Admin UI does not support range facet options.
+- curl:
+```
+curl 'http://localhost:8983/solr/films/select?q=*:*&rows=0'\
+'&facet=true'\
+'&facet.range=initial_release_date'\
+'&facet.range.start=NOW/YEAR-25YEAR'\
+'&facet.range.end=NOW'\
+'&facet.range.gap=%2B1YEAR'
+```
+- The above returns all films and groups them by year starting 25 yrs ago and ending today.
+
+## Pivot Facets
+- `curl "http://localhost:8983/solr/films/select?q=\*:*&rows=0&facet=on&facet.pivot=genre_str,directed_by_str"`
+
+## Remove Films Collection
+- If desired the films collection can be removed using: `bin/solr delete -c films`
+
 
 # Bibiography/Resources
 - https://solr.apache.org/guide/solr/latest/getting-started/solr-tutorial.html
