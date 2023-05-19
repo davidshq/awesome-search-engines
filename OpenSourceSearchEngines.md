@@ -48,6 +48,7 @@
 
 ## Apache Solr
 - https://solr.apache.org/
+- See also dedicated pages [on Solr](/specific-engines//apache-solr.md)
 
 ### Other Projects
 - [Blacklight](https://projectblacklight.org/) - A Ruby on Rails open source frontend for querying and discovery of results from Solr.

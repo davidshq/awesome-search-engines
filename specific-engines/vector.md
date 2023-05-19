@@ -1,0 +1,3 @@
+- [Milvus](https://milvus.io/) - specifically built for similarity search
+- [Qdrant](https://qdrant.io/) - open source
+    - [GitHub](https://github.com/qdrant/qdrant) - Stars: 10.1k - Updated: 5/2023 - Checked: 5/2023.
