@@ -50,3 +50,13 @@
 - Modules: Each module under solr/modules contains a README.md file.
 - Server: solr/server/README.md
 - Solar Reference Guide: solr/solr-ref-guide/README.adoc
+
+## Discussions
+- UI:
+    - [Shifting Execution Strategy to a New UI Plugin](https://lists.apache.org/thread/f3r6ymgpggrv38hyozmf2n9cgox5ck7k)
+- CLI:
+    - [Improving the Solr CLI](https://lists.apache.org/thread/39fglyc5rwwsnso9bldhowxcr80jddwg)
+- SolrCell (Tika):
+    - [Future of SolrCell in Solr](https://lists.apache.org/thread/lbm6wb88gd1cfktgs6sfvw5xf73o8trd)
+- Documentation:
+    - [Solr documentation questions](https://lists.apache.org/thread/wlbvg71b6f608ddpho9jbxtl0vf04jds)
