@@ -66,6 +66,9 @@ My memory isn't amazing so I tend to make concise notes that help me remember te
         - Operates on data already existing in the index.
     - Analysis Filter - Operates on data being ingested.
 - MoreLikeThis - "enables users to submit new queries that focus on particular terms returned in an earlier query."
+- `maxDoc` - The number of documents in the index including those which have been logically but not physically deleted.
+- `numDocs` - The "number of searchable documents in the index."
+    - Some files may contain multiple documents, e.g. XML, JSON, or CSV. In this case the `numDocs` will be greater than the number of files indexed.
 - Request Handler (RequestHandler) - receives and processes requests.
     - "Logic and configuration parameters that tell Solr how to handle incoming "requests", whether the requests are to return search results, to index documents, or to handle other custom situations."
 - SearchComponent - "ogic and configuration parameters used by request handlers to process query requests."
