@@ -78,6 +78,7 @@ My memory isn't amazing so I tend to make concise notes that help me remember te
     - Solr is bundled with both XML and JSON response writers.
 - SolrConfig (solrconfig.xml) - "The Apache Solr configuration file. Defines indexing options, RequestHandlers, highlighting, spellchecking and various other configurations."
       - The file, solrconfig.xml, is located in the Solr home conf directory."
+- `solr.home` - "the location under the main Solr installatiomn where Solr's collections and their `conf` and `data` directories are stored."
 - Solr Schema (managed-sechame.xml or schema.xml) - Defines how Solr builds indexes from data sent to it.
     - Stores information about the fields and data types.
 - Shard - "In SolrCloud, a logical partition of a single Collection."
