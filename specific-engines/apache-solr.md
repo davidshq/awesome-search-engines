@@ -111,6 +111,29 @@ My memory isn't amazing so I tend to make concise notes that help me remember te
     - "parameters for fine-tuning the query"
     - "parameters for controlling the presentation of the query response"
 
+## Solr as a Service Options
+- [OpenSolr](https://opensolr.com/)
+    - 30-day free trial
+    - Pricing starts at €10/mo.
+
+### Related Projects
+- [Blacklight](https://projectblacklight.org/) - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
+- [AJAX Solr](https://github.com/evolvingweb/ajax-solr) - Stars: 654 - Updated: 10/2021 - Checked: 4/2023 - JS library for building UI's for Solr.
+- [BERT Solr Search](https://github.com/DmitryKey/bert-solr-search) - Stars: 134 - Updated: 6/2022 - Checked: 3/2023 - Allows one to search with BERT vectors in Solr, also compatible with Elasticsearch/OpenSearch.
+    - Has associated articles explaining the process that was used to build the solution.
+- [YASA (Yet Another Solr Admin)](https://github.com/yasa-org/yasa) - Stars: 47 - Updated: 4/2023 - Checked: 5/2023
+    - A web-based UI for administering Solr written with Vue in TypeScript.
+- [Solr Plugin Directory](https://solr.cool/) - A directory of plugins/extensions available for Solr including query parsers, analyzers, response writers, search components, document transformers, and utilities.
+- [Data Import Handler](https://github.com/SearchScale/dataimporthandler) - Stars: 51 - Updated: 4/2023 - Checked: 5/2023
+    - Assists in importing records from databases into Solr.
+- [RequestSanitizer](https://github.com/cominvent/request-sanitizer-component) - Stars: 4 - Updated: 12/2022 - Checked: 5/2023
+    - Sanitizes request parameter input.
+- [SolrDora](https://github.com/hectorcorrea/solrdora) - Stars: 6 - Updated: 1/2023 - Checked: 5/2023*
+    - Provides a UI for browsing a Solr collection.
+
+### Discussion
+- [Official Solr Users Mailing List](https://lists.apache.org/list.html?users@solr.apache.org)
+
 ## Bibliography / Resources
 - [Apache Solr](https://solr.apache.org/)
     - Solr Reference Guide

@@ -4,12 +4,6 @@
 - Apache Lucene
     - Lucene++
 - Apache Solr
-    - Other Projects
-        - Blacklight
-        - AJAX Solr
-        - BERT Solr Search
-        - YASA
-        - Solr Extension Directory
 - Open Semantic Search
     - Subprojects
         - Solr PHP UI
@@ -49,19 +43,6 @@
 ## Apache Solr
 - https://solr.apache.org/
 - See also dedicated pages [on Solr](/specific-engines/apache-solr.md)
-
-### Other Projects
-- [Blacklight](https://projectblacklight.org/) - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
-- [AJAX Solr](https://github.com/evolvingweb/ajax-solr) - Stars: 654 - Updated: 10/2021 - Checked: 4/2023 - JS library for building UI's for Solr.
-- [BERT Solr Search](https://github.com/DmitryKey/bert-solr-search) - Stars: 134 - Updated: 6/2022 - Checked: 3/2023 - Allows one to search with BERT vectors in Solr, also compatible with Elasticsearch/OpenSearch.
-    - Has associated articles explaining the process that was used to build the solution.
-- [YASA (Yet Another Solr Admin)](https://github.com/yasa-org/yasa) - Stars: 47 - Updated: 4/2023 - Checked: 5/2023
-    - A web-based UI for administering Solr written with Vue in TypeScript.
-- [Solr Extension Directory](https://solr.cool/) - A directory of extensions available for Solr including query parsers, analyzers, response writers, search components, document transformers, and utilities.
-- [Data Import Handler](https://github.com/SearchScale/dataimporthandler) - Stars: 51 - Updated: 4/2023 - Checked: 5/2023
-    - Assists in importing records from databases into Solr.
-- [RequestSanitizer](https://github.com/cominvent/request-sanitizer-component) - Stars: 4 - Updated: 12/2022 - Checked: 5/2023
-    - Sanitizes request parameter input.
 
 ## Open Semantic Search
 - https://opensemanticsearch.org/
