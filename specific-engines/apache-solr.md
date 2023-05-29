@@ -133,7 +133,8 @@ My memory isn't amazing so I tend to make concise notes that help me remember te
     - Pricing starts at €10/mo.
 
 ## Related Projects
-- [Blacklight](https://projectblacklight.org/) - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
+- [Blacklight](https://projectblacklight.org/) - Stars: 731 - Updated: 4/2023 - Checked: 5/2023
+    - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
     - [Penn State University](https://github.com/psu-libraries/psulib_blacklight)
     - [Stanford University](https://github.com/sul-dlss/exhibits)
     - [Temple University](https://github.com/tulibraries/funcake-solr)
@@ -157,12 +158,28 @@ My memory isn't amazing so I tend to make concise notes that help me remember te
 
 #### Go
 - [Solr Go](https://github.com/stevenferrer/solr-go) - Stars: 36 - Updated: 3/2023 - Checked: 5/2023
+- [go-solr](https://github.com/vanng822/go-solr) - Stars: 67 - Updated: 9/2022 - Checked: 5/2023
 
 #### JS
 - [solr-client for Node.js](https://github.com/lbdremy/solr-node-client) - Stars: 456 - Updated: 3/2022 - Checked: 5/2023
 
+
+#### JVM (includes Java, Clojure, Scala, etc.)
+- [flux](https://github.com/mwmitchell/flux) - Stars: 35 - Updated: 7/2022 - Checked: 5/2023
+    - "A Clojure based Solr client."
+- [solrs](https://github.com/inoio/solrs) - Stars: 103 - Updated: 4/2023 - Checked: 5/2023
+    - "An async, non-blocking solr client for java/scala, providing a query interface like SolrJ"
+- [solr-scala-client](https://github.com/takezoe/solr-scala-client) - Stars: 91 - Updated: 9/2022 - Checked: 5/2023
+
 #### PHP
 - [Solarium](https://github.com/solariumphp/solarium) - Stars: 911 - Updated: 5/2023 - Checked: 5/2023
+
+#### Python
+- [solrcloudpy](https://github.com/solrcloudpy/solrcloudpy) - Stars: 37 - Updated: 2/2021 - Checked: 5/2023
+
+#### Ruby
+- [rsolr](https://github.com/rsolr/rsolr) - Stars: 416 - Updated: 2/2022 - Checked: 5/2023
+- [solrb](https://github.com/machinio/solrb) - Stars: 38 - Updated: 9/2022 - Checked: 5/2023
 
 ### Application/Framework Integrations
 - [Dokku Solr](https://github.com/dokku/dokku-solr) - Stars: 13 - Updated: 5/2023 - Checked: 5/2023
@@ -180,9 +197,13 @@ My memory isn't amazing so I tend to make concise notes that help me remember te
 ### Projects Using Solr
 - [Fulcrum (Heliotrope)](https://github.com/mlibrary/heliotrope) - Stars: 41 - Updated: 5/2023 - Checked: 5/2023
     - "a Samvera-based digital publishing platform built by the University of Michigan Library"
+- [MontySolr](https://github.com/adsabs/montysolr) - Stars: 50 - Updated: 12/2022 - Checked: 5/2023
+    - "the search engine behind Astrophysics Data System (ADS 2.0)"
 - [National Information Exchange Model (NIEM) Movement](https://github.com/NIEM/movement-solr) - Stars: 3 - Updated: 2/2023
 
 ## Interesting But Old
+- [Elsevier Labs' Solr Dictionary Annotator](https://github.com/elsevierlabs-os/soda) - 2/2020.
+- [OpenSextant's  Solr Text Tagger](https://github.com/OpenSextant/SolrTextTagger) - 7/2020.
 
 ## Discussion
 - [Official Solr Users Mailing List](https://lists.apache.org/list.html?users@solr.apache.org)

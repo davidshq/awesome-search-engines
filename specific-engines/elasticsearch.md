@@ -9,3 +9,6 @@
 
 # Development Integrations
 - [Nest.js Elasticsearch](https://github.com/nestjs/elasticsearch) - Stars: 331 - Updated: 5/2023 - Checked: 5/2023
+
+# Learn
+- [Elasticsearch Cheatsheet for developers](https://github.com/jolicode/elasticsearch-cheatsheet) - Stars: 336 - Updated: 5/2022 - Checked: 5/2023
