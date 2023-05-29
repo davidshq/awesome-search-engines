@@ -1,4 +1,20 @@
 # Apache Solr
+- Introduction
+- Goal
+- Terminology
+    - Concepts
+    - Infrastructure
+    - Other
+- Loading Data
+    - Common Ways to Load Data
+- Searching with Solr
+    - Query Parsers
+    - Query Parser Input Types
+- Solr as a Service Options
+- Related Projects
+- Interesting But Old
+- Discussion
+- Bibliography / References
 
 ## Introduction
 Apache Solr is a search engine built on top of Apache Lucene (a Java library, also used in Elasticsearch). Solr receives queries via HTTP requests and provides responses in JSON by default (but can also output XML, CSV, etc.).
@@ -116,8 +132,11 @@ My memory isn't amazing so I tend to make concise notes that help me remember te
     - 30-day free trial
     - Pricing starts at €10/mo.
 
-### Related Projects
+## Related Projects
 - [Blacklight](https://projectblacklight.org/) - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
+    - [Penn State University](https://github.com/psu-libraries/psulib_blacklight)
+    - [Stanford University](https://github.com/sul-dlss/exhibits)
+    - [Temple University](https://github.com/tulibraries/funcake-solr)
 - [AJAX Solr](https://github.com/evolvingweb/ajax-solr) - Stars: 654 - Updated: 10/2021 - Checked: 4/2023 - JS library for building UI's for Solr.
 - [BERT Solr Search](https://github.com/DmitryKey/bert-solr-search) - Stars: 134 - Updated: 6/2022 - Checked: 3/2023 - Allows one to search with BERT vectors in Solr, also compatible with Elasticsearch/OpenSearch.
     - Has associated articles explaining the process that was used to build the solution.
@@ -131,7 +150,41 @@ My memory isn't amazing so I tend to make concise notes that help me remember te
 - [SolrDora](https://github.com/hectorcorrea/solrdora) - Stars: 6 - Updated: 1/2023 - Checked: 5/2023*
     - Provides a UI for browsing a Solr collection.
 
-### Discussion
+### Language Integrations
+
+#### .NET
+- [SolrNet](https://github.com/SolrNet/SolrNet) - Stars: 913 - Updated: 5/2023 - Checked: 5/2023
+
+#### Go
+- [Solr Go](https://github.com/stevenferrer/solr-go) - Stars: 36 - Updated: 3/2023 - Checked: 5/2023
+
+#### JS
+- [solr-client for Node.js](https://github.com/lbdremy/solr-node-client) - Stars: 456 - Updated: 3/2022 - Checked: 5/2023
+
+#### PHP
+- [Solarium](https://github.com/solariumphp/solarium) - Stars: 911 - Updated: 5/2023 - Checked: 5/2023
+
+### Application/Framework Integrations
+- [Dokku Solr](https://github.com/dokku/dokku-solr) - Stars: 13 - Updated: 5/2023 - Checked: 5/2023
+- [Ibexa DXP Solr Integration](https://github.com/ibexa/solr) - Stars: 2 - Updated: 5/2023 - Checked: 5/2023
+- [Kafka Connect Solr](https://github.com/jcustenborder/kafka-connect-solr) - Stars: 37 - Updated: 9/2021 - Checked: 5/2023
+- [Solr Lando Plugin](https://github.com/lando/solr) - Stars: 0 - Updated: 5/2023 - Checked: 5/2023
+- [collective.solr for Plone CMS](https://github.com/collective/collective.solr) - Stars: 19 - Updated: 5/2023 - Checked: 5/2023
+- [Solr Search for NodeBB](https://github.com/julianlam/nodebb-plugin-solr) - Stars: 22 - Updated: 1/2023 - Checked: 5/2023
+- [TYPO3-Find](https://github.com/subugoe/typo3-find) - Starts: 17 - Updated: 9/2022 - Checked: 5/2023
+    - For providing a UI using TYPO3 to a given Solr instance.
+- [TYPO3-Solr](https://github.com/TYPO3-Solr/ext-solr) - Stars: 126 - Updated: 5/2023 - Checked: 5/2023
+    - For searching the contents of a TYPO3 CMS instance.
+- [Solr Engine for Laravel Scout](https://github.com/pxslip/laravel-scout-solr) - Stars: 17 - Updated: 5/2023 - Checked: 5/2023
+
+### Projects Using Solr
+- [Fulcrum (Heliotrope)](https://github.com/mlibrary/heliotrope) - Stars: 41 - Updated: 5/2023 - Checked: 5/2023
+    - "a Samvera-based digital publishing platform built by the University of Michigan Library"
+- [National Information Exchange Model (NIEM) Movement](https://github.com/NIEM/movement-solr) - Stars: 3 - Updated: 2/2023
+
+## Interesting But Old
+
+## Discussion
 - [Official Solr Users Mailing List](https://lists.apache.org/list.html?users@solr.apache.org)
 
 ## Bibliography / Resources

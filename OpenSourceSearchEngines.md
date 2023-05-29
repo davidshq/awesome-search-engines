@@ -49,8 +49,10 @@
 - Under the hood one is running Apache Solr, but there are some significant changes that make listing Open Semantic Search separately worthwile.[^opensemanticsearch]
 
 ### Subprojects
-- [Solr PHP UI](https://opensemanticsearch.org/solr-php-ui/) - A frontend for Open Semantic Search.
+- [Solr PHP UI](https://opensemanticsearch.org/solr-php-ui/) - Stars: 20 - Updated: 12/2021 - Checked: 5/2023
+    - A frontend for Open Semantic Search.
     - [GitHub Repo](https://github.com/opensemanticsearch/solr-php-ui)
+- [Solr Ontology Tagger](https://github.com/opensemanticsearch/solr-ontology-tagger) - Stars: 39 - Updated: 1/2022 - Checked: 5/2023
 
 ## Elasticsearch
 - https://elastic.co/
