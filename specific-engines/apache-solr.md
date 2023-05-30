@@ -68,6 +68,7 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 
 #### PHP
 - [Solarium](https://github.com/solariumphp/solarium) - Stars: 911 - Updated: 5/2023 - Checked: 5/2023
+- [SolrQueryComponent](https://github.com/InterNations/SolrQueryComponent) - Stars: 64 - Updated: 8/2022 - Checked: 5/2023
 
 #### Python
 - [solrcloudpy](https://github.com/solrcloudpy/solrcloudpy) - Stars: 37 - Updated: 2/2021 - Checked: 5/2023
@@ -76,14 +77,18 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [rsolr](https://github.com/rsolr/rsolr) - Stars: 416 - Updated: 2/2022 - Checked: 5/2023
 - [solrb](https://github.com/machinio/solrb) - Stars: 38 - Updated: 9/2022 - Checked: 5/2023
 - [LSolr](https://github.com/supercaracal/lsolr) - Stars: 10 - Updated: 12/2022 - Checked: 5/2023
+- [Sunspot](https://github.com/sunspot/sunspot) - Stars: 3k - Updated: 3/2023 - Checked:  5/2023
 
 ### Application/Framework Integrations
 - [Dokku Solr](https://github.com/dokku/dokku-solr) - Stars: 13 - Updated: 5/2023 - Checked: 5/2023
+- [@florajs/datasource-solr](https://github.com/florajs/datasource-solr) - Stars: 6 - Updated: 5/2023 - Checked: 5/2023
 - [Ibexa DXP Solr Integration](https://github.com/ibexa/solr) - Stars: 2 - Updated: 5/2023 - Checked: 5/2023
 - [Kafka Connect Solr](https://github.com/jcustenborder/kafka-connect-solr) - Stars: 37 - Updated: 9/2021 - Checked: 5/2023
 - [Solr Lando Plugin](https://github.com/lando/solr) - Stars: 0 - Updated: 5/2023 - Checked: 5/2023
 - [collective.solr for Plone CMS](https://github.com/collective/collective.solr) - Stars: 19 - Updated: 5/2023 - Checked: 5/2023
 - [Solr Search for NodeBB](https://github.com/julianlam/nodebb-plugin-solr) - Stars: 22 - Updated: 1/2023 - Checked: 5/2023
+- [Spring Data Solr](https://github.com/spring-projects/spring-data-solr) - Stars: 386 - Updated: 5/2023 - Checked: 5/2023
+- [Modern SilverStripe Solr Search](https://github.com/Firesphere/silverstripe-solr-search) - Stars: 10 - Updated: 5/2023 - Checked: 5/2023
 - [TYPO3-Find](https://github.com/subugoe/typo3-find) - Starts: 17 - Updated: 9/2022 - Checked: 5/2023
     - For providing a UI using TYPO3 to a given Solr instance.
 - [TYPO3-Solr](https://github.com/TYPO3-Solr/ext-solr) - Stars: 126 - Updated: 5/2023 - Checked: 5/2023
@@ -93,15 +98,9 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [Sitecore SmartSolrSchema](https://github.com/dataweaversio/SmartSolrSchema) - Stars: 17 - Updated: 12/2022 - Checked: 5/2023
     - Populates "not only standard Sitecore dynamic fields but also reads any custom languages that are set up"
 
-### Projects Using Solr
-- [Fulcrum (Heliotrope)](https://github.com/mlibrary/heliotrope) - Stars: 41 - Updated: 5/2023 - Checked: 5/2023
-    - "a Samvera-based digital publishing platform built by the University of Michigan Library"
-- [MontySolr](https://github.com/adsabs/montysolr) - Stars: 50 - Updated: 12/2022 - Checked: 5/2023
-    - "the search engine behind Astrophysics Data System (ADS 2.0)"
-- [National Information Exchange Model (NIEM) Movement](https://github.com/NIEM/movement-solr) - Stars: 3 - Updated: 2/2023
-
 ### Utilities
 - [Solr Ansible role](https://github.com/idealista/solr_role) - Stars: 23 - Updated: 1/2023 - Checked: 5/2023
+- [ik-analyzer-solr](https://github.com/magese/ik-analyzer-solr) - Stars: 1.1k - Updated: 1/2022 - Checked: 5/2023
 - [Data Import Handler](https://github.com/SearchScale/dataimporthandler) - Stars: 51 - Updated: 4/2023 - Checked: 5/2023
     - Assists in importing records from databases into Solr.
 - [Multi Tier Annotation Search (MTAS)](https://github.com/textexploration/mtas) - Stars: 6 - Updated: 1/2022 - Checked: 5/2023
@@ -109,8 +108,12 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
     - Sanitizes request parameter input.
 - [solr-diagnostics](https://github.com/sematext/solr-diagnostics) - Stars: 5 - Updated: 5/2021 - Checked: 5/2023
     - "Gathers info from Solr that should help diagnose issues"
+- [SolrCloud Manager](https://github.com/ekataglobal/solrcloud_manager) - Stars: 23 - Updated: 1/2022 - Checked: 5/2023
+    - "Provides easy SolrCloud cluster management."
 - [solrcopy](https://github.com/juarezr/solrcopy) - Stars: 6 - Updated: 3/2022 - Checked: 5/2023
     - CLI for backup/restore of documents in Solr cores.
+- [Solr Operator](https://github.com/apache/solr-operator) - Stars: 208 - Updated: 5/2023 - Checked: 5/2023
+    - "Kubernetes Operator for Apache Solr"
 - [solrscripts](https://github.com/tokee/solrscripts) - Stars: 10 - Updated: 4/2022 - Checked: 5/2023
     - Includes a tool for diffing schema configs and another for validating configs.
 - [SolrUtils](https://github.com/InterNations/SolrUtils) - Stars: 8 - Updated: 8/2022 - Checked: 5/2023
@@ -121,6 +124,15 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 ### Vector Search
 - [BERT Solr Search](https://github.com/DmitryKey/bert-solr-search) - Stars: 134 - Updated: 6/2022 - Checked: 3/2023 - Allows one to search with BERT vectors in Solr, also compatible with Elasticsearch/OpenSearch.
     - Has associated articles explaining the process that was used to build the solution.
+
+### Projects Using Solr
+- [Fulcrum (Heliotrope)](https://github.com/mlibrary/heliotrope) - Stars: 41 - Updated: 5/2023 - Checked: 5/2023
+    - "a Samvera-based digital publishing platform built by the University of Michigan Library"
+- [Hydroshare](https://github.com/hydroshare/hydroshare) - Stars: 166 - Updated: 5/2023 - Checked: 5/2023
+    - "collaborative website for better access to data and models in the hydrologic sciences."
+- [MontySolr](https://github.com/adsabs/montysolr) - Stars: 50 - Updated: 12/2022 - Checked: 5/2023
+    - "the search engine behind Astrophysics Data System (ADS 2.0)"
+- [National Information Exchange Model (NIEM) Movement](https://github.com/NIEM/movement-solr) - Stars: 3 - Updated: 2/2023
 
 ## Discussion
 - [Official Solr Users Mailing List](https://lists.apache.org/list.html?users@solr.apache.org)
