@@ -12,3 +12,12 @@
 
 # Learn
 - [Elasticsearch Cheatsheet for developers](https://github.com/jolicode/elasticsearch-cheatsheet) - Stars: 336 - Updated: 5/2022 - Checked: 5/2023
+
+
+# Applications Using
+- [DataCap](https://github.com/EdurtIO/datacap)
+- [DataShare](https://github.com/ICIJ/datashare)
+- [Diskover Community Edition](https://github.com/lacic/solr-resource-recommender)
+- [Magda](https://github.com/magda-io/magda)
+- [Tigris](https://github.com/tigrisdata/tigris)
+- [Zenodo](https://github.com/zenodo/zenodo)
