@@ -53,6 +53,7 @@
     - A frontend for Open Semantic Search.
     - [GitHub Repo](https://github.com/opensemanticsearch/solr-php-ui)
 - [Solr Ontology Tagger](https://github.com/opensemanticsearch/solr-ontology-tagger) - Stars: 39 - Updated: 1/2022 - Checked: 5/2023
+- [Solr Synonames](https://github.com/opensemanticsearch/solr-synonames) - Stars: 5 - Updated: 10/2020 - Checked: 5/2023
 
 ## Elasticsearch
 - https://elastic.co/

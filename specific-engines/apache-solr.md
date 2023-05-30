@@ -75,6 +75,7 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 #### Ruby
 - [rsolr](https://github.com/rsolr/rsolr) - Stars: 416 - Updated: 2/2022 - Checked: 5/2023
 - [solrb](https://github.com/machinio/solrb) - Stars: 38 - Updated: 9/2022 - Checked: 5/2023
+- [LSolr](https://github.com/supercaracal/lsolr) - Stars: 10 - Updated: 12/2022 - Checked: 5/2023
 
 ### Application/Framework Integrations
 - [Dokku Solr](https://github.com/dokku/dokku-solr) - Stars: 13 - Updated: 5/2023 - Checked: 5/2023
@@ -88,6 +89,9 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [TYPO3-Solr](https://github.com/TYPO3-Solr/ext-solr) - Stars: 126 - Updated: 5/2023 - Checked: 5/2023
     - For searching the contents of a TYPO3 CMS instance.
 - [Solr Engine for Laravel Scout](https://github.com/pxslip/laravel-scout-solr) - Stars: 17 - Updated: 5/2023 - Checked: 5/2023
+- [Apache Solr Dialect for SQLAlchemy and Apache Superset](https://github.com/aadel/sqlalchemy-solr) - Stars: 8 - Updated: 8/2022 - Checked: 5/2023
+- [Sitecore SmartSolrSchema](https://github.com/dataweaversio/SmartSolrSchema) - Stars: 17 - Updated: 12/2022 - Checked: 5/2023
+    - Populates "not only standard Sitecore dynamic fields but also reads any custom languages that are set up"
 
 ### Projects Using Solr
 - [Fulcrum (Heliotrope)](https://github.com/mlibrary/heliotrope) - Stars: 41 - Updated: 5/2023 - Checked: 5/2023
@@ -97,10 +101,22 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [National Information Exchange Model (NIEM) Movement](https://github.com/NIEM/movement-solr) - Stars: 3 - Updated: 2/2023
 
 ### Utilities
+- [Solr Ansible role](https://github.com/idealista/solr_role) - Stars: 23 - Updated: 1/2023 - Checked: 5/2023
 - [Data Import Handler](https://github.com/SearchScale/dataimporthandler) - Stars: 51 - Updated: 4/2023 - Checked: 5/2023
     - Assists in importing records from databases into Solr.
+- [Multi Tier Annotation Search (MTAS)](https://github.com/textexploration/mtas) - Stars: 6 - Updated: 1/2022 - Checked: 5/2023
 - [RequestSanitizer](https://github.com/cominvent/request-sanitizer-component) - Stars: 4 - Updated: 12/2022 - Checked: 5/2023
     - Sanitizes request parameter input.
+- [solr-diagnostics](https://github.com/sematext/solr-diagnostics) - Stars: 5 - Updated: 5/2021 - Checked: 5/2023
+    - "Gathers info from Solr that should help diagnose issues"
+- [solrcopy](https://github.com/juarezr/solrcopy) - Stars: 6 - Updated: 3/2022 - Checked: 5/2023
+    - CLI for backup/restore of documents in Solr cores.
+- [solrscripts](https://github.com/tokee/solrscripts) - Stars: 10 - Updated: 4/2022 - Checked: 5/2023
+    - Includes a tool for diffing schema configs and another for validating configs.
+- [SolrUtils](https://github.com/InterNations/SolrUtils) - Stars: 8 - Updated: 8/2022 - Checked: 5/2023
+    - "helps with recurring tasks when working with Solr like escaping and sanitizing user input"
+- [Zeppelin Solr Interpreter](https://github.com/lucidworks/zeppelin-solr) - Stars: 28 - Updated: 1/2021 - Checked: 5/2023
+    - "allows user to issue Solr queries and display results in the Zeppelin UI"
 
 ### Vector Search
 - [BERT Solr Search](https://github.com/DmitryKey/bert-solr-search) - Stars: 134 - Updated: 6/2022 - Checked: 3/2023 - Allows one to search with BERT vectors in Solr, also compatible with Elasticsearch/OpenSearch.
@@ -115,11 +131,13 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
     - Pricing starts at €10/mo.
 
 ## Companies Working with Solr
-- 
+- [sematext](https://sematext.com/)
 
 ## Interesting But Old
 - [Elsevier Labs' Solr Dictionary Annotator](https://github.com/elsevierlabs-os/soda) - 2/2020.
 - [OpenSextant's  Solr Text Tagger](https://github.com/OpenSextant/SolrTextTagger) - 7/2020.
+- [O'Reilly Media's Solr Plugin](https://github.com/oreillymedia/ifpress-solr-plugin) - 8/2020.
+- [Vector Scoring Plugin for Solr](https://github.com/saaay71/solr-vector-scoring) - 9/2019.
 - [Solr Recommender](https://github.com/pferrel/solr-recommender) - 6/2016.
 - [solr-movielens-recommender](https://github.com/o19s/solr-movielens-recommender) - 10/2016.
 - [solr-resource-recommender](https://github.com/lacic/solr-resource-recommender) - 12/2014.
