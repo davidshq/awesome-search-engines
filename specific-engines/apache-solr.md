@@ -47,6 +47,14 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
     - Provides a UI for browsing a Solr collection.
 - [YASA (Yet Another Solr Admin)](https://github.com/yasa-org/yasa) - Stars: 47 - Updated: 4/2023 - Checked: 5/2023
     - A web-based UI for administering Solr written with Vue in TypeScript.
+- [RecordManager](https://github.com/NatLibFi/RecordManager) - Stars: 44 - Updated: 5/2023 - Checked: 5/2023
+- [Goobi](https://goobi.io/)
+- [DS-Discover](https://github.com/kb-dk/ds-discover) - Stars: 0 - Updated: 4/2023 - Checked: 5/2023
+    - "Gateway for Solr text search, image similarity, sound location and other discovery technologies....Developed and maintained by the Royal Danish Library."
+- [Search Management UI](https://github.com/querqy/smui) - Stars: 49 - Updated: 5/2023 - Checked: 5/2023
+- [MOPSY Search](https://github.com/Der-Henning/mopsy-react) - Stars: 0 - Updated: 1/2022 - Checked: 5/2023
+    - Hasn't been updated in a while, but has a live demo.
+- [solrkit](https://github.com/garysieling/solrkit) - Stars: 11 - Updated: 4/2018 - Checked: 5/2023
 
 ### Language Integrations
 
@@ -54,13 +62,15 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [SolrNet](https://github.com/SolrNet/SolrNet) - Stars: 913 - Updated: 5/2023 - Checked: 5/2023
 - [solr-net-linq](https://github.com/IharYakimush/solr-net-linq) - Stars: 4 - Updated: 4/2023 - Checked: 5/2023
 
+#### Elixir
+- [Elsol](https://github.com/findmypast/elsol) - Stars: 8 - Updated: 3/2023 - Checked: 5/2023
+
 #### Go
 - [Solr Go](https://github.com/stevenferrer/solr-go) - Stars: 36 - Updated: 3/2023 - Checked: 5/2023
 - [go-solr](https://github.com/vanng822/go-solr) - Stars: 67 - Updated: 9/2022 - Checked: 5/2023
 
 #### JS
 - [solr-client for Node.js](https://github.com/lbdremy/solr-node-client) - Stars: 456 - Updated: 3/2022 - Checked: 5/2023
-
 
 #### JVM (includes Java, Clojure, Scala, etc.)
 - [flux](https://github.com/mwmitchell/flux) - Stars: 35 - Updated: 7/2022 - Checked: 5/2023
@@ -72,9 +82,12 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 #### PHP
 - [Solarium](https://github.com/solariumphp/solarium) - Stars: 911 - Updated: 5/2023 - Checked: 5/2023
 - [SolrQueryComponent](https://github.com/InterNations/SolrQueryComponent) - Stars: 64 - Updated: 8/2022 - Checked: 5/2023
+- [pecl-search_engine-solr](https://github.com/php/pecl-search_engine-solr) - Stars: 56 - Updated: 5/2023 - Checked: 5/2023
 
 #### Python
+- [Pysolr](https://github.com/django-haystack/pysolr) - Stars: 639 - Updated: 5/2023 - Checked: 5/2023
 - [solrcloudpy](https://github.com/solrcloudpy/solrcloudpy) - Stars: 37 - Updated: 2/2021 - Checked: 5/2023
+- [solrq](https://github.com/swistakm/solrq) - Stars: 22 - Updated: 11/2022 - Checked: 5/2023
 
 #### Ruby
 - [rsolr](https://github.com/rsolr/rsolr) - Stars: 416 - Updated: 2/2022 - Checked: 5/2023
@@ -84,8 +97,10 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 
 ### Application/Framework Integrations
 - [Dokku Solr](https://github.com/dokku/dokku-solr) - Stars: 13 - Updated: 5/2023 - Checked: 5/2023
+- [Drupal Search API Solr](https://github.com/mkalkbrenner/search_api_solr) - Stars: 6 - Updated: 5/2023 - Checked: 5/2023
 - [eZ Platform](https://github.com/ezsystems/ezplatform-solr-search-engine) - Stars: 45 - Updated: 5/2023 - Checked: 5/2023
 - [Feathersjs Solr Client (feathers-solr)](https://github.com/sajov/feathers-solr) - Stars: 29 - Updated: 3/2023 - Checked: 5/2023
+- [Flask Backend Solr Service](https://github.com/NeuroBridge/Backend_service) - Stars: 0 - Updayted: 5/2023 - Checked: 5/2023
 - [@florajs/datasource-solr](https://github.com/florajs/datasource-solr) - Stars: 6 - Updated: 5/2023 - Checked: 5/2023
 - [Ibexa DXP Solr Integration](https://github.com/ibexa/solr) - Stars: 2 - Updated: 5/2023 - Checked: 5/2023
 - [Kafka Connect Solr](https://github.com/jcustenborder/kafka-connect-solr) - Stars: 37 - Updated: 9/2021 - Checked: 5/2023
@@ -102,7 +117,15 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [Solr Engine for Laravel Scout](https://github.com/pxslip/laravel-scout-solr) - Stars: 17 - Updated: 5/2023 - Checked: 5/2023
 - [Apache Solr Dialect for SQLAlchemy and Apache Superset](https://github.com/aadel/sqlalchemy-solr) - Stars: 8 - Updated: 8/2022 - Checked: 5/2023
 - [Sitecore SmartSolrSchema](https://github.com/dataweaversio/SmartSolrSchema) - Stars: 17 - Updated: 12/2022 - Checked: 5/2023
-    - Populates "not only standard Sitecore dynamic fields but also reads any custom languages that are set up"\
+    - Populates "not only standard Sitecore dynamic fields but also reads any custom languages that are set up"
+- [solr-power (for WordPress)](https://github.com/pantheon-systems/solr-power) - Stars: 122 - Updated: 4/2023 - Checked: 5/2023
+
+### Neural
+- [Neural Solr](https://github.com/maxdotio/neural-solr) - Stars: 14 - Updated: 6/2022 - Checked: 5/2023
+    - "This project provides a complete and working semantic search application, using Mighty Inference Server, Apache Solr v9, and an example Node.js express application."
+
+### Other
+- [solr-constnat-similarity](https://github.com/freedev/solr-constant-similarity) - Stars: 2 - Updated: 4/2022 - Checked: 5/2023
 
 ### Security
 - [solr-proxy](https://github.com/Trott/solr-proxy) - Stars: 7 - Updated: 5/2023 - Checked: 5/2023
@@ -141,6 +164,8 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
     - Includes a tool for diffing schema configs and another for validating configs.
 - [SolrUtils](https://github.com/InterNations/SolrUtils) - Stars: 8 - Updated: 8/2022 - Checked: 5/2023
     - "helps with recurring tasks when working with Solr like escaping and sanitizing user input"
+- [Traject](https://github.com/traject/traject) - Stars: 98 - Updated: 4/2023 - Checked: 5/2023
+    - "An easy to use, high-performance, flexible and extensible metadata transformation system, focused on library-archives-museums input, and indexing to Solr as output."
 - [Zeppelin Solr Interpreter](https://github.com/lucidworks/zeppelin-solr) - Stars: 28 - Updated: 1/2021 - Checked: 5/2023
     - "allows user to issue Solr queries and display results in the Zeppelin UI"
 - [solr-bench](https://github.com/fullstorydev/solr-bench) - Stars: 15 - Updated: 4/2023 - Checked: 5/2023
@@ -160,6 +185,7 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [MontySolr](https://github.com/adsabs/montysolr) - Stars: 50 - Updated: 12/2022 - Checked: 5/2023
     - "the search engine behind Astrophysics Data System (ADS 2.0)"
 - [National Information Exchange Model (NIEM) Movement](https://github.com/NIEM/movement-solr) - Stars: 3 - Updated: 2/2023 - Checked: 5/2023
+- [Nelmio](https://github.com/nelmio/NelmioSolariumBundle) - Stars: 152 - Updated: 4/2023 - Checked: 5/2023
 - [Samvera](https://github.com/samvera/hyrax) - Stars: 166 - Updated: 5/2023 - Checked: 5/2023
     - "provides a foundation for creating many different digital repository applications."
 
@@ -180,6 +206,8 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 
 ## Companies Working with Solr
 - [sematext](https://sematext.com/)
+- SeaseLtd
+- OpenSourceConnections
 
 ## Interesting But Old
 - [Elsevier Labs' Solr Dictionary Annotator](https://github.com/elsevierlabs-os/soda) - 2/2020.
@@ -190,6 +218,25 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [solr-movielens-recommender](https://github.com/o19s/solr-movielens-recommender) - 10/2016.
 - [solr-resource-recommender](https://github.com/lacic/solr-resource-recommender) - 12/2014.
 - [Selective Search](https://github.com/rajanim/selective-search) - 9/2019.
+- [solr-mlt](https://github.com/dfdeshom/custom-mlt) - 10/2019.
+- [UPenn's solrplugins](https://github.com/upenn-libraries/solrplugins) - 7/2017.
+- [solrgraph](https://github.com/kwatters/solrgraph) - 8/2021.
+- [carrot2's solr-integration-strategies](https://github.com/carrot2/solr-integration-strategies) - 1/2014.
+- [solr-fusion](https://github.com/outermedia/solr-fusion) - 3/2017.
+- [solr-quantities-detection-qparsers](https://github.com/SeaseLtd/solr-quantities-detection-qparsers) - 10/2019.
+- [kafka-solr-sink-connector](https://github.com/bkatwal/kafka-solr-sink-connector) - 11/2020.
+- [scrapy-solr](https://github.com/scalingexcellence/scrapy-solr) - 4/2016.
+- [SKOS Support for Apache Lucene and Solr](https://github.com/behas/lucene-skos) - 2/2016.
+- [Solr Mongo Importer](https://github.com/james75/SolrMongoImporter) - 11/2018.
+- [ftw.crawler](https://github.com/4teamwork/ftw.crawler) - 11/2017.
+- [solr-sql](https://github.com/bluejoe2008/solr-sql) - 4/2020.
+- [rdf-graph-search-with-solr-custom-streaming-expression](https://github.com/spoddutur/rdf-graph-search-with-solr-custom-streaming-expression) - 2/2018.
+- [nutch-solr-integration](https://github.com/basraven/nutch-solr-integration) - 10/2018.
+- [solrj-nested-docs](https://github.com/lucidworks/solrj-nested-docs) - 7/2014.
+
+### UI
+- [Solrstrap](https://github.com/fergiemcdowall/solrstrap) - Stars: 86 - Updated: 4/2017 - Checked: 5/2023
+
 
 ## Bibliography / Resources
 - [Apache Solr](https://solr.apache.org/)
