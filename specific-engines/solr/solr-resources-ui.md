@@ -1,0 +1,22 @@
+# Discovery and/or UI
+- [Blacklight](https://projectblacklight.org/) - Stars: 731 - Updated: 4/2023 - Checked: 5/2023
+    - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
+    - [Boston Public Library](https://github.com/boston-library/commonwealth-vlr-engine)
+    - [Penn State University](https://github.com/psu-libraries/psulib_blacklight)
+    - [Stanford University](https://github.com/sul-dlss/exhibits)
+    - [Temple University](https://github.com/tulibraries/funcake-solr)
+    - [warclight](https://github.com/archivesunleashed/warclight)
+- [AJAX Solr](https://github.com/evolvingweb/ajax-solr) - Stars: 654 - Updated: 10/2021 - Checked: 4/2023 - JS library for building UI's for Solr.
+- [SolrDora](https://github.com/hectorcorrea/solrdora) - Stars: 6 - Updated: 1/2023 - Checked: 5/2023*
+    - Provides a UI for browsing a Solr collection.
+- [YASA (Yet Another Solr Admin)](https://github.com/yasa-org/yasa) - Stars: 47 - Updated: 4/2023 - Checked: 5/2023
+    - A web-based UI for administering Solr written with Vue in TypeScript.
+- [RecordManager](https://github.com/NatLibFi/RecordManager) - Stars: 44 - Updated: 5/2023 - Checked: 5/2023
+- [Goobi](https://goobi.io/)
+    - "an open source software suite for the control and presentation of digitization projects."
+- [DS-Discover](https://github.com/kb-dk/ds-discover) - Stars: 0 - Updated: 4/2023 - Checked: 5/2023
+    - "Gateway for Solr text search, image similarity, sound location and other discovery technologies....Developed and maintained by the Royal Danish Library."
+- [Search Management UI](https://github.com/querqy/smui) - Stars: 49 - Updated: 5/2023 - Checked: 5/2023
+- [MOPSY Search](https://github.com/Der-Henning/mopsy-react) - Stars: 0 - Updated: 1/2022 - Checked: 5/2023
+    - Hasn't been updated in a while, but has a live demo.
+- [solrkit](https://github.com/garysieling/solrkit) - Stars: 11 - Updated: 4/2018 - Checked: 5/2023

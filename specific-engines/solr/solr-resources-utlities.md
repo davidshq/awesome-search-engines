@@ -1,0 +1,44 @@
+# Solr Resources: Utilities
+- [Solr Ansible role](https://github.com/idealista/solr_role) - Stars: 23 - Updated: 1/2023 - Checked: 5/2023
+- [Apache Solr Container (Built with Ansible)](https://github.com/geerlingguy/solr-container) - Stars: 17 - Updated: 11/2022 - Checked: 5/2023
+- [Solr Bulk Indexing](https://github.com/miku/solrbulk) - Stars: 39 - Updated: 4/2023 - Checked: 5/2023
+    - For indexing "a bunch of documents really, really, fast"
+- [solr-cmd-utils](https://github.com/tblsoft/solr-cmd-utils) - Stars: 3 - Updated: 12/2022 - Checked: 5/2023
+    - Includes solr-pipeline, solr-dump, solr-extract-nouns, solr-numfound.
+- [Solr DB Importer](https://github.com/saro-lab/solr-db-importer) - Stars: 10 - Updated: 3/2023 - Checked: 5/2023
+    - Supports MariaDB, Oracle, MSSQL, MySQL, PostgreSQL, and H2.
+- [ik-analyzer-solr](https://github.com/magese/ik-analyzer-solr) - Stars: 1.1k - Updated: 1/2022 - Checked: 5/2023
+- [Data Import Handler](https://github.com/SearchScale/dataimporthandler) - Stars: 51 - Updated: 4/2023 - Checked: 5/2023
+    - Assists in importing records from databases into Solr.
+- [Multi Tier Annotation Search (MTAS)](https://github.com/textexploration/mtas) - Stars: 6 - Updated: 1/2022 - Checked: 5/2023
+- [RequestSanitizer](https://github.com/cominvent/request-sanitizer-component) - Stars: 4 - Updated: 12/2022 - Checked: 5/2023
+    - Sanitizes request parameter input.
+- [Relevancy Dashboard](https://github.com/sul-dlss/relevancy_dashboard) - Stars: 3 - Updated: 5/2023 - Checked: 5/2023
+    - "Analyzing relevancy changes across solr versions"
+- [solr-diagnostics](https://github.com/sematext/solr-diagnostics) - Stars: 5 - Updated: 5/2021 - Checked: 5/2023
+    - "Gathers info from Solr that should help diagnose issues"
+- [OSC's Solr Dump](https://github.com/o19s/solr_dump) - Stars: 7 - Updated: 3/2022 - Checked: 5/2023
+    - "Dump a Solr index to file; Read from dumped file to Solr."
+- [solrdump](https://github.com/ubleipzig/solrdump) - Stars: 35 - Updated: 4/2023 - Checked: 5/2023
+    - "Export documents from a SOLR index as JSON"
+- [SolrCloud Manager](https://github.com/ekataglobal/solrcloud_manager) - Stars: 23 - Updated: 1/2022 - Checked: 5/2023
+    - "Provides easy SolrCloud cluster management."
+- [solrcopy](https://github.com/juarezr/solrcopy) - Stars: 6 - Updated: 3/2022 - Checked: 5/2023
+    - CLI for backup/restore of documents in Solr cores.
+- [Solr Grouping](https://github.com/nla/solr-grouping) - Stars: 2 - Updated: 1/2023 - Checked: 5/2023
+    - Allows two levels of grouping (from the National Library of Australia)
+- [Solr Operator](https://github.com/apache/solr-operator) - Stars: 208 - Updated: 5/2023 - Checked: 5/2023
+    - "Kubernetes Operator for Apache Solr"
+- [Lucidworks Spark/Solr Integration](https://github.com/lucidworks/spark-solr) - Stars: 440 - Updated: 5/2023 - Checked: 5/2023
+    - "tools for reading data from Solr as a Spark DataFrame/RDD and indexing objects from Spark into Solr using SolrJ."
+- [solrscripts](https://github.com/tokee/solrscripts) - Stars: 10 - Updated: 4/2022 - Checked: 5/2023
+    - Includes a tool for diffing schema configs and another for validating configs.
+- [Cominvent's Solr tools](https://github.com/cominvent/solr-tools) - Stars: 38 - Updated: 11/2022 - Checked: 5/2023
+- [SolrUtils](https://github.com/InterNations/SolrUtils) - Stars: 8 - Updated: 8/2022 - Checked: 5/2023
+    - "helps with recurring tasks when working with Solr like escaping and sanitizing user input"
+- [Traject](https://github.com/traject/traject) - Stars: 98 - Updated: 4/2023 - Checked: 5/2023
+    - "An easy to use, high-performance, flexible and extensible metadata transformation system, focused on library-archives-museums input, and indexing to Solr as output."
+- [Zeppelin Solr Interpreter](https://github.com/lucidworks/zeppelin-solr) - Stars: 28 - Updated: 1/2021 - Checked: 5/2023
+    - "allows user to issue Solr queries and display results in the Zeppelin UI"
+- [solr-bench](https://github.com/fullstorydev/solr-bench) - Stars: 15 - Updated: 4/2023 - Checked: 5/2023
+    - "Solr benchmarking and load testing harness"

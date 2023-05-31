@@ -1,0 +1,24 @@
+### Application/Framework Integrations
+- [Dokku Solr](https://github.com/dokku/dokku-solr) - Stars: 13 - Updated: 5/2023 - Checked: 5/2023
+- [Drupal Search API Solr](https://github.com/mkalkbrenner/search_api_solr) - Stars: 6 - Updated: 5/2023 - Checked: 5/2023
+- [eZ Platform](https://github.com/ezsystems/ezplatform-solr-search-engine) - Stars: 45 - Updated: 5/2023 - Checked: 5/2023
+- [Feathersjs Solr Client (feathers-solr)](https://github.com/sajov/feathers-solr) - Stars: 29 - Updated: 3/2023 - Checked: 5/2023
+- [Flask Backend Solr Service](https://github.com/NeuroBridge/Backend_service) - Stars: 0 - Updayted: 5/2023 - Checked: 5/2023
+- [@florajs/datasource-solr](https://github.com/florajs/datasource-solr) - Stars: 6 - Updated: 5/2023 - Checked: 5/2023
+- [Ibexa DXP Solr Integration](https://github.com/ibexa/solr) - Stars: 2 - Updated: 5/2023 - Checked: 5/2023
+- [Kafka Connect Solr](https://github.com/jcustenborder/kafka-connect-solr) - Stars: 37 - Updated: 9/2021 - Checked: 5/2023
+- [Solr Lando Plugin](https://github.com/lando/solr) - Stars: 0 - Updated: 5/2023 - Checked: 5/2023
+- [Omeka-S-module-SearchSolr](https://github.com/Daniel-KM/Omeka-S-module-SearchSolr) - Stars: 2 - Updated: 5/2023 - Checked: 5/2023
+- [collective.solr for Plone CMS](https://github.com/collective/collective.solr) - Stars: 19 - Updated: 5/2023 - Checked: 5/2023
+- [Solr Search for NodeBB](https://github.com/julianlam/nodebb-plugin-solr) - Stars: 22 - Updated: 1/2023 - Checked: 5/2023
+- [Spring Data Solr](https://github.com/spring-projects/spring-data-solr) - Stars: 386 - Updated: 5/2023 - Checked: 5/2023
+- [Modern SilverStripe Solr Search](https://github.com/Firesphere/silverstripe-solr-search) - Stars: 10 - Updated: 5/2023 - Checked: 5/2023
+- [TYPO3-Find](https://github.com/subugoe/typo3-find) - Starts: 17 - Updated: 9/2022 - Checked: 5/2023
+    - For providing a UI using TYPO3 to a given Solr instance.
+- [TYPO3-Solr](https://github.com/TYPO3-Solr/ext-solr) - Stars: 126 - Updated: 5/2023 - Checked: 5/2023
+    - For searching the contents of a TYPO3 CMS instance.
+- [Solr Engine for Laravel Scout](https://github.com/pxslip/laravel-scout-solr) - Stars: 17 - Updated: 5/2023 - Checked: 5/2023
+- [Apache Solr Dialect for SQLAlchemy and Apache Superset](https://github.com/aadel/sqlalchemy-solr) - Stars: 8 - Updated: 8/2022 - Checked: 5/2023
+- [Sitecore SmartSolrSchema](https://github.com/dataweaversio/SmartSolrSchema) - Stars: 17 - Updated: 12/2022 - Checked: 5/2023
+    - Populates "not only standard Sitecore dynamic fields but also reads any custom languages that are set up"
+- [solr-power (for WordPress)](https://github.com/pantheon-systems/solr-power) - Stars: 122 - Updated: 4/2023 - Checked: 5/2023

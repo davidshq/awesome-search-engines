@@ -1,0 +1,16 @@
+### Projects Using Solr
+- [Fulcrum (Heliotrope)](https://github.com/mlibrary/heliotrope) - Stars: 41 - Updated: 5/2023 - Checked: 5/2023
+    - "a Samvera-based digital publishing platform built by the University of Michigan Library"
+- [FXDesktopSearch](https://github.com/mirkosertic/FXDesktopSearch) - Stars: 164 - Updated: 5/2023 - Checked: 5/2023
+    - "a JavaFX based desktop search application"
+- [Hydroshare](https://github.com/hydroshare/hydroshare) - Stars: 166 - Updated: 5/2023 - Checked: 5/2023
+    - "collaborative website for better access to data and models in the hydrologic sciences."
+- [MontySolr](https://github.com/adsabs/montysolr) - Stars: 50 - Updated: 12/2022 - Checked: 5/2023
+    - "the search engine behind Astrophysics Data System (ADS 2.0)"
+- [National Information Exchange Model (NIEM) Movement](https://github.com/NIEM/movement-solr) - Stars: 3 - Updated: 2/2023 - Checked: 5/2023
+- [Nelmio](https://github.com/nelmio/NelmioSolariumBundle) - Stars: 152 - Updated: 4/2023 - Checked: 5/2023
+- [Samvera](https://github.com/samvera/hyrax) - Stars: 166 - Updated: 5/2023 - Checked: 5/2023
+    - "provides a foundation for creating many different digital repository applications."
+- [netarchivesuite's SolrWayback](https://github.com/netarchivesuite/solrwayback) - Stars: 77 - Updated: 5/2023 - Checked: 5/2023
+    - "A search interface and wayback machine for the UKWA Solr based warc-indexer framework"
+- [OpenSextant's Xponents](https://github.com/OpenSextant/Xponents) - Stars: 42 - Updated: 5/2023 - Checked: 5/2023
