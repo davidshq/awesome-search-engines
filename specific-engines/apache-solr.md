@@ -49,6 +49,7 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
     - A web-based UI for administering Solr written with Vue in TypeScript.
 - [RecordManager](https://github.com/NatLibFi/RecordManager) - Stars: 44 - Updated: 5/2023 - Checked: 5/2023
 - [Goobi](https://goobi.io/)
+    - "an open source software suite for the control and presentation of digitization projects."
 - [DS-Discover](https://github.com/kb-dk/ds-discover) - Stars: 0 - Updated: 4/2023 - Checked: 5/2023
     - "Gateway for Solr text search, image similarity, sound location and other discovery technologies....Developed and maintained by the Royal Danish Library."
 - [Search Management UI](https://github.com/querqy/smui) - Stars: 49 - Updated: 5/2023 - Checked: 5/2023
@@ -125,7 +126,11 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
     - "This project provides a complete and working semantic search application, using Mighty Inference Server, Apache Solr v9, and an example Node.js express application."
 
 ### Other
-- [solr-constnat-similarity](https://github.com/freedev/solr-constant-similarity) - Stars: 2 - Updated: 4/2022 - Checked: 5/2023
+- [solr-constant-similarity](https://github.com/freedev/solr-constant-similarity) - Stars: 2 - Updated: 4/2022 - Checked: 5/2023
+
+### Plugins
+- [sematext's Solr Redis Extensions](https://github.com/sematext/solr-redis) - Stars: 51 - Updated: 5/2022 - Checked: 5/2023.
+    - "a ParserPlugin that provides a Solr query parser based on data stored in Redis."
 
 ### Security
 - [solr-proxy](https://github.com/Trott/solr-proxy) - Stars: 7 - Updated: 5/2023 - Checked: 5/2023
@@ -140,6 +145,8 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [Apache Solr Container (Built with Ansible)](https://github.com/geerlingguy/solr-container) - Stars: 17 - Updated: 11/2022 - Checked: 5/2023
 - [Solr Bulk Indexing](https://github.com/miku/solrbulk) - Stars: 39 - Updated: 4/2023 - Checked: 5/2023
     - For indexing "a bunch of documents really, really, fast"
+- [solr-cmd-utils](https://github.com/tblsoft/solr-cmd-utils) - Stars: 3 - Updated: 12/2022 - Checked: 5/2023
+    - Includes solr-pipeline, solr-dump, solr-extract-nouns, solr-numfound.
 - [Solr DB Importer](https://github.com/saro-lab/solr-db-importer) - Stars: 10 - Updated: 3/2023 - Checked: 5/2023
     - Supports MariaDB, Oracle, MSSQL, MySQL, PostgreSQL, and H2.
 - [ik-analyzer-solr](https://github.com/magese/ik-analyzer-solr) - Stars: 1.1k - Updated: 1/2022 - Checked: 5/2023
@@ -148,8 +155,14 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [Multi Tier Annotation Search (MTAS)](https://github.com/textexploration/mtas) - Stars: 6 - Updated: 1/2022 - Checked: 5/2023
 - [RequestSanitizer](https://github.com/cominvent/request-sanitizer-component) - Stars: 4 - Updated: 12/2022 - Checked: 5/2023
     - Sanitizes request parameter input.
+- [Relevancy Dashboard](https://github.com/sul-dlss/relevancy_dashboard) - Stars: 3 - Updated: 5/2023 - Checked: 5/2023
+    - "Analyzing relevancy changes across solr versions"
 - [solr-diagnostics](https://github.com/sematext/solr-diagnostics) - Stars: 5 - Updated: 5/2021 - Checked: 5/2023
     - "Gathers info from Solr that should help diagnose issues"
+- [OSC's Solr Dump](https://github.com/o19s/solr_dump) - Stars: 7 - Updated: 3/2022 - Checked: 5/2023
+    - "Dump a Solr index to file; Read from dumped file to Solr."
+- [solrdump](https://github.com/ubleipzig/solrdump) - Stars: 35 - Updated: 4/2023 - Checked: 5/2023
+    - "Export documents from a SOLR index as JSON"
 - [SolrCloud Manager](https://github.com/ekataglobal/solrcloud_manager) - Stars: 23 - Updated: 1/2022 - Checked: 5/2023
     - "Provides easy SolrCloud cluster management."
 - [solrcopy](https://github.com/juarezr/solrcopy) - Stars: 6 - Updated: 3/2022 - Checked: 5/2023
@@ -162,6 +175,7 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
     - "tools for reading data from Solr as a Spark DataFrame/RDD and indexing objects from Spark into Solr using SolrJ."
 - [solrscripts](https://github.com/tokee/solrscripts) - Stars: 10 - Updated: 4/2022 - Checked: 5/2023
     - Includes a tool for diffing schema configs and another for validating configs.
+- [Cominvent's Solr tools](https://github.com/cominvent/solr-tools) - Stars: 38 - Updated: 11/2022 - Checked: 5/2023
 - [SolrUtils](https://github.com/InterNations/SolrUtils) - Stars: 8 - Updated: 8/2022 - Checked: 5/2023
     - "helps with recurring tasks when working with Solr like escaping and sanitizing user input"
 - [Traject](https://github.com/traject/traject) - Stars: 98 - Updated: 4/2023 - Checked: 5/2023
@@ -188,10 +202,17 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [Nelmio](https://github.com/nelmio/NelmioSolariumBundle) - Stars: 152 - Updated: 4/2023 - Checked: 5/2023
 - [Samvera](https://github.com/samvera/hyrax) - Stars: 166 - Updated: 5/2023 - Checked: 5/2023
     - "provides a foundation for creating many different digital repository applications."
+- [netarchivesuite's SolrWayback](https://github.com/netarchivesuite/solrwayback) - Stars: 77 - Updated: 5/2023 - Checked: 5/2023
+    - "A search interface and wayback machine for the UKWA Solr based warc-indexer framework"
+- [OpenSextant's Xponents](https://github.com/OpenSextant/Xponents) - Stars: 42 - Updated: 5/2023 - Checked: 5/2023
 
 ## Learning Resources
+- [Solr for newbies workshop](https://github.com/hectorcorrea/solr-for-newbies) - Stars: 68 - Updated: 3/2023 - Checked: 5/2023.
 - [solr-tmbd](https://github.com/o19s/solr-tmdb) - Stars: 18 - Updated: 5/2023 - Checked: 5/2023
     - "part of the Think Like a Relevancy Engineer training provided by OpenSource Connections."
+- [OSC's pdf-discovery-demo](https://github.com/o19s/pdf-discovery-demo) - Stars: 25 - Updated: 4/2023 - Checked: 5/2023
+    - "leverages the Solr Payload Component...and the Offset Highlighter Component...as well as pdf.js to make PDF documents searchable and have highlighting of matches with the text in context of the PDF."
+- [Apache Lucene Solr Guide](https://github.com/mikeroyal/Apache-Lucene-Solr-Guide) - Stars: 7 - Updated: 10/2021 - Checked: 5/2023
 
 ## Discussion
 - [Official Solr Users Mailing List](https://lists.apache.org/list.html?users@solr.apache.org)
