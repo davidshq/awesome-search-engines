@@ -55,6 +55,7 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 ### Vector Search
 - [BERT Solr Search](https://github.com/DmitryKey/bert-solr-search) - Stars: 134 - Updated: 6/2022 - Checked: 3/2023 - Allows one to search with BERT vectors in Solr, also compatible with Elasticsearch/OpenSearch.
     - Has associated articles explaining the process that was used to build the solution.
+- [Vector Search for E-commerce with Chorus](https://opensourceconnections.com/blog/2023/03/22/building-vector-search-in-chorus-a-technical-deep-dive/) - a blog from OpenSource Connections showing how to add vector features to a Solr-powered e-commerce platform
 
 ## Learning Resources
 - [Solr for newbies workshop](https://github.com/hectorcorrea/solr-for-newbies) - Stars: 68 - Updated: 3/2023 - Checked: 5/2023.
@@ -63,6 +64,7 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [OSC's pdf-discovery-demo](https://github.com/o19s/pdf-discovery-demo) - Stars: 25 - Updated: 4/2023 - Checked: 5/2023
     - "leverages the Solr Payload Component...and the Offset Highlighter Component...as well as pdf.js to make PDF documents searchable and have highlighting of matches with the text in context of the PDF."
 - [Apache Lucene Solr Guide](https://github.com/mikeroyal/Apache-Lucene-Solr-Guide) - Stars: 7 - Updated: 10/2021 - Checked: 5/2023
+- [Videos featuring Solr from OSC](https://www.youtube.com/playlist?list=PLCoJWKqBHERuLJgmR0PhiXmS3TUYjWatW) - a playlist of videos of talks featuring Solr
 
 ## Discussion
 - [Official Solr Users Mailing List](https://lists.apache.org/list.html?users@solr.apache.org)
@@ -74,11 +76,13 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 - [SearchStax](https://www.searchstax.com/)
     - Limited free account
     - Pricing starts at $9/mo.
+- [WebSolr](https://www.websolr.com/)
+    - Standard from $59/mo with enterprise options
 
 ## Companies Working with Solr
 - [sematext](https://sematext.com/)
 - SeaseLtd
-- OpenSourceConnections
+- [OpenSource Connections](https://www.opensourceconnections.com)
 
 
 ## Bibliography / Resources
