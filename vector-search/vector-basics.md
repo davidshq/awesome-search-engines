@@ -5,6 +5,10 @@
     - A high-level overview of vector search with a slight emphasis on Pinecone's product. Touches on traditional search, vector embeddings, semantic similarity, etc.
 - Doug Turnbull. [Vector Search: The Hard Way](https://softwaredoug.com/blog/2023/09/05/vector-search-the-hard-way). 9/2023.
     - 75 slides on the challenges of Vector Search.
+- Dmitry Kan. [Keynote: Where Vector Search is taking us](https://haystackconf.com/eu2022/2022/09/27/keynote.html). Haystack Conference, 9/2022.
+    - Slide deck and video presentation on the state of Vector Search and it's future.
+- Ethan Steininger. [Vector Search](https://github.com/esteininger/vector-search). 6/2023.
+    - A GitHub repo with a collection of articles and links relating to Vector Search.
 
 # Vector Search Challenges
 - James Briggs. [The Missing WHERE Clause in Vector Search](https://www.pinecone.io/learn/vector-search-filtering/). Pinecone.
