@@ -43,6 +43,8 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 ### Plugins
 - [sematext's Solr Redis Extensions](https://github.com/sematext/solr-redis) - Stars: 51 - Updated: 5/2022 - Checked: 5/2023.
     - "a ParserPlugin that provides a Solr query parser based on data stored in Redis."
+- [solr-sandbox](https://github.com/apache/solr-sandbox) - Stars: 7 - Updated: 5/2023 - Checked: 5/2023
+    - "The solr sandbox repository serves as a place to host contributions that are not a part of core solr."
 
 ### Security
 - [solr-proxy](https://github.com/Trott/solr-proxy) - Stars: 7 - Updated: 5/2023 - Checked: 5/2023

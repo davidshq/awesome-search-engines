@@ -1,4 +1,6 @@
 # Discovery and/or UI
+
+## Blacklight
 - [Blacklight](https://projectblacklight.org/) - Stars: 731 - Updated: 4/2023 - Checked: 5/2023
     - A Ruby on Rails open source frontend for querying and discovery of results from Solr.
     - [Boston Public Library](https://github.com/boston-library/commonwealth-vlr-engine)
@@ -6,6 +8,8 @@
     - [Stanford University](https://github.com/sul-dlss/exhibits)
     - [Temple University](https://github.com/tulibraries/funcake-solr)
     - [warclight](https://github.com/archivesunleashed/warclight)
+
+## Everything Else
 - [AJAX Solr](https://github.com/evolvingweb/ajax-solr) - Stars: 654 - Updated: 10/2021 - Checked: 4/2023 - JS library for building UI's for Solr.
 - [SolrDora](https://github.com/hectorcorrea/solrdora) - Stars: 6 - Updated: 1/2023 - Checked: 5/2023*
     - Provides a UI for browsing a Solr collection.
@@ -20,3 +24,8 @@
 - [MOPSY Search](https://github.com/Der-Henning/mopsy-react) - Stars: 0 - Updated: 1/2022 - Checked: 5/2023
     - Hasn't been updated in a while, but has a live demo.
 - [solrkit](https://github.com/garysieling/solrkit) - Stars: 11 - Updated: 4/2018 - Checked: 5/2023
+
+## Learning
+- [Multi-Select Facet Example](https://github.com/stevenferrer/multi-select-facet) - Stars: 32 - Updated: 3/2023 - Checked: 5/2023
+    - "An example of multi-select facet using Solr, Vue and Go."
+- [Solr-JavaScript-Search-Client](https://github.com/BLE-LTER/Solr-JavaScript-Search-Client) - Stars: 7 - Updated: 11/2022 - Checked: 5/2023

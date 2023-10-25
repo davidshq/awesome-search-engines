@@ -5,6 +5,8 @@
     - "a JavaFX based desktop search application"
 - [Hydroshare](https://github.com/hydroshare/hydroshare) - Stars: 166 - Updated: 5/2023 - Checked: 5/2023
     - "collaborative website for better access to data and models in the hydrologic sciences."
+- [Islandora](https://www.islandora.ca/)
+    - "Open-source Digital Asset Management"
 - [MontySolr](https://github.com/adsabs/montysolr) - Stars: 50 - Updated: 12/2022 - Checked: 5/2023
     - "the search engine behind Astrophysics Data System (ADS 2.0)"
 - [National Information Exchange Model (NIEM) Movement](https://github.com/NIEM/movement-solr) - Stars: 3 - Updated: 2/2023 - Checked: 5/2023

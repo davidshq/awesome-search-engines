@@ -8,6 +8,7 @@
 - [Ibexa DXP Solr Integration](https://github.com/ibexa/solr) - Stars: 2 - Updated: 5/2023 - Checked: 5/2023
 - [Kafka Connect Solr](https://github.com/jcustenborder/kafka-connect-solr) - Stars: 37 - Updated: 9/2021 - Checked: 5/2023
 - [Solr Lando Plugin](https://github.com/lando/solr) - Stars: 0 - Updated: 5/2023 - Checked: 5/2023
+- [MusicBrainz Solr](https://github.com/metabrainz/mb-solr) - Stars: 3 - Updated: 1/2023 - Checked: 5/2023
 - [Omeka-S-module-SearchSolr](https://github.com/Daniel-KM/Omeka-S-module-SearchSolr) - Stars: 2 - Updated: 5/2023 - Checked: 5/2023
 - [collective.solr for Plone CMS](https://github.com/collective/collective.solr) - Stars: 19 - Updated: 5/2023 - Checked: 5/2023
 - [Solr Search for NodeBB](https://github.com/julianlam/nodebb-plugin-solr) - Stars: 22 - Updated: 1/2023 - Checked: 5/2023

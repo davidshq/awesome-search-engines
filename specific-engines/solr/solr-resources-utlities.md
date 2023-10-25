@@ -1,6 +1,8 @@
 # Solr Resources: Utilities
 - [Solr Ansible role](https://github.com/idealista/solr_role) - Stars: 23 - Updated: 1/2023 - Checked: 5/2023
 - [Apache Solr Container (Built with Ansible)](https://github.com/geerlingguy/solr-container) - Stars: 17 - Updated: 11/2022 - Checked: 5/2023
+- [NLA's blacklight-solrcloud-repository](https://github.com/nla/blacklight-solrcloud-repository) - Stars: 0 - Updated: 5/2023 - Checked: 5/2023
+    - "A Blacklight repository to connect with a collection on a ZooKeeper managed SolrCloud cluster."
 - [Solr Bulk Indexing](https://github.com/miku/solrbulk) - Stars: 39 - Updated: 4/2023 - Checked: 5/2023
     - For indexing "a bunch of documents really, really, fast"
 - [solr-cmd-utils](https://github.com/tblsoft/solr-cmd-utils) - Stars: 3 - Updated: 12/2022 - Checked: 5/2023

@@ -25,3 +25,6 @@
 
 ## UI
 - [Solrstrap](https://github.com/fergiemcdowall/solrstrap) - Stars: 86 - Updated: 4/2017 - Checked: 5/2023
+- [ngSolr](https://github.com/elmarquez/ngSolr) - Stars: 7 - Updated: 4/2016 - Checked: 5/2023
+- [HN-Search](https://github.com/agustingrigoriu/HN-Search) - Stars: 0 - Updated: 12/2019 - Checked: 5/2023
+- [Banana](https://github.com/lucidworks/banana/tree/release) - Stars: 672 - Updated: 6/2020 - Checked: 5/2023
