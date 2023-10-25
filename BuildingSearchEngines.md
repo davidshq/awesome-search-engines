@@ -10,6 +10,7 @@
 - Tutorials
 - [Books on Search and Information Retrieval](/research/books-research.md)
 - [Research on Search and Information Retrieval](/research/research-main.md)
+- [Vector Search](/vector-search/vector-basics.md)
 
 
 ## General Resources
