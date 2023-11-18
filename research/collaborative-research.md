@@ -68,7 +68,8 @@
 
 ## 2009
 - Saleema Amershi, Meredith Ringel Morris. [Co-located collaborative web search: understanding status quo practices](https://dl.acm.org/doi/10.1145/1520340.1520547). 4/2009.
-- Sharoda A. Paul, Meredith Ringel Morris. [CoSense: enhancing sensemaking for collaborative web search](https://dl.acm.org/doi/10.1145/1518701.1518974). 4/2009.*
+- Sharoda A. Paul, Meredith Ringel Morris. [CoSense: enhancing sensemaking for collaborative web search](https://dl.acm.org/doi/10.1145/1518701.1518974). 4/2009.
+    - See annotations.
 - Kay-Uwe Schmidt, Tobias Sarnow, Ljiljana Stojanovic. [Socially filtered web search: an approach using social bookmarking tags to personalize web search](https://www.researchgate.net/publication/221000832_Socially_filtered_web_search_an_approach_using_social_bookmarking_tags_to_personalize_web_search). 3/2009.
     - [ResearchGate](https://www.researchgate.net/publication/221513715_CoSense_Enhancing_sensemaking_for_collaborative_web_search)
 - Y. Yanbe, Adam Jatowt, S. Nakamura, Katsumki Tanaka. [Social bookmarking and web search](https://www.researchgate.net/publication/290332695_Social_bookmarking_and_Web_search). 1/2009.
@@ -80,6 +81,7 @@
 - Meredith Ringel Morris, Jaime Teevan, Steve Bush. [Enhancing collaborative web search with personalization: groupization, smart splitting, and group hit-highlighting](https://dl.acm.org/doi/10.1145/1460563.1460640). 11/2008.*
 - Hideo Joho, David Hannah, Joemon M. Jose. [Comparing collaborative and independent search in a recall-oriented task](https://dl.acm.org/doi/10.1145/1414694.1414715). 10/2008.
 - Jeremy Pickens, Gene Golovchinsky, Chirag Shah, Pernilla Qvarfordt, Maribeth Back. [Algorithmic mediation for collaborative exploratory search](https://dl.acm.org/doi/10.1145/1390334.1390389). 7/2008.*
+    - "Using our system, two or more users with a common information need search together, simultaneously. The collaborative system provides tools, userinterfaces and, most importantly, algorithmically-mediatedretrieval to focus, enhance and augment the team’s searchand communication activities." - 1.
 - Michal Tvarožek, Mária Bieliková. [Collaborative multi-paradigm exploratory search](https://dl.acm.org/doi/10.1145/1379157.1379165). 6/2008.
 - Saleema Amershi, Meredith Ringel Morris. [CoSearch: a system for co-located collaborative web search](https://dl.acm.org/doi/10.1145/1357054.1357311). 4/2008.*
 - Peter Briggs. [User Modelling in Collaborative Web Search](https://www.researchgate.net/publication/335566328_User_Modelling_in_Collaborative_Web_Search). 4/2008.
@@ -87,3 +89,4 @@
 
 ## 2007
 - Athanasios Papagelis, Christos Zaroliagis. [Searchius: A Collaborative Search Engine](https://www.researchgate.net/publication/4282197_Searchius_A_Collaborative_Search_Engine). 10/2007.
+    - See annotations.
