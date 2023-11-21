@@ -5,6 +5,7 @@
 - Gang Chen, Jiawei Chen, Fuli Feng, Sheng Zhou, Xiangnan He. [Unbiased Knowledge Distillation for Recommendation](https://dl.acm.org/doi/10.1145/3539597.3570477). 2/2023.
 - Xiaoying Zhang, Hongning Wang, Hang Li. [Disentangled Representation for Diversified Recommendations](https://dl.acm.org/doi/10.1145/3539597.3570389). 2/2023.
 - Sophie Scharf, Monika Wiegelmann, Arnt Bröder. [Information search in everyday decisions: The generalizability of the attraction search effect](https://www.researchgate.net/publication/366827841_Information_search_in_everyday_decisions_The_generalizability_of_the_attraction_search_effect). 1/2023.
+- Zheng Hu, Satoshi Nakagawa, Liang Luo, Yu Gu, Fuji Ren. [Celebrity-aware Graph Contrastive Learning Framework for Social Recommendation](https://dl.acm.org/doi/10.1145/3583780.3614806). CIKM '23. 10/2023.*
 
 ## 2022
 - Amifa Raj. [Fair Ranking Metrics](https://dl.acm.org/doi/10.1145/3523227.3547430). 9/2022.
