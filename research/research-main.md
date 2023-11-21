@@ -67,3 +67,4 @@
 - Mike Cafarella, Doug Cutting. [Building Nutch: Open Source Search: A case study in writing an open source search engine](https://dl.acm.org/doi/10.1145/988392.988408). 4/2004.*
 - Anna Patterson. [Why Writing Your Own Search Engine Is Hard: Big or small, proprietary or open source, Web or intranet, it's a tough job](https://dl.acm.org/doi/10.1145/988392.988407). 4/2004.*
 - Amanda Spink. [Web Search: Emerging Patterns](https://www.researchgate.net/publication/32962078_Web_Search_Emerging_Patterns). 9/2003.
+- Upendra Shardanand, Pattie Maes. [Social Information Filtering: Algorithms for Automating "Word of Mouth"](https://dl.acm.org/doi/10.1145/223904.223931). CHI '95. 5/1995.
