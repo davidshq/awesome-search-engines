@@ -2,6 +2,15 @@
 - [elastiknn](https://github.com/alexklibisz/elastiknn) - Stars: 324 - Updated: 5/2023 - Checked: 5/2023
     - Nearest Neighbor plugin.
 - [elasticsearch-sql](https://github.com/iamazy/elasticsearch-sql) - Stars: 321 - Updated: 11/2022 - Checked: 5/2023
+- [elasticsearch-carrot2](https://github.com/carrot2/elasticsearch-carrot2) - Stars: 289 - Updated: 1/2023 - Checked: 11/2023
+    - On-the-fly clustering capabilities.
+- [search-extra](https://github.com/wikimedia/search-extra) - Stars: 48 - Updated: 11/2023 - Checked: 11/2023
+    - A number of queries, filters, etc. from MediaWiki.
+- [search-highlighter](https://github.com/wikimedia/search-highlighter)
+ - Stars: 96 - Updated: 11/2022 - Checked: 11/2023
+    - MediaWiki highlighter mean for easy experimentation with weights and groupings for hits.
+- [zentity](https://github.com/zentity-io/zentity) - Stars: 142 - Updated: 2/2022 - Checked: 11/2023
+    - A simple, fast, generic, transitive, multi-source, accommodating, logical entity resolution plugin.
 
 # Deployment
 - [elasticsearch-cloud-deploy](https://github.com/BigDataBoutique/elasticsearch-cloud-deploy) - Stars: 329 - Updated: 11/2022 - Checked: 5/2023
