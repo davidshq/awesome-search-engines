@@ -1,0 +1,24 @@
+- Back-pressure
+- Cluster
+- Documents
+- Fields
+- Graph
+- Indexes
+- Indexing
+- Information Retrieval (IR)
+- k-NN
+- Knowledge Graph (KG)
+- Lucene
+- Mapping
+- [Named Entity Recognition (NER)](https://en.wikipedia.org/wiki/Named-entity_recognition) - "(also known as (named) entity identification, entity chunking, and entity extraction) is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc."
+- Natural Language Processing (NLP)
+- Neural Networks
+- Nodes
+- Pretrained Language Models (PLM)
+- Primary Shared
+- Replica Shard
+- Semantics
+- [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search) - "Semantic search denotes search with meaning, as distinguished from lexical search where the search engine looks for literal matches of the query words or variants of them, without understanding the overall meaning of the query."
+- [Semantic Triple](https://en.wikipedia.org/wiki/Semantic_triple)
+- [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web)
+- Shards
