@@ -33,3 +33,16 @@
 
 # Resources
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - Stars: 4.7k - Updated: 9/2022 - Checked: 10/2023
+
+# Terminology
+- Data Streams
+- Index Aliases
+- Index Rollups
+- Index State Management
+- Index Templates
+- Index Transforms
+- Ingest Pipeline
+- Ingest Processors
+- Processors
+- Search Analyzer
+- Tasks

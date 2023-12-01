@@ -139,6 +139,7 @@ compatibility.override_main_response_version: true
 - k-NN - `opensearch-knn`
 - ML Commons - `opensearch-ml`
 - Neural Search - `neural-search`
+    - [Neural Search GitHub Repo](https://github.com/opensearch-project/neural-search)
 - Observability - `opensearch-observability`
     - Notebooks (`opensearch-notebooks`) has been merged into Observability.
 - Performance Analyzer - `opensearch-performance-analyzer`
@@ -169,6 +170,10 @@ compatibility.override_main_response_version: true
 - `repository-s3`
 - `store-smb`
 - `transport-nio`
+
+## Data Prepper
+- "Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale."
+- [GitHub Repo](https://github.com/opensearch-project/data-prepper)
 
 ## Bibliography
 - https://opensearch.org/docs/latest/about/
