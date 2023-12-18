@@ -36,7 +36,9 @@
 - Sandeep Avula, Gordon Chadwick, Jaime Arguello, Robert Capra. [SearchBots: User Engagement with ChatBots during Collaborative Search](https://dl.acm.org/doi/abs/10.1145/3176349.3176380). CHIIR '18. 3/2018.
     - Google Citations: 87, ACM Citations: 37, ACM Downoads: 1,439 (12/2023)
 - Sindunuraga R Putra, Felipe Moraes, Claudia Hauff. [SearchX: Empowering Collaborative Search Research](https://www.researchgate.net/publication/326133498_SearchX_Empowering_Collaborative_Search_Research). SIGIR '18. 6/2018.*
-    - ACM Annotations: 11, ACM Downloads: 250 (12/2023)
+    - ACM Citations: 11, ACM Downloads: 250 (12/2023)
+- Chirag Shah. [Information Fostering - Being Proactive with Information Seeking and Retrieval: Perspective Paper](https://dl.acm.org/doi/10.1145/3176349.3176389). CHIIR '18. 3/2018.*
+    - ACM Citations: 11, ACM Downloads: 397 (12/2023)
 
 ## 2017
 - Carlos Francisco Pérez-Crespo, Maria Martha Pérez-Crespo, Rosanna Costaguta. [June: an agent-based metasearch engine for collaborative student groups](https://dl.acm.org/doi/10.1145/3123818.3123846). Interacción '17. 9/2017.
@@ -95,6 +97,9 @@ Martynas Buivys, Leif Azzopardi. [Pineapple search: an integrated search interfa
     - ACM Citations: 5, ACM Downloads: 206 (12/2023)
     - "In this paper, we propose using search tactics as means of examining search processes in collaborative exploratory search, which can be seen as a middle layer between the macro-level and micro-level. We reported a user study in which participants worked on exploratory Web search tasks using our CollabSearch system under two conditions: collaborative and individual."
     - DM: Note they are using their own system 'CollabSearch'.
+- Owen Phelan, Kevin McCarthy, Barry Smyth. [Yokie: explorations in curated real-time search & discovery using twitter](https://dl.acm.org/doi/10.1145/2365952.2366026). RecSys '12. 9/2012.
+    - ACM Citations: 4, ACM Downloads: 240 (12/2023)
+    - "Yokie uses the large volume of hyperlink-laden messages on social networks like Twitter as the basis of its content and ranking systems. Curated sets of users (or "Search Parties") form the basis of sourcing the content from the networks, and the metadata of the containing messages form the basis of ranking and contextual retrieval of the hyperlinks."
 
 ## 2011
 - Kai Zheng, Qiaozhu Mei, David A Hanauer. [Collaborative search in electronic health records](https://academic.oup.com/jamia/article/18/3/282/699190). Journal of the American Medical Informatics Association, Vol. 18, Issue 3. 3/20211.
@@ -111,6 +116,9 @@ Martynas Buivys, Leif Azzopardi. [Pineapple search: an integrated search interfa
     - ACM Citations: 5, ACM Downloads: 376 (12/2023)
 - Oisı´n Boydell, Barry Smyth. [Social summarization in collaborative web search](https://www.researchgate.net/publication/221948235_Social_summarization_in_collaborative_web_search). 11/2011.
 - Sharoda A. Paul, Meredith Ringel Morris. [Sensemaking in Collaborative Web Search](https://www.researchgate.net/publication/228655513_Sensemaking_in_Collaborative_Web_Search). Human-Computer Interaction, Vol. 26, Issue 1-2. 1/2011.*
+- Bastian Karweg, Christian Huetter, Klemens Böhm. [Evolving social search based on bookmarks and status messages from social networks](https://dl.acm.org/doi/10.1145/2063576.2063839). CIKM '11. 10/2011.
+    - ACM Citations: 9, ACM Downloads: 673 (12/2023)
+    - "Our ranking metric Social Relevance Score (SRS) is based on two factors. First, the engagement intensity quantifies the effort a user has made during an interaction. Second, users can assign a trust score to each person from their social network, which is then refined using social network analysis."
 
 ## 2010
 - Jingyu Sun, Xueli Yu, Ning Zhong. [Collaborative Web Search Utilizing Experts' Experiences](https://www.researchgate.net/publication/221158019_Collaborative_Web_Search_Utilizing_Experts%27_Experiences). 8/2010.
@@ -122,6 +130,7 @@ Martynas Buivys, Leif Azzopardi. [Pineapple search: an integrated search interfa
 - Robert Capra, Gary Marchionini, Javier Velasco-Martin. [Tools-at-hand and learning in multi-session, collaborative search](https://dl.acm.org/doi/10.1145/1718918.1718988). CHI '10.' 4/2010.
     - Google Citations: 88, ACM Citations: 50, ACM Downloads: 898 (12/2023)
     - "In this paper, we present results from a study in which we interviewed 30 people in three cohorts (academic researchers, corporate workers, and people looking for medical information) about their current practices conducting, managing, and sharing information from on-going, exploratory searches."
+
 ## 2009
 - Saleema Amershi, Meredith Ringel Morris. [Co-located collaborative web search: understanding status quo practices](https://dl.acm.org/doi/10.1145/1520340.1520547). CHI EA '09. 4/2009.
     - ACM Citations: 17, ACM Downloads: 401 (12/2023)
@@ -153,6 +162,9 @@ Martynas Buivys, Leif Azzopardi. [Pineapple search: an integrated search interfa
     - "We present the findings of interviews with teachers, librarians, and developing world researchers that provide details about users' collaborative search habits in shared-computer settings, revealing several limitations of this practice. We then introduce CoSearch, a system we developed to improve the experience of co-located collaborative Web search by leveraging readily available devices such as mobile phones and extra mice."
 - Peter Briggs. [User Modelling in Collaborative Web Search](https://www.researchgate.net/publication/335566328_User_Modelling_in_Collaborative_Web_Search). 4/2008.
 - Paul Heymann, Georgia Koutrika, Hector Garcia-Molina. [Can social bookmarking improve web search?](https://dl.acm.org/doi/10.1145/1341531.1341558). 2/2008.*
+- Brynn M. Evans, Ed H. Chi. [Towards a model of understanding social search](https://dl.acm.org/doi/10.1145/1460563.1460641). CSCW '08. 11/2008.
+    - ACM Citations: 96, ACM Downloads: 1,986 (12/2023)
+    - "Our main contribution is that we have integrated models from previous work in sensemaking and information seeking behavior to present a canonical social model of user activities before, during, and after search, suggesting where in the search process both explicitly and implicitly shared information may be valuable to individual searchers."
 
 ## 2007
 - Meredith Ringel Morris. [A survey of collabroative web search practices](https://dl.acm.org/doi/abs/10.1145/1357054.1357312). CHI '08. 4/2008.
