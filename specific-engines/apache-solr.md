@@ -83,7 +83,7 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 
 ## Companies Working with Solr
 - [sematext](https://sematext.com/)
-- SeaseLtd
+- [SeaseLtd](https://sease.io/)
 - [OpenSource Connections](https://www.opensourceconnections.com)
 
 
