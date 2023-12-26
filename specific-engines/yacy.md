@@ -1,5 +1,5 @@
 # YaCy
-- https://yacy.net/
+- Official Site: https://yacy.net/
 - [GitHub Repo](https://github.com/yacy/yacy_search_server)
 - [Forums](https://community.searchlab.eu/)
 - [Subreddit](https://www.reddit.com/r/YaCy/)

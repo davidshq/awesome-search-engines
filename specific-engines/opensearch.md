@@ -175,6 +175,9 @@ compatibility.override_main_response_version: true
 - "Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale."
 - [GitHub Repo](https://github.com/opensearch-project/data-prepper)
 
+## Companies Working with OpenSearch
+- [Sematext](https://sematext.com/)
+
 ## Bibliography
 - https://opensearch.org/docs/latest/about/
 - https://opensearch.org/docs/latest/quickstart/

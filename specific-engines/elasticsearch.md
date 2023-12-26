@@ -34,6 +34,9 @@
 # Resources
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - Stars: 4.7k - Updated: 9/2022 - Checked: 10/2023
 
+# Companies Working with Elasticsearch
+- [Sematext](https://sematext.com/)
+
 # Terminology
 - Data Streams
 - Index Aliases
