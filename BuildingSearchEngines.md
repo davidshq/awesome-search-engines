@@ -26,6 +26,10 @@ A number of the sites list below are commercial search providers, while there ma
 - [Algolia](https://algolia.com/) - A popular SaaS search engine.
 - [Bonsai](https://bonsai.io/) - Managed Elasticsearch, OpenSearch, and SolrCloud platform.
 
+## Community
+- [Relevance & Matching Tech](https://www.opensourceconnections.com/slack) - A long-lived and popular Slack communtiy for the IR/search community run by [OpenSource Connections](https://www.opensourceconnections.com/).
+- [IR-RELEVANT](https://ir-relevant.net/) - A new (2023) community forum for those interested in Information Retrieval. Created and run by [Sease](https://sease.io/), a well-known information retrieval and search provider. 
+
 ## Tutorials
 
 ### For Beginners
