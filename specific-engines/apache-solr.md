@@ -12,6 +12,8 @@
 - Discussion
 - Solr as a Service Options
 - Consulting Companies Working with Solr
+- Blogs
+- Demos
 - [Interesting But Old](./solr/solr-resources-interesting-old.md)
 - Bibliography/Resources
 
@@ -83,8 +85,20 @@ These are largely pulled from Solr's documentation, consider them cliff notes / 
 
 ## Companies Working with Solr
 - [sematext](https://sematext.com/)
+    - [Training on Solr](https://sematext.com/training/solr/)
+    - [Monitoring of Solr](https://sematext.com/docs/integration/solr/), [SolrCloud](https://sematext.com/docs/integration/solrcloud/), and [Solr Logs](https://sematext.com/docs/integration/solr-logs/).
 - [SeaseLtd](https://sease.io/)
 - [OpenSource Connections](https://www.opensourceconnections.com)
+
+## Blogs
+- [Joel Bernstein's Solr Analytics Blog](https://joelsolr.blogspot.com/)
+
+## Demos
+- [Apache Solr Manual Search Demo - Multi-Language Model](https://demo.rondhuit.com/en/solr-manual)
+    - [Slide Deck on setting up the demo](https://www.rondhuit.com/download/RONDHUIT-solrmanual-1.0.0.pdf)
+    - [YouTube Video on setting up the demo](https://www.youtube.com/watch?v=rh3fP9qQAhw)
+    - [KandaSearch blog post on setting up the demo](https://kandasearch.com/blogs/9c7ec12f-c09b-4ddd-b5eb-aafc3bb8b1a6)
+
 
 
 ## Bibliography / Resources
