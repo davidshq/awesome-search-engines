@@ -49,7 +49,7 @@
 - Under the hood one is running Apache Solr, but there are some significant changes that make listing Open Semantic Search separately worthwile.[^opensemanticsearch]
 
 ### Subprojects
-- [Solr PHP UI](https://opensemanticsearch.org/solr-php-ui/) - Stars: 20 - Updated: 12/2021 - Checked: 5/2023
+- [Solr PHP UI](https://opensemanticsearch.org/solr-php-ui/) - Stars: 20 - Updated: 12/2021 - Checked: 2/2024
     - A frontend for Open Semantic Search.
     - [GitHub Repo](https://github.com/opensemanticsearch/solr-php-ui)
 - [Solr Ontology Tagger](https://github.com/opensemanticsearch/solr-ontology-tagger) - Stars: 39 - Updated: 1/2022 - Checked: 5/2023
@@ -57,7 +57,7 @@
 
 ## Elasticsearch
 - https://elastic.co/
-- Used by Wikipedia
+- See also the [dedicated pages on Elasticsearch](/specific-engines//elasticsearch.md).
 
 ### Other Projects
 - [dejavu](https://github.com/appbaseio/dejavu) - Open source, JS web-based UI for Elasticsearch and OpenSearch.
@@ -67,6 +67,7 @@
 ## OpenSearch
 - https://opensearch.org/
 - An open source fork of Elasticsearch started by Amazon.[^controversy]
+- See also the [dedicated pages on OpenSearch](/specific-engines/opensearch.md)
 
 ### Other Projects
 - Please see Other Projects under Elasticsearch. Only projects that are for OpenSearch exclusively will be listed here.

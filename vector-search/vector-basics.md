@@ -18,3 +18,7 @@
 # Vector Embeddings
 - Roie Schwaber-Cohen. [Vector Embeddings for Developers: The Basics](https://www.pinecone.io/learn/vector-embeddings-for-developers/). Pinecone.
     - Solid article for beginners looking for high-level overview. Touches on vectors, vector embeddings, embedding models, word2vec, and semantic similarity.
+
+# Neo4j Vector Search
+- [Documentation: Vector Search Indexes](https://neo4j.com/docs/cypher-manual/current/indexes/semantic-indexes/vector-indexes/)
+    - Utilizes Apache Lucene, which uses HSNW Graph and k-ANN for querying.
