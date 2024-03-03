@@ -17,6 +17,7 @@
     - Available for free from [Stanford](https://nlp.stanford.edu/IR-book/information-retrieval-book.html).
 - Stefan Buttcher, Charles L. A. Clarke, Gordon V. Cormack. *Information Retrieval: Implementing and Evaluating Search Engines*. The MIT Press, 2/2016. 632 pp.
     - Significant portions of the 2010 edition of this book are [available for free from the official site](https://plg.uwaterloo.ca/~ir/ir/book/). There are 16 chapters in that edition with 7 available for free.
+    - It appears that the 2016 edition is a reprint of the 2010 edition verbatim.
 - Ricardo Baeza-Yates, Berthier Ribeiro-Neto. *Modern Information Retrieval: The Concepts and Technology Behind Search*, 2nd edition. Addison-Wesley Professional, 2/2011. 913 pp.
     - Chapters 1-2, 11, and 15 are available here: https://www.baeza.cl/mir2ed/contents.php.html.
 
@@ -45,6 +46,7 @@
 
 #### Elasticsearch
 - Note: Some of these volumes address to more or less extent the Elastic / ELK Stack, this is about IR but more on a monitoring, logging side than web search.
+- Madhusudhan Konda. Elasticsearch in Action, 2nd edition. Manning Publications, 10/2023. 592 pp.
 - Alberto Paro. Elasticsearch 8.x Cookbook, 5th edition. Packt Publishing, 5/2022. 750 pp.
 - Asjad Athick, Shay Banon. Getting Started with Elastic Stack 8.0. Packt Publishing, 3/2022. 474 pp.
 - Wai Tak Wong. Advanced Elasticsearch 7.0. Packt Publishing, 8/2019. 560 pp.
@@ -67,19 +69,33 @@
 
 ### Collaborative
 - Chirag Shah. Social Information Seeking: Leveraging the Wisdom of the Crowd. Springer, 7/2017. 204 pp.
-- Chirag Shah. Collaborative Information Seeking: The Art and Science of Making the Whole Greater Than the Sum of All. Springer, 8/2014. 206 pp.
+- Chirag Shah. Collaborative Information Seeking: The Art and Science of Making the Whole Greater Than the Sum of All. Springer, 8/2014. 206 pp. (Vol. 34)
 - Satnam Alag. Collective Intelligence in Action. Manning Publications, 9/2008. 425 pp.
+
+### Springer The Information Retrieval Series
+- Jiqun Liu. A Behavioral Economics Approach to Interactive Information Retrieval. Springer, 2/2023. 400 pp. (Vol. 48)
+- Yi Chang, Hongbo Deng (editors). Query Understanding for Search Engines. Springer, 12/2021. 236 pp. (Vol. 46)
+- Jianfeng Gao, Chenyan Xiong, Paul Bennett, Nick Craswell. Neural Approaches to Conversational Information Retrieval. Springer, 3/2023. 405 pp. (Vol. 44)
+- Tetsuya Sakai, Douglas W. Oard, Noriko Kando. Evaluating Information Retrieval and Access Tasks. Springer, 9/2020. (Vol. 43)
+- Deepak P., et al. Data Science for Fake News. Springer, 4/2021. (Vol. 42)
+- Nicola Ferro, Carol Peters. Information Retrieval Evaluation in a Changing World: Lessons Learned from 20 Years of CLEF. Springer, 8/2019. (Vol. 41)
+- Tetsuya Sakai. Laboratory Experiments in Information Retrieval. Springer, 9/2018. (Vol. 40)
+- Krisztian Balog. Entity-Oriented Search. Springer, 10/2018. 370 pp. (Vol. 39)
+    - Available for free for Amazon Kindle as well as at https://eos-book.org/.
+- Chirag Shah. Social Information Seeking. Springer, 7/2017. (Vol. 38)
+- Peter Knees, Markus Schedl. Music Similarity and Retrieval. Springer, 5/2016. 319 pp. (Vol. 36)
+- Massimo Melucci. Introduction to Information Retrieval and Quantum Mechanics. Springer, 12/2015. 250 pp. (Vol. 35)
+- Chirag Shah. Collaborative Information Seeking. Springer, 7/2012. (Vol. 34)
+- Donald Metzler. A Feature-Centric View of Information Retrieval. Springer, 9/2011. 334 pp. (Vol. 27)
+- Gionvanni Maria Sacco, Yannis Tzitzikas. Dynamic Taxonomies and Faceted Search: Theory, Practice, and Experience. Spring, 8/2009. 357 pp. (Vol. 25)
 
 ### Uncategorized
 - Anuradha D. Thakare, Shilpa Laddha, Ambika Pawar. Hybrid Intelligent Systems for Information Retrieval. Chapman Hall/CRC, 11/2022. 252 pp.
 - Jiawei Han, Jian Pei, Hanghang Tong. Data Mining: Concepts and Techniques, 4th edition. Morgan Kaufmann, 7/2022. 752 pp.
-- Yi Chang, Hongbo Deng (editors). Query Understanding for Search Engines. Springer, 12/2021. 236 pp.
 - Nicole Tonellotto, Craig Macdonald, Iadh Ounis. Efficient Query Processing for Scalable Web Search. 6/2019. 132 pp.
     - Available for free from https://tonellotto.github.io/publication/fntir/fntir_main.pdf
 - Jutta Haider, Olof Sundin. Invisible Search and Online Search Engines. Routledge: Taylor & Francis Group, 2019. 151 pp.
     - Available for free from https://library.oapen.org/bitstream/handle/20.500.12657/51256/9780429828027.pdf
-- Krisztian Balog. Entity-Oriented Search. Springer, 10/2018. 370 pp.
-    - Available for free for Amazon Kindle as well as at https://eos-book.org/.
 - ChengXiang Zhai and Sean Massung. Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining. ACM Books, 6/2016. 532 pp.
 - Bo Long, Yi Chang. Relevance Ranking for Vertical Search Engines. Morgan Kaufmann, 1/2014. 264 pp.
 - Gerald Kowalski. Information Retrieval Systems: Theory and Implementation. Springer, 3/2013. 300 pp.
