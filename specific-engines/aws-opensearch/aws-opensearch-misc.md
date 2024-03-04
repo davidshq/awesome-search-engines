@@ -1,0 +1,1 @@
+- Count API - Get the count of documents without getting the actual documents.
