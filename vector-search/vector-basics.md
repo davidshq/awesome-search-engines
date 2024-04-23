@@ -9,6 +9,8 @@
     - Slide deck and video presentation on the state of Vector Search and it's future.
 - Ethan Steininger. [Vector Search](https://github.com/esteininger/vector-search). 6/2023.
     - A GitHub repo with a collection of articles and links relating to Vector Search.
+- Panda Smith. [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/). Elicit, 12/2023.
+    - Guidance on using a solid search engine as the foundation for vector search.
 
 # Vector Search Challenges
 - James Briggs. [The Missing WHERE Clause in Vector Search](https://www.pinecone.io/learn/vector-search-filtering/). Pinecone.
@@ -22,3 +24,12 @@
 # Neo4j Vector Search
 - [Documentation: Vector Search Indexes](https://neo4j.com/docs/cypher-manual/current/indexes/semantic-indexes/vector-indexes/)
     - Utilizes Apache Lucene, which uses HSNW Graph and k-ANN for querying.
+
+# Vector Companies / Databases
+- [Vector DB Comparison](https://superlinked.com/vector-db-comparison/)
+- [Milvus](https://milvus.io/)
+- [pgvector](https://github.com/pgvector/pgvector)
+- [Pinecone](https://www.pinecone.io/)
+- [Qdrant](https://qdrant.tech/)
+- [Vespa](https://vespa.ai/)
+- [Weaviate](https://weaviate.io/)

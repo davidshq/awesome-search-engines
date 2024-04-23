@@ -1,0 +1,11 @@
+Wikimedia Foundation The Anatomy of Search Blog Series (Trey Jones)
+- [A Token of My Affection](https://wikimediafoundation.org/news/2018/08/07/anatomy-search-token-affection/). 8/2018.
+    - On tokenization.
+- [Variation Under Nature](https://wikimediafoundation.org/news/2018/09/13/anatomy-search-variation-under-nature/). 9/2018.
+    - On normalization.
+- [The Root of the Problem](https://wikimediafoundation.org/news/2018/11/28/anatomy-search-the-root-of-the-problem/). 11/2018/
+    - On stemming.
+- [A Place for My Stuff](https://wikimediafoundation.org/news/2019/03/12/the-anatomy-of-search-a-place-for-my-stuff/). 3/2019.
+    - On the inverted index.
+- [In Search Of...](https://wikimediafoundation.org/news/2019/09/05/the-anatomy-of-search-in-search-of/). 9/2019.
+    - On querying/searching.

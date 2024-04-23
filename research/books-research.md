@@ -89,6 +89,11 @@
 - Donald Metzler. A Feature-Centric View of Information Retrieval. Springer, 9/2011. 334 pp. (Vol. 27)
 - Gionvanni Maria Sacco, Yannis Tzitzikas. Dynamic Taxonomies and Faceted Search: Theory, Practice, and Experience. Spring, 8/2009. 357 pp. (Vol. 25)
 
+### Other Springer
+- Aidan Hogan. The Web of Data. Springer, 2020. 697 pp.*
+- C. Maria Keet. The What and How of Modelling Information and Knowledge: Mind Maps to Ontologies. Springer, 2023. 192 pp.
+- Juanzi Li, Guillin Qi, Dongyan Zhao, Wolfgang Nejdl, Hai-Tao Zheng, eds. Semantic Web and Web Science. Springer, 2013. 413 pp.
+
 ### Uncategorized
 - Anuradha D. Thakare, Shilpa Laddha, Ambika Pawar. Hybrid Intelligent Systems for Information Retrieval. Chapman Hall/CRC, 11/2022. 252 pp.
 - Jiawei Han, Jian Pei, Hanghang Tong. Data Mining: Concepts and Techniques, 4th edition. Morgan Kaufmann, 7/2022. 752 pp.
@@ -106,6 +111,10 @@
 - Marcia J. Bates. Understanding Information Retrieval Systems: Management, Types, and Standards. Auerbach Publications, 12/2011. 752 pp.
 - Tie-Yan Liu. Learning to Rank for Information Retrieval. Springer, 4/2011. 302 pp.
 - Peter Morville, Jeffery Callender. Search Patterns: Design for Discovery. O'Reilly, 2/2010. 192 pp.
+- Maria Stone. Understanding and Evaluating Search Experience. Morgan & Claypool Publishers, 2020.
+- Irina Shamaeva, David Michael Galley. Custom Search - Discover more: A Complete Guide to Google Programmable Search. CRC Press, 2021. 184 pp.
+Grace Hui Yang, Marc Sloan, Jun Wang. Dynamic Information Retrieval Modeling. Springer, 2016. 146 pp.
+Wei Ding, Xia Lin. Information Architecture: The Design and Integration of Information Spaces. Springer, 2009. 149 pp.
 
 ### Older
 - Michael W. Berry, Murray Browne. Understanding Search Engines: Modeling and Text Retrieval, 2nd edition. Society for Industrial and Applied Mathematics, 5/2005. 184 pp.
