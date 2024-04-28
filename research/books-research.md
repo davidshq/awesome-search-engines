@@ -1,4 +1,4 @@
-- NOTE: There are currently 36 books in Springer's the Inforamtion Retrieval Series, not all are listed below.
+- NOTE: There are currently 36 books in Springer's the Information Retrieval Series, not all are listed below.
 - NOTE: If you are interested in volumes published by Pearson, Manning, Apress, Packt, O'Reilly, Chapman Hall/CRC, Morgan Kaufmann, or Addison-Wesley, you may want to consider a subscription to [O'Reilly Learning](https://oreilly.com/learning) which includes access to a number of volumes from these publishers (check if your specific volumes are included).
 
 ### General Audience
@@ -66,6 +66,7 @@
 
 ### Information Architecture
 - Louis Rosenfeld, Peter Morville, Jorge Arango. Information Architecture: For the Web and Beyond, 4th edition. O'Reilly, 9/2015. 483 pp.
+- Gerald Kowalski. Information Retrieval Architecture and Algorithms. Spring, 2011.
 
 ### Collaborative
 - Chirag Shah. Social Information Seeking: Leveraging the Wisdom of the Crowd. Springer, 7/2017. 204 pp.

@@ -1,0 +1,9 @@
+- Manlio Del Guidice, Veronica Scuotto, Armando Papa. Knowledge Management and AI in Society 5.0. Routledge, 3/2023. 91 pp.
+- Donald Hislop, Rachelle Bosua, Remko Helms. Knowledge Management in Organizations: A Critical Introduction, 4th edition. Oxford University Press, 4/2018.* 
+- Kimiz Dalkir. Knowledge Management in Theory and Practice. Routledge, 9/2013. 
+- Jennifer A. Bartlett. Knowledge Management: A Practical Guide for Librarians. Rowman & Littlefield Publishers, 5/2021. 151 pp.*
+- Irma Becerra-Fernandez, Rajiv Sabherwal, Richard Kumi. Knowledge Management: Systems and Processes in the AI Era. Routledge, 2/2024. 388 pp.*
+- Klaus North, Gita Kumta. Knowledge Management: Value Creation Through Organizational Learning. Springer, 4/2018. 642 pp.
+- Olivier Serrat. Knowledge Solutions: Tools, Methods, and Approaches to Drive Organizational Performance. Springer, 5/2017. 1503 pp.
+    - Available under CC license.
+- Patrick Lambe. Organising Knowledge: Taxonomies, Knowledge and Organisational Effectiveness. Chandos Publishing, 3/2007. 300 pp.

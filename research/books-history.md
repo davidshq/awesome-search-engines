@@ -1,0 +1,1 @@
+- Simon Winchester. Knowing What We Know: The Transmission of Knowledge: From Ancient Wisdom to Modern Magic. Harper, 4/2023. 431 pp.*

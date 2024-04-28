@@ -34,6 +34,11 @@
 # Resources
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - Stars: 4.7k - Updated: 9/2022 - Checked: 10/2023
 
+## Books
+- Anurag Srivastava. Elasticsearch 8 for Developers: A beginner's guide to indexing, analyzing, searching, and aggregating data, 2nd edition. BPB Publications, 10/2023. 392 pp.
+- Rafał Kuć, Marek Rogoziński. Elasticsearch Server, 3rd edition. Packt Publishing, 2/2016. 556 pp.
+- Steve Hoberman, Rafid Reaz. Elasticsearch Data Modeling and Schema Design. Technics Publications, 8/2023. 196 pp.
+
 # Companies Working with Elasticsearch
 - [Sematext](https://sematext.com/)
 

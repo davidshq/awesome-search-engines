@@ -1,0 +1,2 @@
+- Paul Azunre. Transfer Learning for Natural Language Processing. Manning, 8/2021.
+- Hannes Hapke, Cole Howard, Hobson Lane. Natural Language Processing in Action: Understanding, Analyzing, and Generating Text in Python. Manning, 3/2019. 1114 pp.

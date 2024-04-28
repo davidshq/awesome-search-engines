@@ -1,0 +1,2 @@
+- David Bawden, Lyn Robinson. Introduction to Information Science, 2nd edition. Facet Publishing, 2/2022. 536 pp.
+- G. Edward Evans, Stacey Greenwell. Management Basics for Information Professionals, 4th edition. ALA Neal-Schuman, 1/2020. 352 pp.
