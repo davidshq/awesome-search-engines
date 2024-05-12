@@ -1,0 +1,6 @@
+- [Elastic UI Framework](https://github.com/elastic/eui) - Stars: 6k - Updated: 5/2024 - Checked: 5/2024.
+    - "...a collection of React UI components for quickly building user interfaces at Elastic."
+- [Elastic Search UI](https://github.com/elastic/search-ui) - Stars: 1.9k - Updated: 5/2024 - Checked: 5/2024.
+- "A React-based library for building search user interfaces."
+    - "A JavaScript library for the fast development of modern, engaging search experiences with Elastic."
+    - Note: This is not React specific and can be used with Elasticsearch "or any other search API."

@@ -33,6 +33,8 @@
 
 # Resources
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - Stars: 4.7k - Updated: 9/2022 - Checked: 10/2023
+- [codingexplaing/complete-guide-to-elasticsearch](https://github.com/codingexplained/complete-guide-to-elasticsearch) - Stars: 1.6k - Updated: 1/2024 - Checked: 5/2024
+    - "Contains all of the queries used within the Complete Guide to Elasticsearch course."
 
 ## Books
 - Anurag Srivastava. Elasticsearch 8 for Developers: A beginner's guide to indexing, analyzing, searching, and aggregating data, 2nd edition. BPB Publications, 10/2023. 392 pp.

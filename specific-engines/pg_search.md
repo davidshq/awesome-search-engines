@@ -1,0 +1,2 @@
+- Ming Ying. [pg_search: Elastic-Quality Full Text Search Inside Postgres](https://blog.paradedb.com/pages/introducing_search). ParadeDB, 10/2023.
+    - Introduces pg_search with a high-level overview.
