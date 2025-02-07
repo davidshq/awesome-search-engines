@@ -16,12 +16,12 @@
 - Maybe...?
 
 ## Comments
-- This page focuses on web crawlers/spiders as opposed to web scrapers. While there can be significant overlap between the two, our goal is to evaluate systems that are meant for web scale crawling.
+- This page focuses on web crawlers/spiders as opposed to web scrapers. While there can be significant overlap between the two, our goal is to evaluate systems that are meant for web scale crawling.f
 - This document focuses on general purpose web crawlers. There is a growing niche of crawlers created specifically for security purposes which are not covered here.
 - We focus primarily on projects which are being actively developed. Projects which are showing limited signs of life may not be included. If you feel we've passed over a project that should be included, please create an issue or pull request.
 
 ## General Resources
-- [Awesome Crawler](https://github.com/BruceDone/awesome-crawler) - Stars: 5.5k - Updated: 12/2022 - Checked: 4/2023.
+- [Awesome Crawler](https://github.com/BruceDone/awesome-crawler) - Stars: 5.5k - Updated: 12/2022 - Checked: 2/2025.
 
 ## Apache Nutch
 - https://nutch.apache.org/
@@ -82,6 +82,10 @@
 - [Crawlab](https://github.com/crawlab-team/crawlab) - Stars: 9.7k - Updated: 4/2023 - Checked: 4/2023.
     - A Go language, distributed web crawler admin platform that works with multiple languages and frameworks including Scrapy.
     - NOTE: Does not appear to have integrations with most web scale crawlers, e.g. Nutch or StormCrawler.
+- [ACHE](https://ache.readthedocs.io/en/latest/) - Stars: 461 - Updated: 2023 - Checked: 2/2025.
+    - "ACHE is a web crawler for domain-specific search."
+- [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - Stars: 702 - Updated: 2/2025 - Checked: 2/2025
+    - "Run a high-fidelity browser-based web archiving crawler in a single Docker container"
 
 ## Maybe...?
 - This section includes a few crawlers that are in development and show some promise.

@@ -1,0 +1,2 @@
+- [Dual Indexing Neo4j and Solr for a Unified Platform](https://neo4j.com/blog/dual-indexing-neo4j-and-solr-for-a-unified-platform/). neo4j, 3/2021.
+  - Written by Nathan Maynes who worked on implementing such a solution at Thomson Reuters.

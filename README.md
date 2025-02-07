@@ -108,11 +108,13 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 ### Meta Search
 * [MonsterCrawler](http://monstercrawler.com/)
 
-### Searx
+### Searx/ Searxng
 * [Trom.tf](https://search.trom.tf/) - Runs on Searx.
+* [Gruble](https://gruble.de/) - 515683 - Runs on Searxng.
 
 ### Indie
 * [SearchMySite](https://www.searchmysite.net/) - Indexes the indie web, open source.
+* [Plumbe.one](https://plumb.one/) - Copyright is 2021, not much information on the site.
 
 ## Bibliographical Resources
 
