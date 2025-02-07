@@ -1,2 +1,3 @@
+- [Solr Extension Directory](https://solr.cool/) - A directory of extensions available for Solr. - Checked: 2/2025.
 - [solr-compound-word-filter](https://github.com/redlink-gmbh/solr-compound-word-filter) - Stars: 3 - Updated: 5/2024 - Checked: 5/2024
 - Redlink version of `solr.HyphenationCompoundWordTokenFilterFactory` with fix for LUCENE-8183 and support for epenthesis parameter.

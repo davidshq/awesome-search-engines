@@ -1,0 +1,3 @@
+- Valentin Crettaz. [How to Set Up Vector Search in OpenSearch](https://opster.com/guides/opensearch/opensearch-machine-learning/how-to-set-up-vector-search-in-opensearch/). Opster, 10/2023.
+- Dylan Castillo. [Semantic Search with OpenSearch, Cohere, and FastAPI](https://dylancastillo.co/posts/semantic-search-with-opensearch-cohere-and-fastapi.html). 4/2023, updated: 7/2024.
+    - Seems useful but written for OpenSearch 2.6 so doesn't take advantage of some of the latest vector features in OpenSearch.
