@@ -84,6 +84,11 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 | :--- | :--- | :--- | :--- |
 | [CrowdView](https://crowdview.ai) | [\#289199](https://www.similarweb.com/website/crowdview.ai/#overview) | 03/2023 |
 
+### News
+| Search Engine | SimilarWeb Rank | Verified | Footnotes |
+| :--- | :--- | :--- | :--- |
+| [Albis](https://www.albis.news/?utm_source=awesome_search_engines&utm_medium=github&utm_campaign=public_catalog) | N/A | 06/2026 | Helps readers search/discover global news stories and compare coverage gaps or framing differences across sources. |
+
 ### Wikis
 - Wiki.com
 
