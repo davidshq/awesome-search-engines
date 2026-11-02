@@ -79,6 +79,11 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 | [grep.app](https://grep.app) | [\#235205](https://www.similarweb.com/website/grep.app/#overview) | 03/2023 |
 | [searchcode](https://searchcode.com/) | [\#462786](https://www.similarweb.com/website/searchcode.com/#overview) | 03/2023 |
 
+### Creator Platforms
+| Search Engine | SimilarWeb Rank | Verified | Footnotes |
+| :--- | :--- | :--- | :--- |
+| [HornyIndex](https://hornyindex.com/) | [n/a](https://www.similarweb.com/website/hornyindex.com/#overview) | 10/2026 | [^hornyindex] |
+
 ### Forums
 | Search Engine | SimilarWeb Rank | Verified | Footnotes |
 | :--- | :--- | :--- | :--- |
@@ -178,6 +183,8 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 [^andi]: Techcrunch has a [nice writeup on Andi](https://techcrunch.com/2022/09/13/y-combinator-backed-andi-taps-ai-to-built-a-better-search-engine/).
 
 [^phind]: Formerly sayhello.
+
+[^hornyindex]: Searches creators on OnlyFans, Fansly and other subscription platforms rather than web pages. Indexes public profiles and filters by look, niche, price and location; supports natural-language queries and reverse image search.
 
 [^mwmbl]: Open source, free, non-profit.
 
