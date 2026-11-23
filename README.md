@@ -115,6 +115,7 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 ### Indie
 * [SearchMySite](https://www.searchmysite.net/) - Indexes the indie web, open source.
 * [Plumbe.one](https://plumb.one/) - Copyright is 2021, not much information on the site.
+* [Jase](https://jaseengine.it/) (Italy) - Own crawler and index, focused on the Italian web.
 
 ## Bibliographical Resources
 
